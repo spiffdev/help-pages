@@ -1,8 +1,9 @@
 ---
-title: Page
+title: Fonts
 visible: true
 ---
 
-## Test
+## Fonts
 
-text sample text sample text sample text sample text sample text sample ![](Screen%20Shot%202020-04-30%20at%207.24.04%20pm.png)
+This is the page that explains how to upload fonts to the spiff system 
+[](Screen%20Shot%202020-04-30%20at%207.24.04%20pm.png)
