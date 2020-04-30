@@ -1,8 +1,8 @@
 ---
-title: 'Page 2'
+title: Frames
 visible: true
 ---
 
-## Test
+## Frames
 
-text sample text sample text sample text sample text sample text sample 
+>Elisha is Gay
