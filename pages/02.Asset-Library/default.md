@@ -2,7 +2,7 @@
 title: Assets
 ---
 
-Spiff provides its Merchants with a Digital Asset Mangement Repository. This repository is used to store all assets required to execute a personalization  
+>>>Spiff provides its Merchants with a Digital Asset Mangement Repository. This repository is used to store all assets required to execute a personalization  
 or customization workflow for the merchants customers.
 
 Assets types available for storage on spiff are: 
