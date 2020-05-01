@@ -2,7 +2,7 @@
 title: Assets
 ---
 
-* Fonts
+* [Fonts](http://help.spiff.com.au/asset-library/page)
 * Frames
 * Illustrations
 * 
