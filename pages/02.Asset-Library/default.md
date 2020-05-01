@@ -14,5 +14,4 @@ Assets types available for storage on spiff are:
 - [Patchworks](http://help.spiff.com.au/asset-library/patchworks)  
 text sample text sample text sample text sample text sample text sample 
 
-
-> alert("hello world");
+[![Alt text](![](Screen%20Shot%202020-05-02%20at%209.26.11%20am.png)(https://www.youtube.com/watch?v=sGOFG057W2M&t=1s)
