@@ -11,7 +11,7 @@ Assets types available for storage on spiff are:
 * [Illustrations](http://help.spiff.com.au/asset-library/page)
 * [Images](http://help.spiff.com.au/asset-library/page)
 * [3D Models](http://help.spiff.com.au/asset-library/page)
-* [Patchworks](http://help.spiff.com.au/asset-library/page)
+* [Patchworks](http://help.spiff.com.au/asset-library/page)  
 text sample text sample text sample text sample text sample text sample 
 
 
