@@ -15,3 +15,4 @@ Workflows are made up of configurable steps to provide the merchant with as much
 - Silent Step
 - Product Overlay 
 
+![](Screen%20Shot%202020-05-03%20at%2011.04.18%20pm.png)
