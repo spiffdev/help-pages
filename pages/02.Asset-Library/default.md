@@ -2,8 +2,8 @@
 title: Assets
 ---
 
->>>>Spiff provides its Merchants with a Digital Asset Mangement Repository. This repository is used to store all assets required to execute a personalization  
-or customization workflow for the merchants customers.
+Spiff provides its Merchants with a Digital Asset Mangement Repository. This repository is used to store all assets required to execute a personalization  
+or customization workflow for the merchants customers. 
 
 Assets types available for storage on spiff are: 
 - [Fonts](http://help.spiff.com.au/asset-library/fonts)
@@ -12,6 +12,13 @@ Assets types available for storage on spiff are:
 - [Images](http://help.spiff.com.au/asset-library/images)
 - [3D Models](http://help.spiff.com.au/asset-library/3d-models)
 - [Patchworks](http://help.spiff.com.au/asset-library/patchworks)  
-text sample text sample text sample text sample text sample text sample 
 
-[![Alt text](![](Screen%20Shot%202020-05-02%20at%209.26.11%20am.png)(https://www.youtube.com/watch?v=sGOFG057W2M&t=1s)
+Assets are located in the spiff hub from within your ecommerce store. Click on the assets button in the left hand Navigation bar and you be presented with the Repository. The default page is the fonts page. 
+
+
+
+
+
+
+
+>>>> You must click on the relevant Asset type before you click the create asset button. The create asset button will only allow you to upload file types of the relevant asset type,. 
