@@ -20,9 +20,9 @@ Next, you are presented with the standard pre-install page from Shopify which ma
 
 Having succesfully installed, you will be automatically directed through the spiff create your first product onboarding. 
 The primary goal of this process is to have you: 
-- Select products they are interested in offering for Personalisation/Customisation
-- Create a workflow - Steps they want to offer the user. This is the customer journey
-- Order content they require to execute this experience or link to existing public assets
+- Select a product from your store that you want to Personalize/Customize
+- Create a workflow - Configurable steps that build the customer journey
+- Order content required to execute this experience or link to existing public asset.
 - Render Personalise Now Button 
 - Choose a Plan (You can start on the teaser with free trial) 
 - Test - Display a 3D product with steps using spiff in your store
