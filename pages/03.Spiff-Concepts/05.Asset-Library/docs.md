@@ -9,7 +9,7 @@ or customization workflow for the merchants customers.
 Assets types available for storage on spiff are: 
 - [Fonts](#fonts)
 - [Frames](#frames)
-- [Illustrations](#illustrations)
+- [Illustrations](#/illustrations)
 - [Images](#images)
 - [3D Models](#3d-models)
 - [Patchworks](#patchworks)  
@@ -18,7 +18,7 @@ Assets are located in the spiff hub from within your ecommerce store. Click on t
 ![](Screen%20Shot%202020-05-03%20at%2010.19.54%20pm.png)
 >>>> You must click on the relevant Asset type before you click the create asset button. The create asset button will only allow you to upload file types of the relevant asset type.
 
-<a name="Illustrations"></a>### Illustrations
+<a name="/Illustrations"></a>### Illustrations
 
 Illustrations are vector art usually drawn in illustrator or a program like it. The spiff editor accepts illustrations in the form of SVG (scaleable vector graphic). 
 Example SVGS
