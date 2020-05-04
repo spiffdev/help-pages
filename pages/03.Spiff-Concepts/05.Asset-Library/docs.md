@@ -24,11 +24,11 @@ Illustrations are vector art usually drawn in illustrator or a program like it. 
 Example SVGS
 
 <p float="left">
-  <img src="http://help.spiff.com.au/user/pages/03.Spiff-Concepts/05.Asset-Library/ladybug.svg" width="100" />
-  <img src="http://help.spiff.com.au/user/pages/03.Spiff-Concepts/05.Asset-Library/bee%201.svg" width="100" /> 
-  <img src="http://help.spiff.com.au/user/pages/03.Spiff-Concepts/05.Asset-Library/dragon%20fly.svg" width="100" />
-   <img src="http://help.spiff.com.au/user/pages/03.Spiff-Concepts/05.Asset-Library/firework%208.svg" width="100" /> 
-  <img src="http://help.spiff.com.au/user/pages/03.Spiff-Concepts/05.Asset-Library/Happy%20Birthday%208.svg" width="100" />
+  <img src="http://help.spiff.com.au/user/pages/03.Spiff-Concepts/05.Asset-Library/ladybug.svg" width="150" />
+  <img src="http://help.spiff.com.au/user/pages/03.Spiff-Concepts/05.Asset-Library/bee%201.svg" width="150" /> 
+  <img src="http://help.spiff.com.au/user/pages/03.Spiff-Concepts/05.Asset-Library/dragon%20fly.svg" width="150" />
+   <img src="http://help.spiff.com.au/user/pages/03.Spiff-Concepts/05.Asset-Library/firework%208.svg" width="150" /> 
+  <img src="http://help.spiff.com.au/user/pages/03.Spiff-Concepts/05.Asset-Library/Happy%20Birthday%208.svg" width="150" />
 </p>
 
 ![](ladybug.svg)![](bee%201.svg)![](dragon%20fly.svg)![](firework%208.svg)![](Happy%20Birthday%208.svg)
