@@ -1,5 +1,5 @@
 ---
-title: tShopify
+title: Shopify
 media_order: 'Screen Shot 2020-04-29 at 5.47.30 am.png,Screen Shot 2020-04-29 at 6.09.24 am.png,Screen Shot 2020-04-29 at 6.22.55 am.png,Screen Shot 2020-05-05 at 6.32.01 am.png,Screen Shot 2020-05-05 at 6.32.58 am.png'
 ---
 
