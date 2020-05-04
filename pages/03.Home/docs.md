@@ -1,5 +1,5 @@
 ---
-title: 'Welcome to Spiff'
+title: 'Welcome to Spiff Help Centre'
 ---
 
 Spiff is a cloud based business tool used by retailers and eccommerce merchants to drive incremental sales through the delivery and managment of an inline personalized or customized experience.  Spiff delivers automation and interaction in all aspects of the user journey from user orders right through to fulfilment. 
