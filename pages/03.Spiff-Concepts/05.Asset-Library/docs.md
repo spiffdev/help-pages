@@ -18,7 +18,7 @@ Assets are located in the spiff hub from within your ecommerce store. Click on t
 ![](Screen%20Shot%202020-05-03%20at%2010.19.54%20pm.png)
 >>>> You must click on the relevant Asset type before you click the create asset button. The create asset button will only allow you to upload file types of the relevant asset type.
 
-<a name="/Illustrations"></a>### Illustrations
+### <a name="installation"></a>Installation
 
 Illustrations are vector art usually drawn in illustrator or a program like it. The spiff editor accepts illustrations in the form of SVG (scaleable vector graphic). 
 Example SVGS
