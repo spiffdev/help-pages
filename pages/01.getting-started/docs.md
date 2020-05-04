@@ -9,25 +9,12 @@ In simpler terms, merchants use spiff to offer customization of their products.
 _Spiff Mantra - simulating the instore experience _
 
 Spiff Hub
-Merchants configure design experiences through the **SPIFF HUB**. Access to the spiff is provided upon [link text](#installation) of the plugin onto your ecommerce store. 
+Merchants configure design experiences through the **SPIFF HUB**. Access to the spiff is provided upon [installation](#installation) of the plugin onto your ecommerce store. 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-<a name="Installation"></a>Installation
 
 
 
@@ -110,3 +97,4 @@ Select the product of choice and you will see the next button change from grey t
 
 On the left is a task bar that walks the merchant through their onboarding progress. There is a Help me and Skip to Consult button at the bottom of this task bar. 
 
+<a name="installation"></a>Installation
