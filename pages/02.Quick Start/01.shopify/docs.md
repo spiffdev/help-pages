@@ -1,5 +1,5 @@
 ---
-title: Shopify
+title: tShopify
 media_order: 'Screen Shot 2020-04-29 at 5.47.30 am.png,Screen Shot 2020-04-29 at 6.09.24 am.png,Screen Shot 2020-04-29 at 6.22.55 am.png,Screen Shot 2020-05-05 at 6.32.01 am.png,Screen Shot 2020-05-05 at 6.32.58 am.png'
 ---
 
@@ -27,19 +27,14 @@ The primary goal of this process is to have you:
 - Choose a Plan (You can start on the teaser with free trial) 
 - Test - Display a 3D product with steps using spiff in your store
 
-Render the Personalise Now Button 
+### Render the Personalise Now Button 
 ![](Screen%20Shot%202020-05-05%20at%206.32.01%20am.png?lightbox=1200,600&resize=600,400)![](Screen%20Shot%202020-05-05%20at%206.32.58%20am.png?lightbox=1200,800&resize=600,400)
 
+In the 2 examples above you can see that the **spiff button can either augment or replace the add-to-cart button**.
 
-Install the snippet and render the button
-via a Install the Spiff Snippet in their Liquid Templates or book a spiff consult so we can have spiff internally complete the install. To do this spiff must request access to the store  
+>> the way that spiff opens in your site is customisable but would require a developer with shopify liquid templates experience to interact with our api 
 
-
-
->>> the way that spiff opens in your site is customisable but would require a developer with shopify liquid templates experience to interact with our api 
-
-#### Personalise Now Button
-The Personalise now button renders on the product page and is customisable via the [install snippet](http://help.spiff.com.au/#installation) that is inserted into your store. It is rendered whereever your theme renders the 'Add to Cart' button
+It renders on the product page and is customisable via the [install snippet](http://help.spiff.com.au/#installation) that is inserted into your store.
 
 Customizable Attributtes of the Personalize Now Button (Edited in your Liquid Templates)
 
@@ -48,5 +43,19 @@ Customizable Attributtes of the Personalize Now Button (Edited in your Liquid Te
 - Button Text
 - Choose to appear with or instead of the Add to Cart button.
 
-Here is an example 
+In your liquid templates, Find the line that creates the product form, which will look like this:
+
+{% form 'product' ... %}
+
+Below that line, add this:
+
+{% render 'spiff-button', product_handle: product.handle %}
+
+If you wish to customise the look of the button, you can supply arguments for text and colour.
+
+{% render 'spiff-button', product_handle: product.handle, label_text: 'Customise me!', label_colour: '#000000', background_colour: '#FFFFFF' %}
+
+Once you have installed the snippet, created a workflow and linked a 3D model, your product should display in the live store. 
+
+Onboarding complete!
 
