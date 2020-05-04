@@ -4,13 +4,21 @@ title: 'Introduction to Spiff'
 
 Spiff is a cloud based business tool used by retailers and eccommerce merchants to drive incremental sales through the delivery and managment of an inline personalized or customized experience.  Spiff delivers automation and interaction in all aspects of the user journey from user orders right through to fulfilment. 
 
-In simpler terms, merchants use spiff to offer customization of their products. 
+In simpler terms, **merchants use spiff to offer customization of their products**. 
 
 _Spiff Mantra - simulating the instore experience _
 
-Spiff Hub
-Merchants configure design experiences through the **SPIFF HUB**. Access to the spiff is provided upon [installation](#installation) of the plugin onto your ecommerce store. 
+### Spiff Hub
+Merchants configure design experiences through the **SPIFF HUB**. Access to the spiff hub is provided upon [installation](#installation) of the plugin onto your ecommerce store.  
 
+From spiff hub a merchant can: 
+- Link to existing products in their store that they want to offer customization on
+- Builds [workflows](http://help.spiff.com.au/#installation) - configurable design steps displayed in the customer facing Spiff 3D product customizer
+- Uploads 3D models - used 
+- Request Assets to be created e.g. 3D models, fonts, illustrations etc
+- Create Options with Variants 
+- Set custom pricing
+- Save Assets (fonts, frames, illustrations, images, 3D models, patchworks) 
 
 
 
