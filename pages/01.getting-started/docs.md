@@ -1,8 +1,56 @@
 ---
-title: 'Getting Started'
+title: 'Introduction to Spiff'
 ---
 
-Overview of Spiff and Shopify 
+Spiff is a cloud based business tool used by retailers and eccommerce merchants to drive incremental sales through the delivery and managment of an inline personalized or customized experience.  Spiff delivers automation and interaction in all aspects of the user journey from user orders right through to fulfilment. 
+
+In simpler terms, merchants use spiff to offer customization of their products. 
+
+_Spiff Mantra - simulating the instore experience _
+
+Spiff Hub
+Merchants configure design experiences through the **SPIFF HUB**. Access to the spiff is provided upon [link text](#installation) of the plugin onto your ecommerce store. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a name="Installation"></a>Installation
+
+
+
+
+
+
+
+
+### Consumer side 
+
+##### Spiff 3D Product Customizer
+A plugin to a merchants online store. Our experience out of the box is delivered via an iframe. Spiff is opaque to the merchants consumers. We do not redirect to a new page. A consumer never leaves the merchants store. 
+
+The iframe loads when the spiff plugin is called, usually via a PERSONALIZE NOW button that is rendered on the merchants products page. 
+
+
+
+
+
+Merchant exectution and management 
+SPiff HUB - 
+
+
 Merchants will find spiff in the Shopify app store via one of the many Sales Channels that funnel through to the Spiff Plugin
 
 
