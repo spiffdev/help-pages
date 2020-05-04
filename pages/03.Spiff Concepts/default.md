@@ -18,14 +18,12 @@ Spiff is opaque to the merchants consumers. We do not redirect to a new page. A 
 
 The iframe loads when the spiff plugin is called, usually via a PERSONALIZE NOW button that is rendered on the merchants products page. 
 
->>> the way that spiff opens in your site is customisable but would require a developer with shopify liquid templates experience to interact with our api 
+The way in which this button is inserted into your store theme differs between ecommerce platforms. Here are the links for our platforms we have Integrated with:
 
-#### Personalise Now Button
-The Personalise now button renders on the product page and is customisable via the [install snippet](http://help.spiff.com.au/#installation) that is inserted into your store. It is rendered whereever your theme renders the 'Add to Cart' button
+Shopify Personalise Now Button Customization 
+Wordpress Personalise Now Button Customisation
 
-Customizable Attributtes of the Personalize Now Button (Edited in your Liquid Templates)
-
-Position: 
+Outside of these two platforms a developer is required to interact with our API's for integration. In this case, the way in which spiff is called is completely customizable by the merchant. 
 
 
 
