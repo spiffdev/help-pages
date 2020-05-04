@@ -28,7 +28,7 @@ The primary goal of this process is to have you:
 - Test - Display a 3D product with steps using spiff in your store
 
 Render the Personalise Now Button 
-![](Screen%20Shot%202020-05-05%20at%206.32.01%20am.png)![](Screen%20Shot%202020-05-05%20at%206.32.58%20am.png)
+![](Screen%20Shot%202020-05-05%20at%206.32.01%20am.pnglightbox=600,400&resize=200,200)![](Screen%20Shot%202020-05-05%20at%206.32.58%20am.png)
 
 
 Install the snippet and render the button
