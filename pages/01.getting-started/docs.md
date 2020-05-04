@@ -13,7 +13,7 @@ Merchants configure design experiences through the **SPIFF HUB**. Access to the 
 
 From spiff hub a merchant can: 
 - Link to existing products in their store that they want to offer customization on
-- Builds [workflows](http://help.spiff.com.au/#installation) - configurable design steps displayed in the customer facing Spiff 3D product customizer
+- Builds [workflows](http://help.spiff.com.au/#workflows) - configurable design steps displayed in the customer facing Spiff 3D product customizer
 - Uploads 3D models - used 
 - Request Assets to be created e.g. 3D models, fonts, illustrations etc
 - Create Options with Variants 
@@ -105,4 +105,4 @@ Select the product of choice and you will see the next button change from grey t
 
 On the left is a task bar that walks the merchant through their onboarding progress. There is a Help me and Skip to Consult button at the bottom of this task bar. 
 
-### <a name="installation"></a>Installation
+
