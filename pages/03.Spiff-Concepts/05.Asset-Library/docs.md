@@ -21,12 +21,11 @@ Assets are located in the spiff hub from within your ecommerce store. Click on t
 ### Illustrations
 
 Illustrations are vector art usually drawn in illustrator or a program like it. The spiff editor accepts illustrations in the form of SVG (scaleable vector graphic). 
-![](bee%201.svg)
 Example SVGS
 <p float="left">
-  <img src="[](ladybug.svg)" width="100" />
-  <img src="[](bee%201.svg)" width="100" /> 
-  <img src="[](dragon%20fly.svg)" width="100" />
+  <img src="http://help.spiff.com.au/user/pages/03.Spiff-Concepts/05.Asset-Library/ladybug.svg" width="100" />
+  <img src="http://help.spiff.com.au/user/pages/03.Spiff-Concepts/05.Asset-Library/bee%201.svg" width="100" /> 
+  <img src="http://help.spiff.com.au/user/pages/03.Spiff-Concepts/05.Asset-Library/dragon%20fly.svg" width="100" />
 </p>
 ![](ladybug.svg)![](bee%201.svg)![](dragon%20fly.svg)![](firework%208.svg)![](Happy%20Birthday%208.svg)
 The advantage of using SVG’s in our editor is that colours that exist within the SVG are easily modified using the spiff UI. The other obvious advantage is that for the purposes of print, SVG’s can be scaled to any size without loosing print quality.
