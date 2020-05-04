@@ -97,4 +97,4 @@ Select the product of choice and you will see the next button change from grey t
 
 On the left is a task bar that walks the merchant through their onboarding progress. There is a Help me and Skip to Consult button at the bottom of this task bar. 
 
-<a name="installation"></a>Installation
+### <a name="installation"></a>Installation
