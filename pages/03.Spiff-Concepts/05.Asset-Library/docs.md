@@ -9,7 +9,7 @@ or customization workflow for the merchants customers.
 Assets types available for storage on spiff are: 
 - [Fonts](#fonts)
 - [Frames](#frames)
-- [Illustrations](/#illustrations)
+- [Illustrations](#illustrations)
 - [Images](#images)
 - [3D Models](#3d-models)
 - [Patchworks](#patchworks)  
