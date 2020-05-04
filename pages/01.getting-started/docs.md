@@ -9,7 +9,7 @@ In simpler terms, **merchants use spiff to offer customization of their products
 _Spiff Mantra - simulating the instore experience _
 
 ### Spiff Hub
-Merchants configure design experiences through the **SPIFF HUB**. Access to the spiff hub is provided upon [installation](#installation) of the plugin onto your ecommerce store.  
+Merchants configure design experiences through the **SPIFF HUB**. Access to the spiff hub is provided upon installation of the plugin onto your ecommerce store.  
 
 From spiff hub a merchant can: 
 - Link to existing products in their store that they want to offer customization on
