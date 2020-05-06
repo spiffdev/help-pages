@@ -18,4 +18,3 @@ Assets are located in the spiff hub from within your ecommerce store. Log in to 
 Click on the assets button in the left hand Navigation bar and you be presented with the Repository. The default page is the fonts page.
 ![](Screen%20Shot%202020-05-03%20at%2010.19.54%20pm.png)
 >>>> You must click on the relevant Asset type before you click the create asset button. The create asset button will only allow you to upload file types of the relevant asset type.
-
