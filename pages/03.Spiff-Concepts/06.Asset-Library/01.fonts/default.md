@@ -30,6 +30,6 @@ Other controls the merchant can configure into the workflow are:
 - Profanity filter - Spiff Moderation 
 - Case sensitivity - Set all text the user types to appear in Uppercase, Lowercase or Titlecase
 - Vertical text - This allows text to print vertically from top to bottom 
-- Rotate text - Rotate 
+- Rotate text - Rotate text to appear on any angle within a set region
 
 Fonts are also vectors like SVG’s and so can be re-sized to any size necessary size without compromising print quality. 
