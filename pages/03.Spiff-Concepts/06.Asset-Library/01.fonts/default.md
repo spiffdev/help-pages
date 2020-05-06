@@ -14,7 +14,7 @@ They will then appear as they do in the image above. You will see an automatical
 
 #### Attributes
 The merchant can set a default font for a text step. In this case the merchant dictates that the consumer must use the font provided and no list options are shown to the user. The user is just presented with a Text field with a (configurable) color picker. This is displayed in the left hand imnage below 
-|![](210f25906042709d16dac1510e0cc1d459d5ec8d-screen-shot-2020-03-25-at-45021-pm.png)|![](210f25906042709d16dac1510e0cc1d459d5ec8d-screen-shot-2020-03-25-at-45021-pm.png)|
+![](210f25906042709d16dac1510e0cc1d459d5ec8d-screen-shot-2020-03-25-at-45021-pm.png)![](210f25906042709d16dac1510e0cc1d459d5ec8d-screen-shot-2020-03-25-at-45021-pm.png)
 
 You can also create an option with a list of font variants which will display like the right hand above image. 
 
