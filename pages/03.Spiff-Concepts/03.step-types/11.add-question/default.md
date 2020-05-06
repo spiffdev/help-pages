@@ -1,4 +1,4 @@
 ---
-title: 'Add Question'
+title: Question
 ---
 
