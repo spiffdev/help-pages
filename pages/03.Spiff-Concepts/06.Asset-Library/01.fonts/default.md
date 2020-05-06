@@ -9,7 +9,7 @@ The spiff editor accepts True Type (.ttf) fonts. They are uploaded to the spiff 
 
 Click on the assets folder and select the fonts tab
 Then click the create asset button and upload your fonts
-![](b74900c2e141b444c8678991bc3ea4bdb467c42c-screen-shot-2020-05-03-at-101954-pm.png = 600x)
+![](b74900c2e141b444c8678991bc3ea4bdb467c42c-screen-shot-2020-05-03-at-101954-pm.png?cropResize=600,400)
 They will then appear as they do in the image above. You will see an automatically generated preview of this font. If the preview image is broken, there may be a corruption with that font so it is best to delete it and try again. If the problem persists and you need that particular font please email spiff support using the live chat button on the right side of the screen.   
 
 #### Attributes
