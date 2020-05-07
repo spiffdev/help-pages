@@ -3,9 +3,10 @@ title: 'Add Text'
 media_order: 'Screen Shot 2020-05-08 at 6.46.15 am.png,Screen Shot 2020-05-08 at 6.47.41 am.png'
 ---
 
+### Adding Text Step
 This step type allows you to set defined areas (regions) on your product that you would like them to be able to personalize. One of the most common step types used on the spiff platform, 'Add Text' allows you set a number of configurations which give you the ability to completely control the experience you have always wanted to deliver. 
 
-Configurations
+##### Configurations
  - Size
  - Color selection On/Off
  - Set Max Width (meaning text resizes to fit within that width
@@ -18,7 +19,7 @@ Configurations
 Take a look at some examples of the finished product
 |![](Screen%20Shot%202020-05-08%20at%206.47.41%20am.png)|![](Screen%20Shot%202020-05-08%20at%206.46.15%20am.png)
 
-How to use the add text step type. 
+##### How to use the add text step type. 
 
 - First add the step type 
 - Then fill out the Step Name and Help Text 
