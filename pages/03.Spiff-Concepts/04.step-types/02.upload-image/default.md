@@ -11,7 +11,7 @@ This can therefore be anyshape you please, Even broken up as the examples below 
 Users can zoom in and out as well as re-position to set the image in the exact spot. 
 This is then cropped into the pdf and supplied to you the merchant upon order so no set up is required. 
 
-How to use the Upload image step type. 
+##### How to use the Upload image step type. 
 
 - First add the step type 
 - Then fill out the Step Name and Help Text 
