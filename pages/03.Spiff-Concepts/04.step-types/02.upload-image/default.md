@@ -11,4 +11,11 @@ This can therefore be anyshape you please, Even broken up as the examples below 
 Users can zoom in and out as well as re-position to set the image in the exact spot. 
 This is then cropped into the pdf and supplied to you the merchant upon order so no set up is required. 
 
-How to Add an Upload Step
+How to use the Upload image step type. 
+
+- First add the step type 
+- Then fill out the Step Name and Help Text 
+- Then if you would like to offer the user multiple frame shapes to choose from, either select and option from the drop down (see options help for how to create an option) , Start adding variants to create a new option or set a default frame if you dont want to offer the user choice. 
+- Then set your Attributes. Its simple 
+- Dont forget to save the workflow when you are finished 
+
