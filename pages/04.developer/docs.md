@@ -25,6 +25,9 @@ window.Spiff.openWorkflow(workflowOptions, (workflowResult) => {
     console.log(workflowResult.transactionId); // The spiff transactionId. This needs to be placed in the metadata of the order
     console.log(workflowResult.designProductId); // Only set if shouldCreateDesignProduct is set to true
     console.log(workflowResult.complete); // Did the user quit early
+	console.log(workflowResult.baseCost); // The base cost of the customised item
+    console.log(workflowResult.previewImage); // The preview image of the design
+    console.log(workflowResult.designId); // The saved design ID that the user just created. This can be used in conjunction with window.Spiff.replayDesign
 });
 
 
