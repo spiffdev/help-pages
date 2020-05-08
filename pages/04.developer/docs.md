@@ -4,8 +4,6 @@ title: Developer
 
 Opening a workflow within Spiff
 
-
-
 ```javascript
 
 const workflowOptions = {
