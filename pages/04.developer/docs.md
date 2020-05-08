@@ -16,7 +16,7 @@ System.out.println("hello world");
 print "hello world";
 ```
 
-```typescript
+```ts
 const hello: string = "hello world";
 console.log(hello);
 ```
