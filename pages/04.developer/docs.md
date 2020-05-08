@@ -21,8 +21,9 @@ const workflowOptions = {
 };
 
 window.Spiff.openWorkflow(workflowOptions, (workflowResult) => {
-    console.log(workflowResult.metaData);
-    console.log(workflowResult.transactionId);
-    console.log(workflowResult.designProductId);
+    console.log(workflowResult.designMetaData); //All of the selected options that the user has chosen during the customisation
+    console.log(workflowResult.transactionId); // The spiff transactionId. This needs to be placed in the metadata of the order
+    console.log(workflowResult.designProductId); // Only set if shouldCreateDesignProduct is set to true
+    console.log(workflowResult.complete); // Did the user quit early
 });
 ```
