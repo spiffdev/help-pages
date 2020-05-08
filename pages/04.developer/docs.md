@@ -14,5 +14,5 @@ const workflowOptions = {
 
 window.Spiff.openWorkflow(workflowOptions, (workflowResult) => {
     console.log(workflowResult.metaData);
-})
+});
 ```
