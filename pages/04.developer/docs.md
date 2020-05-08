@@ -17,7 +17,8 @@ const workflowOptions = {
 	presentmentCurrency: "USD",
     integrationId: "1234",
     productId: "1234",
-    shouldCreateDesignProduct: true
+    shouldCreateDesignProduct: true,
+    embedElement: HTMLDOMElement // Optional: If not provided spiff will popup a frame on top of everything else.
 };
 
 window.Spiff.openWorkflow(workflowOptions, (workflowResult) => {
