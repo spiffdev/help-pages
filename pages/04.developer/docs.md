@@ -26,4 +26,19 @@ window.Spiff.openWorkflow(workflowOptions, (workflowResult) => {
     console.log(workflowResult.designProductId); // Only set if shouldCreateDesignProduct is set to true
     console.log(workflowResult.complete); // Did the user quit early
 });
+
+
+//design meta data
+{
+    selectedOptions: {
+    	questionStep: {
+        	variantName: "blue",
+            cost: 1000 // in subunits
+        }
+    },
+    metaData: {
+    	illustrationStep: "https://assets.spiff.com.au/images/something.svg"
+    }
+}
+
 ```
