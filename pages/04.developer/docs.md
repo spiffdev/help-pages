@@ -13,7 +13,7 @@ Opening a workflow within Spiff. This will create an iframe on the page which wi
 ### Example Usage
 
 ```javascript
-const workflowOptions = {
+const transactionOptions = {
 	presentmentCurrency: "USD",
     integrationId: "1234",
     productId: "1234",
@@ -21,16 +21,27 @@ const workflowOptions = {
     embedElement: HTMLDOMElement // Optional: If not provided spiff will popup a frame on top of everything else.
 };
 
-window.Spiff.openWorkflow(workflowOptions, (workflowResult) => {
-    console.log(workflowResult.designMetaData); //All of the selected options that the user has chosen during the customisation
-    console.log(workflowResult.transactionId); // The spiff transactionId. This needs to be placed in the metadata of the order
-    console.log(workflowResult.designProductId); // Only set if shouldCreateDesignProduct is set to true
-    console.log(workflowResult.complete); // Did the user quit early
-	console.log(workflowResult.baseCost); // The base cost of the customised item
-    console.log(workflowResult.previewImage); // The preview image of the design
-    console.log(workflowResult.designId); // The saved design ID that the user just created. This can be used in conjunction with window.Spiff.replayDesign
+
+const transaction = new window.Spiff.Transaction(transactionOptions);
+
+// called when the user has completed their transaction
+transaction.on('complete', (result) => {
+    console.log(result.designMetaData); //All of the selected options that the user has chosen during the customisation
+    console.log(result.transactionId); // The spiff transactionId. This needs to be placed in the metadata of the order
+    console.log(result.designProductId); // Only set if shouldCreateDesignProduct is set to true
+    console.log(result.complete); // Did the user quit early
+	console.log(result.baseCost); // The base cost of the customised item
+    console.log(result.previewImage); // The preview image of the design
+    console.log(result.designId); // The saved design ID that the user just created. This can be used in conjunction with window.Spiff.replayDesign
 });
 
+// Called if the user quit early
+transaction.on('quit', () => {
+	console.log("The user exited before completing their design");
+});
+
+// Start the whole process
+transaction.execute();
 
 //design meta data
 {
