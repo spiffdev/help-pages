@@ -9,7 +9,7 @@ Opening a workflow within Spiff
 const workflowOptions = {
 	presentmentCurrency: "USD",
     integrationId: "1234",
-    productId: "1234,
+    productId: "1234",
 };
 
 window.Spiff.openWorkflow(workflowOptions, (workflowResult) => {
