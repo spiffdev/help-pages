@@ -45,7 +45,9 @@ Customizable Attributtes of the Personalize Now Button (Edited in your Liquid Te
 
 In your liquid templates, Find the line that creates the product form, which will look like this:
 
+```
 {% form 'product' ... %}
+```
 
 Below that line, add this:
 
