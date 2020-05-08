@@ -17,9 +17,12 @@ const workflowOptions = {
 	presentmentCurrency: "USD",
     integrationId: "1234",
     productId: "1234",
+    shouldCreateDesignProduct: true
 };
 
 window.Spiff.openWorkflow(workflowOptions, (workflowResult) => {
     console.log(workflowResult.metaData);
+    console.log(workflowResult.transactionId);
+    console.log(workflowResult.designProductId);
 });
 ```
