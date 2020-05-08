@@ -15,8 +15,3 @@ System.out.println("hello world");
 ```php
 print "hello world";
 ```
-
-```ts
-const hello: string = "hello world";
-console.log(hello);
-```
