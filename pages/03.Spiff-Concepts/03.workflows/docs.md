@@ -5,7 +5,7 @@ media_order: 'Screen Shot 2020-04-09 at 7.36.48 am.png,Screen Shot 2020-04-09 at
 
 **Workflows are configurable steps that you build in spiff create interactive design experiences. Its what your consumers see as choices when they customise your products using spiff.**  
 
-**Example: Personalised Greeting Cards - First you would name to upload an image
+**Example: Personalised Greeting Cards - Create a new workflow, Add an Image upload step, Add your text steps and set the relevant attributes options within the step configuration**
 
 One of the most important concepts to understand before proceeding with the spiff platform. 
 
