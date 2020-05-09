@@ -3,7 +3,7 @@ title: Workflows
 media_order: 'Screen Shot 2020-04-09 at 7.36.48 am.png,Screen Shot 2020-04-09 at 10.31.38 am.png'
 ---
 
-Configurable Steps that create interactive design experiences
+**Workflows are configurable steps that create interactive design experiences. Its what your consumers see as choices when they customise your products using spiff. **
 
 One of the most important concepts to understand before proceeding with the spiff platform. 
 
