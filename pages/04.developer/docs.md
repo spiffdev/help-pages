@@ -6,9 +6,17 @@ title: Developer
 
 In order to open spiff workflows and allow your customers to customise their own versions of your products you must first interact with the Spiff Javascript API. The Spiff javascript API becomes avaiable to the pages of any shopfront that has the Spiff application installed. If you have not yet done this pelase [install one of our integrations](/quick-start).
 
-## Spiff.openWorkflow()
+## Spiff.Transaction
 
-Opening a workflow within Spiff. This will create an iframe on the page which will be styled as a modal. At this point the user will proceed though the spiff workflow. When the user is done or they exit out we will call the provided callback with all data collected during the workflow session.
+When ordering product on spiff a client needs to first create a transaction. A transaction represents all of the the customer's personalisation data for a given item in a given order order. Once created the transaction is saved in the spiff platform and ready for order. If your using the Spiff shopify application this ordering process happens by attaching the spiff transactionId to a line item. Spiff will then listen for orders with spiff transaction Id's and route the order to the approate store / location. The Spiff platfrom also has solutions for many advanced [routing options](/spiff-concepts/routing).
+
+Creating the transaction is as simple as calling new on the Spiff transaction prototype. Once created there are two callback methods avaiable.
+
+| Callback Name | Description |
+| --- | --- |
+| complete | Called when the user has completed the transaction. | 
+| quit | Called when the user has stopped the customisation process. Note that in this case no transactionId will be issued. | 
+
 
 ### Example Usage
 
