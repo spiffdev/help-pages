@@ -10,15 +10,9 @@ In order to open spiff workflows and allow your customers to customise their own
 
 When ordering product on spiff a client needs to first create a transaction. A transaction represents all of the the customer's personalisation data for a given item in a given order order. Once created the transaction is saved in the spiff platform and ready for order. If your using the Spiff shopify application this ordering process happens by attaching the spiff transactionId to a line item. Spiff will then listen for orders with spiff transaction Id's and route the order to the approate store / location. The Spiff platfrom also has solutions for many advanced [routing options](/spiff-concepts/routing).
 
-Creating the transaction is as simple as calling new on the Spiff transaction prototype. Once created there are two callback methods avaiable.
+### Constructor Transaction(transactionOptions)
 
-| Callback | Description |
-| ------ | --- |
-| complete | Called when the user has completed the transaction. | 
-| quit | Called when the user has stopped the customisation process. Note that in this case no transactionId will be issued. | 
-
-
-### Example Usage
+#### Useage
 
 ```javascript
 const transactionOptions = {
@@ -28,9 +22,21 @@ const transactionOptions = {
     shouldCreateDesignProduct: true,
     embedElement: HTMLDOMElement // Optional: If not provided spiff will popup a frame on top of everything else.
 };
-
-
 const transaction = new window.Spiff.Transaction(transactionOptions);
+```
+
+### Transaction.on(eventName, callback);
+
+Registering callback methods with a given transaction is done via the on method. There are different kinds of callbacks detailed in the table below.
+
+| Callback | Description |
+| ------ | --- |
+| complete | Called when the user has completed the transaction. | 
+| quit | Called when the user has stopped the customisation process. Note that in this case no transactionId will be issued. | 
+
+#### Useage
+
+```javascript
 
 // called when the user has completed their transaction
 transaction.on('complete', (result) => {
