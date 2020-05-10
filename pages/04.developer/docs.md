@@ -13,7 +13,7 @@ When ordering product on spiff a client needs to first create a transaction. A t
 Creating the transaction is as simple as calling new on the Spiff transaction prototype. Once created there are two callback methods avaiable.
 
 | Callback Name | Description |
-| --- | --- |
+| ------ | --- |
 | complete | Called when the user has completed the transaction. | 
 | quit | Called when the user has stopped the customisation process. Note that in this case no transactionId will be issued. | 
 
