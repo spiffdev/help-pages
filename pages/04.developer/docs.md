@@ -85,7 +85,7 @@ transaction.on('quit', () => {
 });
 ```
 
-### execute(): Promise\<void\>
+### execute(): Promise\\<void\>
 
 Calling execute will trigger the created transaction to create and render the Iframe according to how the transaction has been cofigured. If no DOMElement has been prodvided setting up the transaction calling execute will open the spiff modal. If a DOM Element has been added then the spiff workflow will render in that provided element. The promise returned by this method will resolve once the transaction has been setup. Given the user might have a slow connection it might be worth displaying some sort of loading queue at this point. Once the promise resolves hide the loading state. Note as well this method will not timeout so setting a time out of perhaps 10 seconds might be a good idea.
 
