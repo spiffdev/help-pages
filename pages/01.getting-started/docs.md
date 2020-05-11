@@ -2,9 +2,9 @@
 title: Home
 ---
 
-Welcome to spiff! 
+### Welcome to spiff! 
 
-- You are here because you would like to do one of 3 things
+You are here because you would like to do one of 3 things
 - Display your products interactively in 3D
 - Offer customization of your products
 - Offer personalization of your products
