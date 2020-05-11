@@ -5,7 +5,7 @@ title: Color
 #### Customers can choose colours that you set
 Used to give your consumer a choice over the colors of your product or a portion (region) of your product.  
 
-Examples: 
+#### Examples: 
 - Garment Color - what is the color of your jumper, shorts, bottle, phone etc ?
 - Material Color - What Color is the material color of your chair? 
 - Laces Color - Choose the color of the laces on your shoes ? 
