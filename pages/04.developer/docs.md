@@ -37,11 +37,11 @@ const transactionOptions = {
 const transaction = new window.Spiff.Transaction(transactionOptions);
 ```
 
-### Transaction.on(eventName: string, callback: () => );
+### Transaction.on(eventName: string, callback: (callbackOptions: object) => void)
 
 Registering callback methods with a given transaction is done via the on method. There are different kinds of callbacks detailed in the table below.
 
-| Callback |Type| Description |
+| Callback|Description|
 | ------ | --- |
 | complete | Called when the user has completed the transaction. | 
 | quit | Called when the user has stopped the customisation process. Note that in this case no transactionId will be issued. | 
@@ -52,35 +52,9 @@ When a user has completed their transaction the complete callback provided will 
 
 | Name |Type| Useage |
 | ------ | --- |
-|designMetaData|object| All design meta data that has been collected during the customisation process. This will vary depending on the configured workflow.|
-|transactionId|string| The transactionId assigned to the created transaction. Note this will only be created if the user completes the workflow process. |
-|designProductId|string | **Optional**.  This will be set if the transaction has been setup to create a design product. Note this is currently only supported by shopify. If a design product has not been created it is up to the integration to either setup a different means of attaching the transactionId to the order or attaching the transactionId to the meta data of the approate line item. |
-|baseCost|number| The base cost of the item. This is based on the price of the spiff item and may be different in the e-Commernce platform. Costs will always be returned in subunits|
-|optionsCost|number| Options cost will be calculated based on the users selected options. This will differ from product to product. See the options selection in the spiff hub for more details. Will be set to zero if no options are avaiable|
-|previewImage|string| A url to a preview image that has been generated from the users design. This can be then hotlinked to from any where in the merchant shop|
-
-#### Useage
+|designMetaData|object| All design meta data that has been collected during the customisation process. This will vary depending on the configured workflow. 
 
 ```javascript
-
-// called when the user has completed their transaction
-transaction.on('complete', (result) => {
-    console.log(result.designMetaData); //All of the selected options that the user has chosen during the customisation
-    console.log(result.transactionId); // The spiff transactionId. This needs to be placed in the metadata of the order
-    console.log(result.designProductId); // Only set if shouldCreateDesignProduct is set to true
-	console.log(result.baseCost); // The base cost of the customised item
-    console.log(result.optionsCost); // The cost of the options that have been selected during the design.
-    console.log(result.previewImage); // The preview image of the design
-});
-
-// Called if the user quit early
-transaction.on('quit', () => {
-	console.log("The user exited before completing their design");
-});
-
-// Start the whole process
-transaction.execute();
-
 //design meta data
 {
     selectedOptions: {
@@ -93,5 +67,44 @@ transaction.execute();
     	illustrationStep: "https://assets.spiff.com.au/images/something.svg"
     }
 }
+```
+|
+|transactionId|string| The transactionId assigned to the created transaction. Note this will only be created if the user completes the workflow process. |
+|designProductId|string | **Optional**.  This will be set if the transaction has been setup to create a design product. Note this is currently only supported by shopify. If a design product has not been created it is up to the integration to either setup a different means of attaching the transactionId to the order or attaching the transactionId to the meta data of the approate line item. |
+|baseCost|number| The base cost of the item. This is based on the price of the spiff item and may be different in the e-Commernce platform. Costs will always be returned in subunits|
+|optionsCost|number| Options cost will be calculated based on the users selected options. This will differ from product to product. See the options selection in the spiff hub for more details. Will be set to zero if no options are avaiable|
+|previewImage|string| A url to a preview image that has been generated from the users design. This can be then hotlinked to from any where in the merchant shop|
 
+##### Useage example of Complete callback
+
+```javascript
+// called when the user has completed their transaction
+transaction.on('complete', (result) => {
+    console.log(result.designMetaData);
+    console.log(result.transactionId);
+    console.log(result.designProductId);
+	console.log(result.baseCost);
+    console.log(result.optionsCost);
+    console.log(result.previewImage);
+});
+```
+
+#### Quit Callback
+
+The quit callback is called if the transaction has been created with out a DOM element and the user as closed the modal before completing the transaction. In the case of quit no design will be created and the resulting transaction should be discarded. If the user wants to customise after this point a new transaction should be created.
+
+```javascript
+
+// Called if the user quit early
+transaction.on('quit', () => {
+	console.log("The user exited before completing their design");
+});
+```
+
+### Transaction.execute()
+
+Calling execute will trigger the created transaction to create and render the Iframe according to how the transaction has been cofigured. If no DOMElement has been prodvided setting up the transaction calling execute will open the spiff modal. If a DOM Element has been added then the spiff workflow will render in that provided element.
+
+```javascript
+transaction.execute();
 ```
