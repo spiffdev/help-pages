@@ -4,10 +4,10 @@ title: Home
 
 Welcome to spiff! 
 
-You are here because you would like to do one of 3 things  
-- Display your products interactively in 3D 
-- Offer customization of your products
-- Offer personalization of your products 
+****You are here because you would like to do one of 3 things ** 
+**- Display your products interactively in 3D **
+**- Offer customization of your products**
+**- Offer personalization of your products ****
 
 ##### Customization defined
 Customization is where you offer customers choice across a range of existing options and configurations of your product e.g Colour, Material, Finish. A customized item usually involves a pick, configure and pack fulfilment process.  
