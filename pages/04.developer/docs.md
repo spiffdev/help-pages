@@ -10,11 +10,9 @@ In order to open spiff workflows and allow your customers to customise their own
 
 When ordering product on spiff a client needs to first create a transaction. A transaction represents all of the the customer's personalisation data for a given item in a given order order. Once created the transaction is saved in the spiff platform and ready for order. If your using the Spiff shopify application this ordering process happens by attaching the spiff transactionId to a line item. Spiff will then listen for orders with spiff transaction Id's and route the order to the approate store / location. The Spiff platfrom also has solutions for many advanced [routing options](/spiff-concepts/routing).
 
-### Constructor Transaction(transactionOptions: object)
+### Constructor new Transaction(transactionOptions: object)
 
-##### Parameters
-
-###### trasactionOptions
+##### Parameter: Transaction Options
 
 The set of options to create the transaction with. See below table for constructing the options.
 
