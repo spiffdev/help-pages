@@ -52,10 +52,16 @@ When a user has completed their transaction the complete callback provided will 
 
 | Name |Type| Useage |
 | ------ | --- |
-|designMetaData|object| All design meta data that has been collected during the customisation process. This will vary depending on the configured workflow. 
+|designMetaData|object| All design meta data that has been collected during the customisation process. This will vary depending on the configured workflow.|
+|transactionId|string| The transactionId assigned to the created transaction. Note this will only be created if the user completes the workflow process. |
+|designProductId|string | **Optional**.  This will be set if the transaction has been setup to create a design product. Note this is currently only supported by shopify. If a design product has not been created it is up to the integration to either setup a different means of attaching the transactionId to the order or attaching the transactionId to the meta data of the approate line item. |
+|baseCost|number| The base cost of the item. This is based on the price of the spiff item and may be different in the e-Commernce platform. Costs will always be returned in subunits|
+|optionsCost|number| Options cost will be calculated based on the users selected options. This will differ from product to product. See the options selection in the spiff hub for more details. Will be set to zero if no options are avaiable|
+|previewImage|string| A url to a preview image that has been generated from the users design. This can be then hotlinked to from any where in the merchant shop
+
+The following is an example of what your design meta data object might look like. This is constructed based on the configuration of the executed workflow.
 
 ```javascript
-//design meta data
 {
     selectedOptions: {
     	questionStep: {
@@ -67,13 +73,8 @@ When a user has completed their transaction the complete callback provided will 
     	illustrationStep: "https://assets.spiff.com.au/images/something.svg"
     }
 }
+
 ```
-|
-|transactionId|string| The transactionId assigned to the created transaction. Note this will only be created if the user completes the workflow process. |
-|designProductId|string | **Optional**.  This will be set if the transaction has been setup to create a design product. Note this is currently only supported by shopify. If a design product has not been created it is up to the integration to either setup a different means of attaching the transactionId to the order or attaching the transactionId to the meta data of the approate line item. |
-|baseCost|number| The base cost of the item. This is based on the price of the spiff item and may be different in the e-Commernce platform. Costs will always be returned in subunits|
-|optionsCost|number| Options cost will be calculated based on the users selected options. This will differ from product to product. See the options selection in the spiff hub for more details. Will be set to zero if no options are avaiable|
-|previewImage|string| A url to a preview image that has been generated from the users design. This can be then hotlinked to from any where in the merchant shop|
 
 ##### Useage example of Complete callback
 
