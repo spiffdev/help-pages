@@ -37,7 +37,7 @@ const transactionOptions = {
 const transaction = new window.Spiff.Transaction(transactionOptions);
 ```
 
-### on(eventName: string, callback: (callbackOptions: object) => void)
+### on(eventName: string, callback: (callbackOptions: object) => void): void
 
 Registering callback methods with a given transaction is done via the on method. There are different kinds of callbacks detailed in the table below.
 
