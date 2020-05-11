@@ -21,8 +21,8 @@ The set of options to create the transaction with. See below table for construct
 |**presentmentCurrency**:string|The currency that the transaction amount should be calculated in. This should be set to what ever currency the users chooses to pay in. Use standard three letter currency codes such as "USD", "GBP" and "AUD"|
 |**integrationId**: string|The integration for the given store front. If you don't know your integration ID login in to the spiff hub. It will be listed there|
 |**productId**: string|The spiff product id for the current product. If you don't know your product ID loign to the spiff hub. It will be listed there|
-|**shouldCreateDesignProduct**:boolean|A flag that will create a "design product" on your eCommerce. Currently this is only supported on shopify. Note in the on complete callback of the transaction this productId will be returned as designProductId allow you to add it to your cart|
-|**embedElement**: DOMElement| The JavascriptDOM element you would like the spiff workflow Iframe to be inserted. Note if you don't set this Spiff will add the Iframe with a modal style treatment. Note as well if you do provide a DOM element the on quit callback will never be called.|
+|**\[shouldCreateDesignProduct\]**:boolean| Optional. A flag that will create a "design product" on your eCommerce. Currently this is only supported on shopify. Note in the on complete callback of the transaction this productId will be returned as designProductId allow you to add it to your cart|
+|**\[embedElement\]**: DOMElement| Optional. The JavascriptDOM element you would like the spiff workflow Iframe to be inserted. Note if you don't set this Spiff will add the Iframe with a modal style treatment. Note as well if you do provide a DOM element the on quit callback will never be called.|
 
 #### Useage
 
@@ -32,7 +32,7 @@ const transactionOptions = {
     integrationId: "1234",
     productId: "1234",
     shouldCreateDesignProduct: true,
-    embedElement: HTMLDOMElement // Optional: If not provided spiff will popup a frame on top of everything else.
+    embedElement: document.querySelector("#spiff-workflow-container")
 };
 const transaction = new window.Spiff.Transaction(transactionOptions);
 ```
