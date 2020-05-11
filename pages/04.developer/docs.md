@@ -37,7 +37,7 @@ const transactionOptions = {
 const transaction = new window.Spiff.Transaction(transactionOptions);
 ```
 
-### Transaction.on(eventName: string, callback: (callbackOptions: object) => void)
+### on(eventName: string, callback: (callbackOptions: object) => void)
 
 Registering callback methods with a given transaction is done via the on method. There are different kinds of callbacks detailed in the table below.
 
@@ -102,7 +102,7 @@ transaction.on('quit', () => {
 });
 ```
 
-### Transaction.execute()
+### execute()
 
 Calling execute will trigger the created transaction to create and render the Iframe according to how the transaction has been cofigured. If no DOMElement has been prodvided setting up the transaction calling execute will open the spiff modal. If a DOM Element has been added then the spiff workflow will render in that provided element.
 
