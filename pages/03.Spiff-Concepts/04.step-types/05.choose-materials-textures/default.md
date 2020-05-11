@@ -24,4 +24,4 @@ _Important note: In the option you create for a material you need to set a textu
 This step could be part of the standard workflow available to all or it could be linked as a conditional step by clicking the conditional button at the bottom of the step setting it to only appear when a particular variant in a previous step is selected. 
 
 #### Customization or Personalization ?
-The Material step is a customization. A customer chooses a texture and the merchant would usually pick, configure and pack item for consumer. No printing is required for this step. 
+The Material step is a customization. A customer chooses a texture and the merchant would usually pick, configure and pack the item for consumer. No printing is required for this step. 
