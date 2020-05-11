@@ -9,7 +9,12 @@ You are here because you would like to do one of 3 things
 - Offer customization of your products
 - Offer personalization of your products 
 
-Note: Customization is where you offer customers choice across a range of existing options and configurations of your product e.g Colour, Material, Finish. A customized item usually involves a pick, configure and pack fulfilment process. Personalization is where you allow the consumer to upload their own content or make specific choices which fundamentally changes the deliverable from the base product e.g. Upload an image, Write a message, manipulated colours of a selected illustration. To Fulfil a personalized item usually involves a printing process either directly onto the product or transferred from a print (label or transfer) to the product. 
+##### Customization defined
+Customization is where you offer customers choice across a range of existing options and configurations of your product e.g Colour, Material, Finish. A customized item usually involves a pick, configure and pack fulfilment process.  
+##### Personalization defined
+Personalization is where you allow the consumer to upload their own content or make specific choices which fundamentally changes the deliverable from the base product e.g. Upload an image, Write a message, manipulated colours of a selected illustration. To Fulfil a personalized item usually involves a printing process either directly onto the product or transferred from a print (label or transfer) to the product. 
+
+
 
 Spiff is a cloud based business tool used by retailers and eccommerce merchants to drive incremental sales through the delivery and managment of an inline personalized or customized experience.  Spiff delivers automation and interaction in all aspects of the user journey from user orders right through to fulfilment. 
 
