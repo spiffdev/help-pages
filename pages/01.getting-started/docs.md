@@ -21,8 +21,8 @@ In simpler terms, **merchants use spiff to offer choice of their products and we
 
 _Spiff Mantra - simulating the instore experience _
 
-##### Spiff Infrastructure
-###### Spiff Hub
+#### Spiff Infrastructure
+##### Spiff Hub
 Merchants configure design experiences through the **SPIFF HUB**. Access to the spiff hub is provided upon installation of the plugin onto your ecommerce store.  
 
 From spiff hub a merchant can: 
@@ -34,7 +34,7 @@ From spiff hub a merchant can:
 - Set custom pricing
 - Save Assets (fonts, frames, illustrations, images, 3D models, patchworks) 
 
-###### Spiff 3D Product Customizer
+##### Spiff 3D Product Customizer
 A plugin to a merchants online store. Our experience out of the box is delivered via an iframe. Spiff is opaque to the merchants consumers. We do not redirect to a new page. A consumer never leaves the merchants store. 
 
 The iframe loads when the spiff plugin is called, usually via a PERSONALIZE NOW button that is rendered on the merchants products page. 
