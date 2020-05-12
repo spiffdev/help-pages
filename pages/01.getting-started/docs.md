@@ -34,7 +34,7 @@ From spiff hub a merchant can:
 - Set custom pricing
 - Save Assets (fonts, frames, illustrations, images, 3D models, patchworks) 
 
-##### Spiff 3D Product Customizer
+### Spiff 3D Product Customizer
 A plugin to a merchants online store. Our experience out of the box is delivered via an iframe. Spiff is opaque to the merchants consumers. We do not redirect to a new page. A consumer never leaves the merchants store. 
 
 The iframe loads when the spiff plugin is called, usually via a PERSONALIZE NOW button that is rendered on the merchants products page. 
