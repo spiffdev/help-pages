@@ -11,18 +11,18 @@ You are here because you would like to do one of 3 things
 
 ### Customization defined
 Customization is where you offer customers choice across a range of existing options and configurations of your product e.g Colour, Material, Finish. A customized item usually involves a pick, configure and pack fulfilment process.  
-##### Personalization defined
+### Personalization defined
 Personalization is where you allow the consumer to upload their own content or make specific choices which fundamentally changes the deliverable from the base product e.g. Upload an image, Write a message, manipulated colours of a selected illustration. To Fulfil a personalized item usually involves a printing process either directly onto the product or transferred from a print (label or transfer) to the product. 
 
-##### Spiff Effect
+### Spiff Effect
 Spiff is the premier tool desgined to deliver the above services. A cloud based business tool used by retailers and eccommerce merchants to drive incremental sales through the delivery and managment of an inline personalized or customized experience.  Spiff delivers automation and interaction in all aspects of the user journey from user orders right through to fulfilment. 
 
 In simpler terms, **merchants use spiff to offer choice of their products and we do this while simulating the personability of the instore experience**. 
 
 _Spiff Mantra - simulating the instore experience _
 
-#### Spiff Infrastructure
-##### Spiff Hub
+### Spiff Infrastructure
+#### Spiff Hub
 Merchants configure design experiences through the **SPIFF HUB**. Access to the spiff hub is provided upon installation of the plugin onto your ecommerce store.  
 
 From spiff hub a merchant can: 
