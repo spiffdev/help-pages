@@ -8,4 +8,4 @@ Spiff has built a plugin for [Shopify](http://help.spiff.com.au/quick-start/shop
 
 Spiff has also built an unlisted plugin for [Wordpress](http://help.spiff.com.au/quick-start/wordpress). Access is provided to a spiff reprasentative who then installs the plugin.
 
-For all other integrations, spiff will use its [API's]() and integrate with your store developer
+For all other integrations, spiff will use its [API's](https://help.spiff.com.au/developer) and integrate with your store developer
