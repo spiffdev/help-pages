@@ -35,13 +35,13 @@ _Spiff Mantra - simulating the instore experience _
 Merchants configure design experiences through the **SPIFF HUB**. Access to the spiff hub is provided upon [installation](#installation) of the plugin onto your ecommerce store.  
 
 From spiff hub a merchant can: 
-- Link to existing products in their store that they want to offer customization on
-- Builds [workflows](http://help.spiff.com.au/#installation) - configurable design steps displayed in the customer facing Spiff 3D product customizer
-- Uploads 3D models - used 
-- Request Assets to be created e.g. 3D models, fonts, illustrations etc
-- Create Options with Variants 
-- Set custom pricing
-- Save Assets (fonts, frames, illustrations, images, 3D models, patchworks) 
+- Link to existing [products](https://help.spiff.com.au/spiff-concepts/products) in their store that they want to offer customization on
+- Builds [workflows](https://help.spiff.com.au/spiff-concepts/workflows) - configurable design steps displayed in the customer facing Spiff 3D product customizer
+- Uploads [3D models](https://help.spiff.com.au/spiff-concepts/product-displays) - used 
+- [Request Assets](https://help.spiff.com.au/spiff-concepts/product-displays/3d-model-asset-request) to be created e.g. 3D models, fonts, illustrations etc
+- Create [Options](https://help.spiff.com.au/spiff-concepts/options) with [Variants](https://help.spiff.com.au/spiff-concepts/options/variants) 
+- Set [custom pricing](https://help.spiff.com.au/spiff-concepts/options/custom-pricing)
+- Save [Assets](https://help.spiff.com.au/spiff-concepts/asset-library) (fonts, frames, illustrations, images, 3D models, patchworks) 
 
 
 
