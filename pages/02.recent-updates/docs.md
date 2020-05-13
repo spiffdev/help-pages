@@ -7,7 +7,7 @@ media_order: 'Screen Shot 2020-05-14 at 6.32.34 am.png'
 
 Spiff Begins documentating updates and improvements
 
-[SpiffBlog](https://spiff.com.au/blog/)
+[14th May 2020 SpiffBlog](https://spiff.com.au/blog/)
 
 For Techinical details [Add Text](https://help.spiff.com.au/spiff-concepts/step-types/add-text)
 
