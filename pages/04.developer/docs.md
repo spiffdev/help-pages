@@ -61,7 +61,7 @@ When a user has completed their transaction the complete callback provided will 
 
 ##### Useage example of Complete callback
 
-```text
+```javascript
 // called when the user has completed their transaction
 transaction.on('complete', (result) => {
     console.log(result.designMetaData);
