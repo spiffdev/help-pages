@@ -10,7 +10,7 @@ We deliver order information in two ways. **Order Metadata** and **Print Ready P
 ### Order Metadata
 Order Metadata is all the information your user has entered given to you in an order summary. By Default, this order summary appears against the order number on the Orders page in the spiff Hub. 
 
-![](orders%20page.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/07.order-routing/orders%20page.png)
 
 
 
