@@ -3,13 +3,7 @@ title: 'Recent Updates'
 media_order: 'Screen Shot 2020-05-14 at 6.32.34 am.png'
 ---
 
-## Date 14th May 2020
-
-Spiff Begins documentating updates and improvements
-
-[14th May 2020 SpiffBlog](https://spiff.com.au/blog/)
-
-For Techinical details [Add Text](https://help.spiff.com.au/spiff-concepts/step-types/add-text)
+[14th May 2020 SpiffBlog](https://spiff.com.au/blog/)  For Techinical details [Add Text](https://help.spiff.com.au/spiff-concepts/step-types/add-text)
 
 ### Text Attributes
 
