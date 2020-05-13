@@ -1,5 +1,6 @@
 ---
 title: 'Recent Updates'
+media_order: 'Screen Shot 2020-05-14 at 6.32.34 am.png'
 ---
 
 Date 14th May 2020
@@ -16,7 +17,7 @@ Spiff contniues is journey towards allowing merchants full control over their wo
 - Enforce Uppercase - Forces any text typed by the consumer to be UPPERCASE
 - Vertical Text - Text appears top to bottom instead of left to right
 - Text Justification - Centre, Left and Right
-
+![](Screen%20Shot%202020-05-14%20at%206.32.34%20am.png)
 How to get to the Add text step
 - Log into spiff hub
 - Click on Workflows 
