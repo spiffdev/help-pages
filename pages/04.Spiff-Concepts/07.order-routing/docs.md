@@ -7,17 +7,26 @@ Your customer has just placed their order, what happens now ? Spiff has develope
 
 We deliver order information in two ways. **Order Metadata** and **Print Ready PDF's**
 
-### Order Metadata
+### Order Metadata (Order information)
 Order Metadata is all the information your user has entered given to you in an order summary. By Default, this order summary appears against the order number on the Orders page in the spiff Hub. By Default the orders page is set to show only todays orders. To show orders from the past click on the date picker in the top right of that page. 
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/07.order-routing/orders%20page.png)
 When you click on view orders you see all the order information the user entered making it easy to fulfil your orders. Especially powerful for customization workflows
-![](vieworders.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/07.order-routing/vieworders.png)
 
+For Shopify users, Spiff Order Routing can also populate the order details straight into your shopify oders page. This means all the information you need is in one spot making it more efficient to fulfil. 
 
-As a standard, you have complete control over which steps you reqpdf that auto gens and is available for donload from orders page 9.95
+### Ready to Print PDF's
+The Spiff system also creates a print ready pdf built by your customers during their design experience. 
+As a standard are created once the consumer orders their product. They are stored by default in the Spiff Order as shown in the above image to the left of the View order button. Clicking the pdf button will trigger a download to your local device. 
 
-Level 1 Order Routing - pdfs and generated and sent either on click or automatically to a third party location.  29
+To add automation spiff can automate pdf routing to send them directly to an external location (your print device or 3rd Party Manufacturer). Pdf's are named after the order number from your ecommerce system. 
+
+Auto send Pdf's to your customer 
+
+Spiff Queues 
+
+to send pdf's in an email directly to consumers 
 
 Level 2 - Auto send files to customers upon ordering 99
 
