@@ -22,27 +22,12 @@ As a standard are created once the consumer orders their product. They are store
 
 To add automation spiff can automate pdf routing to send them directly to an external location (your print device or 3rd Party Manufacturer). Pdf's are named after the order number from your ecommerce system. 
 
-Auto send Pdf's to your customer 
+### Other Routing Options
+- Auto send Pdf's to your customer via email
+- Spiff Queues - Create multiple locations for fulfilment and route orders based on a set of business rules. Enterprise only (Geographical location, volume based and others)
+- Instore Campaigns - Manage internal in-store campaigns by having staff enter orders directly into the spiff hub and have those orders routed through the spiff Queue system back to the relevant machines for fulfilment.
+- For companies that use Third party 3PL fulfillers - Once a sale gets made online, the order is routed via metadata and a pdf through to the fulfillers internal systems via our API. Through the API fulfillers can manage orders through their own system and trigger any number of events, including printing direct to a local device. 
 
-Spiff Queues 
-
-to send pdf's in an email directly to consumers 
-
-Level 2 - Auto send files to customers upon ordering 99
-
-Level 3 Order Routing - Spiff Queue’s - For large multi site campaigns, spiff ques can route orders based on business rules set to any number of locations. 249
-
-Level 4 Super Advanced - 249
-
- 
-
-For companies that use Third party fulfillers such as Fulfilio - Once a sale gets made online, there is a record that is sent through to the warehouse through our API plug-in with whichever warehouse software system that the Third-Party fulfiller uses. Metadata the organisation wants including, fonts, images and text is provided. For example, for Koko Black’s personalised gift cards we help them print a custom design template by connecting to their print server which prints out the personalised message inside their warehouse once the order has been placed. 
-
-As part of our advanced order routing, which is suitable for enterprises that have multiple warehouses, after the customer has purchased the product, the Spiff system can rout the order to the nearest warehouse, to ensure that it goes to the closest warehouse to where is most appropriate. 
-
- Label Personalisation -  Generally, large commercial personalisation campaigns that are executed in-store will have a blockout label that is printed and applied over the existing label in a designated product.
-
- When the purchase has been submitted the print file will be sent to the organisation’s order queue which is then printed. Once printed this can then be placed on top of the existing label. This is what we do for Vegemite and Nestle. 
 
 
  
