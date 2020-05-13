@@ -1,6 +1,6 @@
 ---
 title: 'Order Routing'
-media_order: 'orders page.png'
+media_order: 'orders page.png,vieworders.png'
 ---
 
 Your customer has just placed their order, what happens now ? Spiff has developed one of the most sophisticated order routing systems in the market. 
@@ -8,10 +8,11 @@ Your customer has just placed their order, what happens now ? Spiff has develope
 We deliver order information in two ways. **Order Metadata** and **Print Ready PDF's**
 
 ### Order Metadata
-Order Metadata is all the information your user has entered given to you in an order summary. By Default, this order summary appears against the order number on the Orders page in the spiff Hub. 
+Order Metadata is all the information your user has entered given to you in an order summary. By Default, this order summary appears against the order number on the Orders page in the spiff Hub. By Default the orders page is set to show only todays orders. To show orders from the past click on the date picker in the top right of that page. 
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/07.order-routing/orders%20page.png)
-
+When you click on view orders you see all the order information the user entered making it easy to fulfil your orders. Especially powerful for customization workflows
+![](vieworders.png)
 
 
 As a standard, you have complete control over which steps you reqpdf that auto gens and is available for donload from orders page 9.95
