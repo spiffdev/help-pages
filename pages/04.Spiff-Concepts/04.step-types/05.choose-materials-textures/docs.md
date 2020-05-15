@@ -13,7 +13,7 @@ Complexity = Advanced
 - Texture - What type of legs do you want for your table (Wood, Metal, Synthetic etc)? 
 
 #### How to Create
-- Click on Add Material Step within a workflow. 
+- Click on 'Add Material' Step within a workflow. 
 - Add your Title (E.g. Tote Bag Material)
 - Add your Help Text (E.g. Choose the Material you would like for your Bag)
 - Add your option by either selecting a pre-made option or create a new one by clicking add variant (Velvet, Cotton, Snakeskin).
