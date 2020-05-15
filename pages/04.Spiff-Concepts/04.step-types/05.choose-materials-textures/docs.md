@@ -2,7 +2,7 @@
 title: Materials
 ---
 
-#### Customers can materials, textures and product finishes  
+#### Customers can simulate materials, textures and product finishes  
 Give customers choice over materials or textures you have avialable and let them see an accurate represantion of this on the 3D model. 
 
 Complexity = Advanced
