@@ -7,7 +7,7 @@ This is the display that generally renders to the left side of the workflow and 
 ### 3D Models 
 Uploaded as .glb files into the spiff asset repository. Used with any combination of products and workflows. 
 
-How to set the 3D model
+**How to set the 3D model**
 - Upload your 3D model to the asset respository in spiff 
 - Or submit an asset request and will build it for you and upload it on your behalf. 
 - Go to a product
