@@ -6,11 +6,61 @@ title: Developer
 
 In order to open spiff workflows and allow your customers to customise their own versions of your products you must first interact with the Spiff Javascript API. The Spiff javascript API becomes avaiable to the pages of any shopfront that has the Spiff application installed. If you have not yet done this pelase [install one of our integrations](/quick-start).
 
+## SpiffApiReady
+
+This event is fired on the window object when the methods of the Spiff API have been loaded.
+
+####Usage
+
+```javascript
+window.addEventListener('SpiffApiReady', function() {
+    console.log("Can now create a product and transaction.");
+}
+```
+
+## Spiff.Product
+
+### Constructor
+
+```new Spiff.Product(productOptions)```
+
+### ProductOptions
+
+|Option|Type|Description|
+| ------ | --- |
+|integrationId|string|The integration for the given store front. If you don't know your integration ID login in to the spiff hub. It will be listed there. In the case of shopify it will be the URL to your store e.g. "store.myshopify.com"|
+|productId|string|The spiff product id for the current product. If you don't know your product ID loign to your eCommerce integration and check it from that control panel. In the case of shopify it will be a number like "3584328925261"|
+
+#### Usage
+
+```javascript
+const productOptions = {
+    integrationId: "example.myshopify.com",
+    productId: "1234"
+};
+const product = new window.Spiff.Product(productOptions);
+```
+
+### on(eventName: string, callback: (callbackOptions: object) => void): void
+
+Register a callback method on the product object. There are different kinds of callbacks detailed in the table below.
+
+| Callback|Description|
+| ------ | --- |
+| ready | The product has been determined to exist in Spiff's database and is enabled. | 
+| invalid | Spiff could not find the product or it is not enabled. | 
+
+### confirmActive(): Promise&lt;void&gt;
+
+Confirm that the configured product exists and is enabled. Calling this method and waiting for the "ready" event to fire is required before a transaction amy be created.
+
 ## Spiff.Transaction
 
 When ordering product on spiff a client needs to first create a transaction. A transaction represents all of the the customer's personalisation data for a given item in a given order order. Once created the transaction is saved in the spiff platform and ready for order. If your using the Spiff shopify application this ordering process happens by attaching the spiff transactionId to a line item. Spiff will then listen for orders with spiff transaction Id's and route the order to the approate store / location. The Spiff platfrom also has solutions for many advanced [routing options](/spiff-concepts/routing).
 
-#### Constructor new Transaction(transactionOptions: object)
+#### Constructor
+
+```new Transaction(transactionOptions: object)```
 
 ##### Parameter: Transaction Options
 
@@ -19,8 +69,7 @@ The set of options to create the transaction with. See below table for construct
 |Option|Type|Description|
 | ------ | --- |
 |presentmentCurrency|string|The currency that the transaction amount should be calculated in. This should be set to what ever currency the users chooses to pay in. Use standard three letter currency codes such as "USD", "GBP" and "AUD"|
-|integrationId|string|The integration for the given store front. If you don't know your integration ID login in to the spiff hub. It will be listed there. In the case of shopify it will be the URL to your store e.g. "store.myshopify.com"|
-|productId|string|The spiff product id for the current product. If you don't know your product ID loign to your eCommerce integration and check it from that control panel. In the case of shopify it will be a number like "3584328925261"|
+|product|Product|A Spiff product which has been confirmed to be active.|
 |shouldCreateDesignProduct|boolean| **Optional**. A flag that will create a "design product" on your eCommerce. Currently this is only supported on shopify. Note in the on complete callback of the transaction this productId will be returned as designProductId allow you to add it to your cart|
 |embedElement|DOMElement| **Optional**. The JavascriptDOM element you would like the spiff workflow Iframe to be inserted. Note if you don't set this Spiff will add the Iframe with a modal style treatment. Note as well if you do provide a DOM element the on quit callback will never be called.|
 
@@ -29,8 +78,7 @@ The set of options to create the transaction with. See below table for construct
 ```javascript
 const transactionOptions = {
 	presentmentCurrency: "USD",
-    integrationId: "1234",
-    productId: "1234",
+    product: product, // See Spiff.Product
     shouldCreateDesignProduct: true,
     embedElement: document.querySelector("#spiff-workflow-container")
 };
