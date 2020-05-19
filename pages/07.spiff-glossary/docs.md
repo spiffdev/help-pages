@@ -20,10 +20,15 @@ title: 'Spiff Glossary'
 
 ### File Types
 **SVG** - Scalable Vector Graphics (SVG) is an Extensible Markup Language (XML)-based **vector image** format for two-dimensional graphics with support for interactivity and animation. The SVG specification is an open standard developed by the World Wide Web Consortium (W3C) since 1999. Basically it is a digital object drawn in code (using a desgin program like Adobe illustrator) that as a result can be re-sized without loosing quality. It is because all pixels and lines are re-calculated and redrawn (in code) as the object is resized.  
+
 **TTF** - True type fonts - the only font types accepted by the spiff hub asset repository. TrueType is an outline font standard developed by Apple in the late 1980s as a competitor to Adobe's Type 1 fonts used in PostScript. It has become the most common format for fonts on the classic Mac OS, macOS, and Microsoft Windows operating systems.  
+
 **PNG** - Portable Network Graphics - is a raster-graphics file format that supports lossless data compression. PNG was developed as an improved, non-patented replacement for Graphics Interchange Format (GIF). Used in spiff to upload raster images with transparent backgrounds like company logos.   
+
 **JPG** - Joint Photographic Expert Group (JPEG) - is a commonly used method of compression for digital images, particularly for those images produced by digital photography. It is the most common file type that a user will upload from their device and is supported by spiff. When a user uploads a JPG the object is always set on a rect (4 sided) canvas. This means that if the image doesnt fill the rect you will see a white background instead of it being transparent.   
+
 **PDF** - The Portable Document Format (PDF) is a file format developed by Adobe in the 1990s to present documents, including text formatting and images, in a manner independent of application software, hardware, and operating systems. Basically it is the standard understood by most hardware and software programs allowing for a file to be layed out in a particular manner to be presented to others to view or print.  
+
 **GLB** - is a file type that spiff accepts to display 3D models in its product display. A binary file that stores all the information and properties of a 3D model in an optimized format that makes it suitable for display in the web.  glTF™ (GL Transmission Format) is a royalty-free specification for the efficient transmission and loading of 3D scenes and models by applications. glTF minimizes both the size of 3D assets, and the runtime processing needed to unpack and use those assets
 
 
