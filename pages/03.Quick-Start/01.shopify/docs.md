@@ -34,7 +34,7 @@ In the 2 examples above you can see that the **spiff button can either augment o
 
 >> the way that spiff opens in your site is customisable but would require a developer with shopify liquid templates experience to interact with our api 
 
-It renders on the product page and is customisable via the [install snippet](http://help.spiff.com.au/#installation) that is inserted into your store.
+It renders on the product page and is customisable via the [install snippet](https://help.spiff.com.au/quick-start/shopify/installing-snippets) that is inserted into your store.
 
 Customizable Attributtes of the Personalize Now Button (Edited in your Liquid Templates)
 
