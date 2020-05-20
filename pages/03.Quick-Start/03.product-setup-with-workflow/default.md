@@ -41,4 +41,15 @@ Whilst you can create a workflow without options and assets to begin with it is 
 #### Create an option list
 This is only required where you want to display a list of options for your consumers to choose from. Eg. Choose from these Fonts, Colours or Illustrations  
 - Click on the options Tab in spiff
+- Click on create option in the top right corner of that page
+- Name your Option (Eg. T-shirt Illustrations) 
+- Select your option type. (for the example above you would select illustrations) 
+- Start adding your variants/assets. When you click on the upload asset button it will refer to the assets you uploaded (and the public assets we give you by default)
+- Select your asset and name it accordingly. This is the name that will appear in the consumers order summary so it needs to be user friendly. 
+- Select a default asset if you would like one of the variants to automatically appear on the model when the conusmer reaches that step. If you dont select a default asset the user will need to make a selection before any asset appears on the model. 
+- Save Option
+
+#### Create a workflow (Bring it all together) 
+
+Workflows are the steps you take your consumers through in their customisation journey
 
