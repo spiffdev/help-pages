@@ -40,7 +40,7 @@ Whilst you can create a workflow without options and assets to begin with it is 
 
 #### Create an option list
 This is only required where you want to display a list of options for your consumers to choose from. Eg. Choose from these Fonts, Colours or Illustrations  
-- Click on the options Tab in spiff
+- Click on the options tab in spiff
 - Click on create option in the top right corner of that page
 - Name your Option (Eg. T-shirt Illustrations) 
 - Select your option type. (for the example above you would select illustrations) 
@@ -51,5 +51,10 @@ This is only required where you want to display a list of options for your consu
 
 #### Create a workflow (Bring it all together) 
 
-Workflows are the steps you take your consumers through in their customisation journey
+Workflows are the steps you take your consumers through in their customisation journey and is the glue that brings the experience together. 
+
+- Click on the workflows tab in spiff
+- Click create new workflow
+- Name your workflow 
+- Add your first step
 
