@@ -56,5 +56,35 @@ Workflows are the steps you take your consumers through in their customisation j
 - Click on the workflows tab in spiff
 - Click create new workflow
 - Name your workflow 
-- Add your first step
+- Add your first step (See little blue question marks next to each step type for help on each step capabilities) 
+- All steps require you to add a Step Title and Step Help Text
+- Complete configuration of attributes for the step 
+- Add an option by searching for it in the options search bar. Note: Only options relevant to that step type will display
+- Add a condition if required
+- Click create step 
+- Add further steps as required 
+- Sav the workflow in the top hand corner when you have completed the workflow
 
+Creating Step Groups 
+Step groups are the ability to display more than one step on the same page for the consumer experience
+- In the workflow details section of a workflow
+- Click create Step Group 
+- Name the Step Group 
+- Once complete go to the relevant steps and you will see a new drop down box that will allow you to link a step to the step group
+- You will see a chip appear in the step group with the name of the step you added. 
+- Steps will play in order that they appear and can be moved around by selecting the step and moving it to your preferred position in the workflow. 
+- Click Save Workflow
+
+### Complete Product Setup 
+- Click on the relevant product in the products tab in the spiff toolbar
+- Open the product
+- Click edit
+- Click exisiting next to the 3D model upload
+- Link the relevant uploaded 3D model
+- Below the save button click on workflows
+- Type in the name of the workflow you created and select it 
+- Save product
+
+At this stage you have completed the set up of your product. If you have already setup your snippet to render the spiff customise now button you are ready to test your model. Go to your store and test. If you have any problems please click the book a meeting on the top of the page or try us on live chat. 
+
+### [Installing the snippet](https://help.spiff.com.au/quick-start/shopify/installing-snippets)
