@@ -18,14 +18,17 @@ If you wish to customise the look of the button, you can supply arguments for te
 
 ```{% render 'spiff-button-standard', product_handle: product.handle, label_text: 'Customise me!', label_colour: '#000000', background_colour: '#FFFFFF' %}```
 
-The spiff-button snippet must take the following mandatory argument:
+The spiff-button-standard snippet must take the following mandatory argument:
 
-product_handle: The handle of the product. The product handle is the same string that appears as the slug in the URL of that product's page.
+- product_handle: The handle of the product. The product handle is the same string that appears as the slug in the URL of that product's page.
+
 The spiff-button snippet additionally may take the following optional arguments:
 
-background_colour: The background colour of the button. Defaults to Spiff Pink.
-label_colour: The colour of the text on the button. Defaults to white.
-label_text: The text to display on the button. Defaults to "Customise now on #spiff".
+- background_colour: The background colour of the button. Defaults to Spiff Pink.
+
+- label_colour: The colour of the text on the button. Defaults to white.
+
+- label_text: The text to display on the button. Defaults to "Customise now on #spiff".
 
 # To add a new button that creates design products
 
@@ -33,7 +36,9 @@ A design product is a product that is created in your store when a customer comp
 
 For a button that creates design products, follow the instructions for "To create a new button" but substitute "spiff-button-standard" with "spiff-button-design-product".
 
-# To modify an existing button for flows using Shopify product tags
+# To modify an existing button
+
+If you want an existing button to launch workflows and you don't yet need the complexity of the API, this solution may be suitable. Additionally, this solution is required to enable specific behaviours that depend upon Shopify prouduct tags as detailed later on.
 
 Find your add to cart button, which will look something like this:
 
@@ -58,7 +63,7 @@ Add To Cart
 
 Suppose you have an element on product pages that you only want to hide if the product is personalisable, like this:
 
-<button>Hide Me For Spiff Products</button>
+```<button>Hide Me For Spiff Products</button>```
 
 Simply modify the element like so:
 
