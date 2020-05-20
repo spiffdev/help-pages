@@ -1,5 +1,6 @@
 ---
 title: 'Installing Snippets'
+visible: true
 ---
 
 This page describes how to use out-of-the-box behaviour for opening workflows and adding the created design to the cart. Behaviours unique to your store will require use of the API.
