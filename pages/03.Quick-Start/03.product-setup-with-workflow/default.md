@@ -14,9 +14,9 @@ title: 'Product setup with workflow'
 
 ### Key Concepts 
 Spiff Architecture - It doesnt matter in which order you start, but in order to get your first product up and running you need to do three things:
-     - Create a product 
-     - Create a worklfow - This includes uploading assets and setting up option lists 
-     - Link a 3D model  
+- Create a product 
+- Create a worklfow - This includes uploading assets and setting up option lists
+- Link a 3D model  
 
 ### Create your product
 
