@@ -43,7 +43,7 @@ Customizable Attributtes of the Personalize Now Button (Edited in your Liquid Te
 - Button Text
 - Choose to appear with or instead of the Add to Cart button.
 
-In your liquid templates, Find the line that creates the product form, which will look like this:
+In your liquid templates, find the line that creates the product form, which will potentially look like this:
 
 ```
 {% form 'product' ... %}
@@ -52,13 +52,13 @@ In your liquid templates, Find the line that creates the product form, which wil
 Below that line, add this:
 
 ```
-{% render 'spiff-button', product_handle: product.handle %}
+{% render 'spiff-button-standard', product_handle: product.handle %}
 ```
 
 If you wish to customise the look of the button, you can supply arguments for text and colour.
 
 ```
-{% render 'spiff-button', product_handle: product.handle, label_text: 'Customise me!', label_colour: '#000000', background_colour: '#FFFFFF' %}
+{% render 'spiff-button-standard', product_handle: product.handle, label_text: 'Customise me!', label_colour: '#000000', background_colour: '#FFFFFF' %}
 ```
 
 Once you have installed the snippet, created a workflow and linked a 3D model, your product should display in the live store. 
