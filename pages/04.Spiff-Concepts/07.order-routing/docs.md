@@ -24,7 +24,7 @@ To add automation spiff can automate pdf routing to send them directly to an ext
 
 ### Other Routing Options
 - Auto send Pdf's to your customer via email
-- Spiff Queues - Create multiple locations for fulfilment and route orders based on a set of business rules. Enterprise only (Geographical location, volume based and others)
+- Spiff Queues - Create multiple locations for fulfilment and route orders based on a set of business rules. Enterprise only (Geographical location, volume based and others). The spiff print server script is installed on a local machine and call on the spiff queue system to check for orders that are relevant to it. 
 - Instore Campaigns - Manage internal in-store campaigns by having staff enter orders directly into the spiff hub and have those orders routed through the spiff Queue system back to the relevant machines for fulfilment.
 - For companies that use Third party 3PL fulfillers - Once a sale gets made online, the order is routed via metadata and a pdf through to the fulfillers internal systems via our API. Through the API fulfillers can manage orders through their own system and trigger any number of events, including printing direct to a local device. 
 
