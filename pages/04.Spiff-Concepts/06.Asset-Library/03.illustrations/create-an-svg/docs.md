@@ -10,28 +10,22 @@ To create an SVG for Spiff, we are demonstrating how this is done using Adobe Il
 Open Ai - create whatever shape/pattern/design you like
 
 Make sure once you have your design, it is all grouped together. Make sure everything you want in the design is selected and go to Object > Group
-![](Screen%20Shot%202020-05-18%20at%205.31.30%20pm.png)
-
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/03.illustrations/create-an-svg/Screen%20Shot%202020-05-18%20at%205.31.30%20pm.png)
 After your object is grouped go to Window > Asset Export 
-
-![](Screen%20Shot%202020-05-18%20at%205.31.43%20pm.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/03.illustrations/create-an-svg/Screen%20Shot%202020-05-18%20at%205.31.43%20pm.png)
 With your asset export open drag your design into the exporter. Make sure the format is on SVG and press Export.
-![](Screen%20Shot%202020-05-18%20at%205.31.57%20pm.png)
-
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/03.illustrations/create-an-svg/Screen%20Shot%202020-05-18%20at%205.31.57%20pm.png)
 This will export the SVG to your desktop where you can now rename it and upload it to Spiff.
-![](Screen%20Shot%202020-05-18%20at%205.32.13%20pm.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/03.illustrations/create-an-svg/Screen%20Shot%202020-05-18%20at%205.32.13%20pm.png)
+### Uploading to Spiff Hub
+It’s very simple to upload it to the Hub. Simply go to your Assets tab in the sidebar and go to Illustrations.  
+
+Then press the pink **CREATE ASSET** button in the top right. 
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/03.illustrations/create-an-svg/Screen%20Shot%202020-05-21%20at%203.31.00%20pm.png)
+This will open a window where you can select your SVG and press Open to upload it!  
+
+And viola. It’s now ready to add to a workflow. Here is an example of the created SVG being used in a workflow.
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/03.illustrations/create-an-svg/Screen%20Shot%202020-05-21%20at%203.33.53%20pm.png)
 
 
-Uploading to Spiff Hub
-It’s very simple to upload it to the Hub. Simply go to your Assets tab in the sidebar and go to Illustrations.
-
-Then press the pink CREATE ASSET button in the top right. 
-![](Screen%20Shot%202020-05-21%20at%203.31.00%20pm.png)
-
-This will open a window where you can select your SVG and press Open to upload it! 
-
-And viola. It’s now ready to add to a workflow.
-![](Screen%20Shot%202020-05-21%20at%203.33.53%20pm.png)
-
-Here is an example of the created SVG being used in a workflow.
 
