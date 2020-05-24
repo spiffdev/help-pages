@@ -2,3 +2,18 @@
 title: 'Patchworks Assets'
 ---
 
+Allows user to create a unique background or region from a predefined set of SVG's or PNG's. Randomly extracts a unique portion by scaling and rotating around the object to display different perpectives of the same art. 
+
+A design process that allows the customer to receive a completely unique version of a particular product. It works best where the based image is highly detailed like in the examples shown be default as public assets in patchworks tab in assets. Mosaic art gives the best effect.  
+
+See example demo on demo.spiff.com.au in the [boarshorts demo](https://demo.spiff.com.au/collections/apparel/products/boardshorts-demo) in second step named side pattern.  Popular examples of this technology in use were when diet coke and Nutella used it to create a campaign where every bottle design was completely unique. 
+
+### How to Use
+- The Merchant simply places a high res PNG or SVG of the image into the Patchworks section of the spiff hub assets repository and can either link one, or create an option with variants to offer a multiple of designs to choose from. 
+- Create an option list of patchworks using the patchworks option type 
+- Create a workflow step using the patchworks step type 
+- Link the option 
+- Create a region on the canvas where you want the patchworks to display
+- Save and link to a product
+
+Use the examples given to you free of charge in the spiff assets folder under patchworks. 
