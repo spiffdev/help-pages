@@ -8,7 +8,7 @@ Your customer has just placed their order, what happens now ? Spiff has develope
 We deliver order information in two ways. **Order Metadata** and **Print Ready PDF's**
 
 ### Order Metadata (Order information)
-Order Metadata is all the information your user has entered given to you in an order summary. By Default, this order summary appears against the order number on the Orders page in the spiff Hub. By Default the orders page is set to show only todays orders. To show orders from the past click on the date picker in the top right of that page. 
+Order Metadata is all the information your user has entered given to you in an order summary. By Default, this order summary appears against the order number on the Orders page in the spiff Hub. The orders page is set to show only todays orders. To show orders from the past click on the date picker in the top right of that page. Quickly naviagate to orders for yesterday and month to date or select a custom date range. 
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/07.order-routing/orders%20page.png)
 When you click on view orders you see all the order information the user entered making it easy to fulfil your orders. Especially powerful for customization workflows
@@ -22,7 +22,7 @@ As a standard are created once the consumer orders their product. They are store
 
 To add automation spiff can automate pdf routing to send them directly to an external location (your print device or 3rd Party Manufacturer). Pdf's are named after the order number from your ecommerce system. 
 
-### Other Routing Options
+### Advanced Routing Options
 - Auto send Pdf's to your customer via email
 - Spiff Queues - Create multiple locations for fulfilment and route orders based on a set of business rules. Enterprise only (Geographical location, volume based and others). The spiff print server script is installed on a local machine and call on the spiff queue system to check for orders that are relevant to it. 
 - Instore Campaigns - Manage internal in-store campaigns by having staff enter orders directly into the spiff hub and have those orders routed through the spiff Queue system back to the relevant machines for fulfilment.
