@@ -10,7 +10,7 @@ To create an SVG for Spiff, we are demonstrating how this is done using Adobe Il
 Open Ai - create whatever shape/pattern/design you like
 
 Make sure once you have your design, it is all grouped together. Make sure everything you want in the design is selected and go to Object > Group
-![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/03.illustrations/create-an-svg/Screen%20Shot%202020-05-18%20at%205.31.30%20pm.png)
+![](Screen%20Shot%202020-05-18%20at%205.31.30%20pm.png)
 After your object is grouped go to Window > Asset Export 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/03.illustrations/create-an-svg/Screen%20Shot%202020-05-18%20at%205.31.43%20pm.png)
 With your asset export open drag your design into the exporter. Make sure the format is on SVG and press Export.
