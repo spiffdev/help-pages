@@ -24,8 +24,10 @@ Then press the pink **CREATE ASSET** button in the top right.
 ![](Screen%20Shot%202020-05-21%20at%203.31.00%20pm.png)
 This will open a window where you can select your SVG and press Open to upload it!  
 
-And viola. It’s now ready to add to a workflow. Here is an example of the created SVG being used in a workflow.
+And viola. It’s now ready to add to a workflow. 
 ![](Screen%20Shot%202020-05-21%20at%203.33.53%20pm.png)
+Here is an example of the created SVG being used in a workflow.
+![](Screen%20Shot%202020-05-21%20at%203.36.22%20pm.png)
 
 
 
