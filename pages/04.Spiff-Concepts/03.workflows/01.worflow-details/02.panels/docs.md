@@ -15,7 +15,7 @@ Defined in **Points** or **pixels** by a **width** and a **height**.
 |A4 with bleed|216|303|612|859|  
 |US Letter|216|279.4|612|792|
 
-### A panel is needed: 
+### A panel is needed:
 - To have content rendered appear in place on the output file used to fulfil the personalized item(pdf) 
 - To have content rendered in a step appear on a 3D model 
 
