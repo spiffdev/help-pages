@@ -8,15 +8,12 @@ The Canvas your design is built over that forms the base size of your pdf. Be su
 
 Defined in **Points** or **pixels** by a **width** and a **height**. 
 
-### For example:
-A4 in mm = 210 (w) x 297 (h)  in points =  595 (w) x 841 (h)
-A4 withbleed in mm = 216 (w) x 303 (h) in points =  612 (w) x 859 (h)
-
+### Example:
 |Size|Width (mm)|Height (mm)|Width (points)|Height (points)|
 | ------ | --- | ---- | ----|
 |A4|210|297|595|841|
-|A4 with bleed|216|303|612|859|
-
+|A4 with bleed|216|303|612|859|  
+|US Letter|216|279.4|612|792|
 
 ### A panel is needed: 
 - To have content rendered appear in place on the output file used to fulfil the personalized item(pdf) 
