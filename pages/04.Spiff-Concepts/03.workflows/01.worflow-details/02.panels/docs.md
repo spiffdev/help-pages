@@ -6,7 +6,11 @@ title: Panels
 
 The Canvas your design is built over that forms the base size of your pdf. Be sure to include bleed in this calculation. 
 
-Defined in **Points** or **pixels** by a **height** and a **width**. 
+Defined in **Points** or **pixels** by a **width** and a **height**. 
+
+### For example:
+A4 in mm = 210 (w) x 297 (h)  in points =  595 (w) x 841 (h)
+A4 withbleed in mm = 216 (w) x 303 (h) in points =  612 (w) x 859 (h)
 
 ### A panel is needed: 
 - To have content rendered appear in place on the output file used to fulfil the personalized item(pdf) 
