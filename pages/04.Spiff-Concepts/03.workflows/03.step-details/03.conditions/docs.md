@@ -15,4 +15,6 @@ They are set by the actual step you want to render conditionally
 5. Select the variant/asset the user needs to select to show the step
 6. Save workflow
 
+Commonly used to offer extra personalisation options that may cost extra. You set a question step with a YES/NO answer to the extra you want to offer. Then you create a step with the extra personalisation component and set it to only render if the user selects YES to the question step
+
 
