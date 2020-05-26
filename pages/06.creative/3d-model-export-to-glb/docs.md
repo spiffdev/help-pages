@@ -1,6 +1,6 @@
 ---
 title: '3D Model export to glb'
-published: false
+published: true
 visible: true
 ---
 
