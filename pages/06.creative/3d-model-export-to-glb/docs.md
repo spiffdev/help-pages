@@ -68,7 +68,6 @@ whilst in edit mode click the letter 'a' to select all
 Now you can visually see the form or pattern (layout) the object has been unwrapped to. Thinmk of it as the 2D representation of your model
 You can export this form/pattern for the purpose of laying out your customization panels by selecting all of the UV layout (a) clicking on the UV button and selecting the last option export UV Layout
 
-
 Model Export to .GLB Format
 Our 3D platform and viewer currently requires the format of GLB. However, some key file formats can be imported to Blender, then exported in the correct format for use with the spiff editor.
 These models/assets need to be tested in the Babylon Sandbox to ensure they are working correctly and as expected before being uploaded to the spiff platform, this is one of our methods of quality control.
