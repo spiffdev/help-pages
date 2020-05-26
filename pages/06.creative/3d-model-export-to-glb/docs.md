@@ -48,12 +48,26 @@ Panels/sections of materials on a model that are to be used, modified, personali
 a bottle, that has a personalised label should have a panel name of "Label" for instance. in any instance that multiple panels are called for of the same variety, (etc. Panel1, Panel2, Panel3) the first of them should include a number, for indexing sake. (Instead of 'Panel', then Panel2 etc, Start with 'Panel1', then so on)
 
 How to Set up a material 
-On the right hand bottom menu bar
+On the right hand bottom menu bar, navigate to the material properties icon that is shaped like a sphere and is usually red.
+
+Click on the relevant part of the model and then go to the material as shown below and click on it to rename it
 
 Model UV Mapping setup
-For out platform there are two simple options to choose from when it comes to mapping a model.
-If the model can share a single texture map for the whole object, and have sections edited via specified regions in the editor, a typical non overlapping  UV Map can be used.
-for products that require a PDF Or a print file that has each personalised/customised section individual to one another (Like the front of a hoodie, and the back of a hoodie, be different print files or pages, Single/Individual uv maps can be used for each panel/material/section.
+For our platform there are two simple options to choose from when it comes to mapping a model.
+If the model can share a single texture map for the whole object, and have sections edited via specified regions in the editor, a typical non overlapping  UV Map can be used. This is what we are covering in these intstructions. 
+
+For products that require a PDF or a print file that has each personalised/customised section individual to one another (Like the front of a hoodie, and the back of a hoodie), single/Individual uv maps can be used for each panel/material/section. This will require seperate materials for each section. A more advanced user is required to complete this section. If this is what you are after, contact your 3D modeller or contact spiff and we can set this up for you. 
+
+How to check the UV Map
+Navigate to the top left corner of the screen until you see the plus (+) sign and drag outwards to the right.
+Then click the TAB key on your keyboard- this will put you in edit mode
+Then click the UV editing menu along the top menu bar
+then click on the model side (left) 
+whilst in edit mode click the letter 'a' to select all 
+
+Now you can visually see the form or pattern (layout) the object has been unwrapped to. Thinmk of it as the 2D representation of your model
+You can export this form/pattern for the purpose of laying out your customization panels by selecting all of the UV layout (a) clicking on the UV button and selecting the last option export UV Layout
+
 
 Model Export to .GLB Format
 Our 3D platform and viewer currently requires the format of GLB. However, some key file formats can be imported to Blender, then exported in the correct format for use with the spiff editor.
