@@ -8,6 +8,8 @@ This step type is easy and powerful to use. Take options you have set up with a 
 ![](Happy%20Birthday%208.svg)![](dragon%20fly%20%281%29.svg)![](Happy%20Birthday%208%20%281%29.svg)
 Mostly used to either add clipart illustrations to augment a design or more creatively to add detail and vibrance to the product desgin. 
 
+[Test Link](https://help.spiff.com.au/spiff-concepts)
+
 ##### Illustration Attributes
 - Set size
 - Set Default Illustration
