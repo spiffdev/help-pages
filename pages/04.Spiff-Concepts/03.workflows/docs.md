@@ -14,5 +14,5 @@ See Spiff’s [demo products](https://demo.spiff.com.au/?target=_blank) for a br
 On the image above the workflow is represented by the steps on the right side of the product display. 
 
 ### Worfkflow Architecture 
-![](Screen%20Shot%202020-04-09%20at%2010.31.38%20am.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/Screen%20Shot%202020-04-09%20at%2010.31.38%20am.png)
 
