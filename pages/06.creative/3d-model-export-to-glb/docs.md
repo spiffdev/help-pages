@@ -41,15 +41,14 @@ You will find the name in the top right hand box under Scene Selection =>Collect
 
 For example, if a model/object's name is "Shirt", you would then add the target, and so it would be renamed to "Shirt_t". If this target accent is **not** added to the name of the model/object, the camera will target the centre of the scene with a random zoom level depending on the size of the whole combination of objects. 
 
-***Note: Checking the size of your object. 3D space is infinite so in some cases 3D modellers will create objects that are either unecessarily large or small which can play havoc later in the spiff platform when you are trying to set zoom levels. Make sure your model is rougly its actual size or smaller.  Since changing sizes is an advanced feature, we would advise going back to the modeller to reset the size for you if it is too big. 
-
-
-
-
+Note: Checking the size of your object. 3D space is infinite so in some cases 3D modellers will create objects that are either unecessarily large or small which can play havoc later in the spiff platform when you are trying to set zoom levels. Make sure your model is rougly its actual size or smaller.  Since changing sizes is an advanced feature, we would advise going back to the modeller to reset the size for you if it is too big. 
 
 Material setup
 Panels/sections of materials on a model that are to be used, modified, personalised, or altered in the workflow, should have context based material names. For example, if shoelaces are going to be altered on a shoe, the panel/material name should be something like "Laces".
 a bottle, that has a personalised label should have a panel name of "Label" for instance. in any instance that multiple panels are called for of the same variety, (etc. Panel1, Panel2, Panel3) the first of them should include a number, for indexing sake. (Instead of 'Panel', then Panel2 etc, Start with 'Panel1', then so on)
+
+How to Set up a material 
+On the right hand bottom menu bar
 
 Model UV Mapping setup
 For out platform there are two simple options to choose from when it comes to mapping a model.
