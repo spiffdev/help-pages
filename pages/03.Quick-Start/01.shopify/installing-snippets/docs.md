@@ -53,6 +53,7 @@ Augment the button like so:
     data-product-handle="{{product.handle}}"
     data-product-id="{{product.id}}"
     data-external-integration-id="{{shop.permanent_domain}}"
+    data-presentment-currency="{{cart.currency.iso_code}}"
 >
 Add To Cart
 </button>
