@@ -6,8 +6,19 @@ visible: true
 
 The spiff platform accepts glb format for 3D models. glb is ......
 
+For novices who have purchased a 3D model to be used on spiff make sure you purchase a model that has: 
+- File format which is one of: FBX, OBJ, .Blend, GLB, GLTF, DAE as this will natively import into blender (you can start with an STL or X3D but you will need to do more with the file not covered in this section)
+- Unwrapped Non Overlapping UV maps are preferred (to be explain later in the document), Overlapping and mixed can be used but can be more tricky (not covered in this section)
+- UV Mapping
+- <60,000 vertices
 
-Opening your 3D model in Blender
+
+The following instructions assume:
+* you have downloaded blender 2.8 or above to your desktop and that you have basic knowledge on how to navigate a 3D model
+* You are importing a model with the above mentioned qualities
+* You are using a desktop computer with a keyboard and mouse
+
+**Opening your 3D model in Blender**
 
 Importing to blender is as simple as opening a file in any other program, via File>Import>(Given File Format):
 
@@ -15,16 +26,26 @@ Importing to blender is as simple as opening a file in any other program, via Fi
 On a non-apple mouse use the scroll wheel. 
 On an apple mouse use the + and - on your keyboard
 
-**Delete unwanted objects **
+**Delete unwanted objects **  
 Delete any unwanted models (sometimes there is a cube on load) so that you can see the object you have imported. This is also important because everthing in the scene is exported. 
 
+**Orbitting (scrolling) around the model**
+
+On a non-apple mouse, click hold and move the mouse wheel around 
+On an apple mouse scroll along the mouse in any direction
+
+**Scene/camera target setup**
+Currently in order for a specified model, section of model, or collection of models to be targeted by our viewer, the line "_t" (keeping the 't' lowercase) must be added to the end of any given name/object name for a 3D model. 
+
+You will find the name in the top right hand box under Scene Selection =>Collection => _objectname_
+
+For example, if a model/object's name is "Shirt", you would then add the target, and so it would be renamed to "Shirt_t". If this target accent is **not** added to the name of the model/object, the camera will target the centre of the scene with a random zoom level depending on the size of the whole combination of objects. 
+
+*** Note: Checking the size of your object. 3D space is infinite so in some cases 3D modellers will create objects that are either unecessarily large or small which can play havoc later in the spiff platform when you are trying to set zoom levels. Make sure your model is rougly its actual size or smaller.  Since changing sizes is an advanced feature, we would advise going back to the modeller to reset the size for you if it is too big. 
 
 
 
-Import your FBX to open it in blender
 
-Scene/camera target setup
-Currently in order for a specified model, section of model, or collection of models to be targeted by our viewer, the line "_t" (keeping the 't' lowercase) must be added to the end of any given name/ object name for a 3D model. For example, if a model/object's name is "Shirt", you would then add the *target, and so it would be renamed to "Shirt_t". If this target accent is added to the name of the model/object, the camera of the scene will just target the centre of the scene with a random zoom level depending on the size of the whole combination of objects. 
 
 Material setup
 Panels/sections of materials on a model that are to be used, modified, personalised, or altered in the workflow, should have context based material names. For example, if shoelaces are going to be altered on a shoe, the panel/material name should be something like "Laces".
