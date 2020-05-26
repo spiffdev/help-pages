@@ -8,7 +8,19 @@ The spiff platform accepts glb format for 3D models. glb is ......
 
 
 Opening your 3D model in Blender
-Open Blender 
+
+Importing to blender is as simple as opening a file in any other program, via File>Import>(Given File Format):
+
+**Zoom in/Zoom out to your see your model. **  
+On a non-apple mouse use the scroll wheel. 
+On an apple mouse use the + and - on your keyboard
+
+**Delete unwanted objects **
+Delete any unwanted models (sometimes there is a cube on load) so that you can see the object you have imported. This is also important because everthing in the scene is exported. 
+
+
+
+
 Import your FBX to open it in blender
 
 Scene/camera target setup
