@@ -41,7 +41,7 @@ You will find the name in the top right hand box under Scene Selection =>Collect
 
 For example, if a model/object's name is "Shirt", you would then add the target, and so it would be renamed to "Shirt_t". If this target accent is **not** added to the name of the model/object, the camera will target the centre of the scene with a random zoom level depending on the size of the whole combination of objects. 
 
-*** Note: Checking the size of your object. 3D space is infinite so in some cases 3D modellers will create objects that are either unecessarily large or small which can play havoc later in the spiff platform when you are trying to set zoom levels. Make sure your model is rougly its actual size or smaller.  Since changing sizes is an advanced feature, we would advise going back to the modeller to reset the size for you if it is too big. 
+***Note: Checking the size of your object. 3D space is infinite so in some cases 3D modellers will create objects that are either unecessarily large or small which can play havoc later in the spiff platform when you are trying to set zoom levels. Make sure your model is rougly its actual size or smaller.  Since changing sizes is an advanced feature, we would advise going back to the modeller to reset the size for you if it is too big. 
 
 
 
