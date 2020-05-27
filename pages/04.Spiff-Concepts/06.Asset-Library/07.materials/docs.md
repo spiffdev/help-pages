@@ -2,7 +2,7 @@
 title: Materials
 ---
 
-Simulated surface repository. 
+### Storage are for assets that are used for simulating surfaces. 
 
 Whilst Materials are assets saved in the asset repository, they do not operate the same way in which the other assets do.
 
