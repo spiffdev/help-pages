@@ -7,19 +7,18 @@ This page describes how to use out-of-the-box behaviour for opening workflows an
 
 # To add a new button (Customize Now)
 
-In your shopify admin, 
-click onto online store
+In your shopify admin,  
+click onto online store  
 then go to your active theme 
 
 Note: If you have a live site and you wish to test your spiff workflows without risking customers also seeing them, click duplicate in the actions tab of your active theme. Rename it to test theme and then continue following the steps below. This means that when you want to test your spiff workflows you will need to click into actions of the test theme and preview. 
 
-Click on Actions and select Edit Code 
-
-For the Debut theme (this position could vary for other themes and will be different again if you use a page builder) 
-Click in the search bar and type product-template
-Click on the relevant section of code 
-in the code section on the right click and press cntrl f to bring up finder 
-search for form
+Click on Actions and select Edit Code  
+For the Debut theme (this position could vary for other themes and will be different again if you use a page builder)  
+Click in the search bar and type product-template  
+Click on the relevant section of code  
+In the code section on the right click and press cntrl f to bring up finder  
+Search for form  
 Click the arrow to scroll through the results until you see the line that starts like this 
 
 ```{% form 'product' ... %}```
