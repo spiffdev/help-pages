@@ -1,5 +1,5 @@
 ---
-title: 'Installing Snippets'
+title: ' Installing Snippets'
 visible: true
 ---
 
@@ -16,9 +16,9 @@ Note: If you have a live site and you wish to test your spiff workflows without 
 Click on Actions and select Edit Code  
 For the Debut theme (this position could vary for other themes and will be different again if you use a page builder)  
 Click in the search bar and type product-template  
-Click on the relevant section of code  
+Click on the product-template.liquid which will open the code in that folder relevant to the product pages in your site
 In the code section on the right click and press cntrl f to bring up finder  
-Search for form  
+Search for 'form'
 Click the arrow to scroll through the results until you see the line that starts like this 
 
 ```{% form 'product' ... %}```
@@ -26,6 +26,8 @@ Click the arrow to scroll through the results until you see the line that starts
 Below that line, add this:
 
 ```{% render 'spiff-button-standard', product_handle: product.handle %}```
+
+Click Save and you are done and can now exit the code section
 
 If you wish to customise the look of the button, you can supply arguments for text and colour.
 
