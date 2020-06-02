@@ -7,8 +7,10 @@ Steps can either be displayed individually to keep a consumer focused on one ver
 
 **Examples**
 1. Customising a tshirt - everything in a particular view of the 3Dmodel should be listed in a step group ie the front panel of the shirt (base colour, illustration, image upload etc)  
-2. Tote bag - group 1 could be the material and base colour (non printed customisations) and group could be the logo upload and typed message (printed components)  
-3. Custom shoe - group customisations in to one step group and upsell items into another group (care products)  
+
+3. Tote bag - group 1 could be the material and base colour (non printed customisations) and group could be the logo upload and typed message (printed components)  
+
+5. Custom shoe - group customisations in to one step group and upsell items into another group (care products)  
 
 
 **How to use**
