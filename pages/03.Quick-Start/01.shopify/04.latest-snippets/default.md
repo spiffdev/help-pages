@@ -68,7 +68,21 @@ If your snippets are outdated, you can update them by overwriting them with the 
     class='spiff-api-button'
     data-product-id='{{product_object.id}}'
     onclick="openDisplayProductWorkflowForProduct{{product_object.id}}(event)"
-    style="display:none;color:{% if label_colour %}{{label_colour}}{% else %}#FFFFFF{% endif %};background-color:{% if background_colour %}{{background_colour}}{% else %}rgb(214, 27, 92){% endif %};"
+    style="
+           display:none;
+           color:{% if label_colour %}
+             {{label_colour}}
+           {% else %}
+             #FFFFFF
+           {% endif %};
+           background-color:{% if background_colour %}
+             {{background_colour}}
+           {% else %}
+             rgb(214, 27, 92)
+           {% endif %};
+           {% if height %}height:{{height}};{% endif %}
+           {% if width %}width:{{width}};{% endif %}
+           "
 >
   {% if label_text %}{{label_text}}{% else %}Customise now on #spiff{% endif %}
 </button>
@@ -140,7 +154,21 @@ If your snippets are outdated, you can update them by overwriting them with the 
     class='spiff-api-button'
     data-product-id='{{product_object.id}}'
     onclick="openStandardWorkflowForProduct{{product_object.id}}(event)"
-    style="display:none;color:{% if label_colour %}{{label_colour}}{% else %}#FFFFFF{% endif %};background-color:{% if background_colour %}{{background_colour}}{% else %}rgb(214, 27, 92){% endif %};"
+        style="
+           display:none;
+           color:{% if label_colour %}
+             {{label_colour}}
+           {% else %}
+             #FFFFFF
+           {% endif %};
+           background-color:{% if background_colour %}
+             {{background_colour}}
+           {% else %}
+             rgb(214, 27, 92)
+           {% endif %};
+           {% if height %}height:{{height}};{% endif %}
+           {% if width %}width:{{width}};{% endif %}
+           "
 >
   {% if label_text %}{{label_text}}{% else %}Customise now on #spiff{% endif %}
 </button>
