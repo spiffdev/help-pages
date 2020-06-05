@@ -18,6 +18,10 @@ For Shopify users, Spiff Order Routing can also populate the order details strai
 
 Currently, the metadata supported by each step type is as follows:
 
+#### Color
+
+* Color: The name of the selected color variant
+
 #### Illustration
 
 * Colors: The list of selected colors
