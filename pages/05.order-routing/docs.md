@@ -14,7 +14,26 @@ Order Metadata is all the information your user has entered given to you in an o
 When you click on view orders you see all the order information the user entered making it easy to fulfil your orders. Especially powerful for customization workflows
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/07.order-routing/vieworders.png)
 
-For Shopify users, Spiff Order Routing can also populate the order details straight into your shopify oders page. This means all the information you need is in one spot making it more efficient to fulfil. 
+For Shopify users, Spiff Order Routing can also populate the order details straight into your shopify orders page. This means all the information you need is in one spot making it more efficient to fulfil.
+
+Currently, the metadata supported by each step type is as follows:
+
+#### Illustration
+
+* Colors: The list of selected colors
+* Image: The name of the selected illustration variant
+
+#### Question
+
+* Selections: The list of selected variants
+
+#### Text
+
+* Text: The entered message
+
+#### Upload
+
+* Image: A URL of the uploaded photo
 
 ### Ready to Print PDF's
 The Spiff system also creates a print ready pdf built by your customers during their design experience. 
