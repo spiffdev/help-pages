@@ -41,9 +41,15 @@ The spiff-button snippet additionally may take the following optional arguments:
 
 - background_colour: The background colour of the button. Defaults to Spiff Pink.
 
+- height: The value to use as the height of the button, e.g. '20px'.
+
 - label_colour: The colour of the text on the button. Defaults to white.
 
 - label_text: The text to display on the button. Defaults to "Customise now on #spiff".
+
+- redirect_to_cart: Whether to redirect the user to the cart page on completion of the workflow. Defaults to false,
+
+- width: The value to use as the width of the button e.g. '100px',
 
 # To add a new button that creates design products
 
