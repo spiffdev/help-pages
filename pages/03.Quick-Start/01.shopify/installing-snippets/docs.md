@@ -31,8 +31,7 @@ Click Save and you are done and can now exit the code section
 
 If you wish to customise the look of the button, you can supply arguments for text and colour.
 
-```       {% render 'spiff-button-standard', product_handle: product.handle, label_text: '&nbsp;&nbsp;&nbsp;  CUSTOMIZE AND ADD TO CART &nbsp;&nbsp;&nbsp; ', label_colour: '#FFFFFF', background_colour: '#000000' width: '175', height: '75', redirect_to_cart: true %}
-``
+```{% render 'spiff-button-standard', product_handle: product.handle, label_text: '&nbsp;&nbsp;&nbsp;  CUSTOMIZE AND ADD TO CART &nbsp;&nbsp;&nbsp; ', label_colour: '#FFFFFF', background_colour: '#000000' width: '175', height: '75', redirect_to_cart: true %}```
 
 The spiff-button-standard snippet must take the following mandatory argument:
 
