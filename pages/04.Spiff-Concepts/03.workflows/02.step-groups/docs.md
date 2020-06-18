@@ -1,5 +1,5 @@
 ---
-title: '2Step Groups'
+title: 'Step Groups'
 ---
 
 ### Display steps in a group on the same page
