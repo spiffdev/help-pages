@@ -1,6 +1,9 @@
 ---
 title: '3D preview'
+media_order: 'Screen Shot 2020-07-08 at 1.32.06 am.png'
 visible: true
 ---
 
-This is the help for the 3D preview page. 
+### 3D preview controls  
+
+![](Screen%20Shot%202020-07-08%20at%201.32.06%20am.png)
