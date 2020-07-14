@@ -27,6 +27,10 @@ Currently, the metadata supported by each step type is as follows:
 * Colors: The list of selected colors
 * Image: The name of the selected illustration variant
 
+#### Picture
+
+* ImageL The URL of the selected image
+
 #### Question
 
 * Selections: The list of selected variants
