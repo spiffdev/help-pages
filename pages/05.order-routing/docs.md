@@ -29,7 +29,7 @@ Currently, the metadata supported by each step type is as follows:
 
 #### Picture
 
-* ImageL The URL of the selected image
+* Image: The URL of the selected image
 
 #### Question
 
