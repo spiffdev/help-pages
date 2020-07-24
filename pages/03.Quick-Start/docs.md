@@ -4,8 +4,28 @@ title: 'Quick Start'
 
 Spiff as a plugin integrates with almost any ecommerce platform. 
 
-Spiff has built a plugin for [Shopify](http://help.spiff.com.au/quick-start/shopify). This means any non-technical person can install and use spiff.  The app is available of the shopify app store 
+## Onboarding
 
-Spiff has also built an unlisted plugin for [Wordpress](http://help.spiff.com.au/quick-start/wordpress). Access is provided to a spiff reprasentative who then installs the plugin.
+For Shopify: Merchants will find spiff in the [Shopify app store ](https://apps.shopify.com/spiff-connect?surface_detail=product+customiser&surface_inter_position=1&surface_intra_position=4&surface_type=search).
+![](Screen%20Shot%202020-04-29%20at%205.47.30%20am.png)
 
-For all other integrations, spiff will use its [API's](https://help.spiff.com.au/developer) and integrate with your store developer
+For Wordpress: SImply go to https://app.spiff.com.au and sign up for a free account to create a partner. A Partner is the name of your online store. Follow the onboarding processs to create your partner account, first product and first workflow and then book a meeting with a spiff specialist to help install the app on your store. 
+
+No credit cards required upfront. Free trial period of 14 days applies so installing is risk free. 
+
+Having succesfully installed, you will be automatically directed through the spiff create your first product onboarding. 
+The primary goal of this process is to have you: 
+- Name your partner account (automatic for Shopify) 
+- Create a product from your store that you want to Personalize/Customize (For Shopify this links directly to your store products)
+- Create a workflow - Configurable steps that build the customer journey
+- Order content required to execute this experience or link to an existing public asset.
+- Render Personalise Now Button (For shopify via snippet for worpress no snippet is required) 
+- Choose a Plan (You can start on the teaser with free trial) 
+- Test - Display a 3D product with steps using spiff in your store
+
+To find out more, click on the relevant platform for a detailed step by step 
+
+- For Shopify (
+- For Wordpress (
+
+Onboarding complete!
