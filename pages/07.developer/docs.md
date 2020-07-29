@@ -96,7 +96,7 @@ When a user has completed their transaction the complete callback provided will 
 |optionsCost|number| Options cost will be calculated based on the users selected options. This will differ from product to product. See the options selection in the spiff hub for more details. Will be set to zero if no options are avaiable|
 |previewImage|string| A url to a preview image that has been generated from the users design. This can be then hotlinked to from any where in the merchant shop|
 
-##### Useage example of Complete callback
+#### Usage
 
 ```javascript
 // called when the user has completed their transaction
