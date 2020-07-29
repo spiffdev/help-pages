@@ -61,7 +61,7 @@ The set of options to create the transaction with. See below table for construct
 |shouldCreateDesignProduct|boolean| **Optional**. A flag that will create a "design product" on your eCommerce. Currently this is only supported on shopify. Note in the on complete callback of the transaction this productId will be returned as designProductId allow you to add it to your cart|
 |embedElement|DOMElement| **Optional**. The JavascriptDOM element you would like the spiff workflow Iframe to be inserted. Note if you don't set this Spiff will add the Iframe with a modal style treatment. Note as well if you do provide a DOM element the on quit callback will never be called.|
 
-#### Useage
+#### Usage
 
 ```javascript
 const transactionOptions = {
@@ -123,10 +123,22 @@ transaction.on('quit', () => {
 });
 ```
 
-### execute(): Promise&lt;void&gt;
+### execute(transactionExecutionOptions: object): Promise&lt;void&gt;
 
-Calling execute will trigger the created transaction to create and render the Iframe according to how the transaction has been cofigured. If no DOMElement has been prodvided setting up the transaction calling execute will open the spiff modal. If a DOM Element has been added then the spiff workflow will render in that provided element. The promise returned by this method will resolve once the transaction has been setup. Given the user might have a slow connection it might be worth displaying some sort of loading queue at this point. Once the promise resolves hide the loading state. Note as well this method will not timeout so setting a time out of perhaps 10 seconds might be a good idea.
+Calling execute will trigger the created transaction to create and render the Iframe according to how the transaction has been configured. If no DOMElement was been provided when setting up the transaction, calling execute will open the spiff modal. If a DOM Element has been added then the workflow will render in that provided element. The promise returned by this method will resolve once the transaction has been set up. Given the user might have a slow connection it might be worth displaying some sort of loading queue at this point. Once the promise resolves hide the loading state. Note as well this method will not timeout so setting a time out of perhaps 10 seconds might be a good idea.
+
+#### Parameter: transactionExecutionOptions
+
+An optional object which specifies additional data required to execute the transaction. This object has the following attributes:
+
+| Name | Type | Optional? | Useage |
+| --- | --- | --- | --- |
+| workflowId | string | yes | The ID of the workflow to open. This allows skipping the workflow selection screen for a product linked to multiple workflows. |
+
+#### Usage
 
 ```javascript
-transaction.execute();
+transaction.execute({
+  workflowId: "b8e12640-c5b0-4f1c-b8ed-6eb025b930ea"
+});
 ```
