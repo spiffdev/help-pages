@@ -86,7 +86,7 @@ Registering callback methods with a given transaction is done via the on method.
 
 When a user has completed their transaction the complete callback provided will be called with a single result parameter detailed below.
 
-| Name |Type| Usage |
+| Name |Type| Description |
 | ------ | --- |
 |designMetaData|object| All design meta data that has been collected during the customisation process. This will vary depending on the configured workflow.|
 |transactionId|string| The transactionId assigned to the created transaction. Note this will only be created if the user completes the workflow process. |
@@ -131,7 +131,7 @@ Calling execute will trigger the created transaction to create and render the If
 
 An optional object which specifies additional data required to execute the transaction. This object has the following attributes:
 
-| Name | Type | Optional? | Usage |
+| Name | Type | Optional? | Description |
 | --- | --- | --- | --- |
 | workflowId | string | yes | The ID of the workflow to open. This allows skipping the workflow selection screen for a product linked to multiple workflows. |
 
