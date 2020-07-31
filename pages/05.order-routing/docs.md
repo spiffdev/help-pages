@@ -24,12 +24,16 @@ Currently, the metadata supported by each step type is as follows:
 
 #### Illustration
 
-* Colors: The list of selected colors
+* Colors: The list of hex codes of the selected colors
 * Image: The name of the selected illustration variant
+
+#### Material
+
+* Material: The name of the selected material variant
 
 #### Picture
 
-* Image: The URL of the selected image
+* Image: The name of the selected image variant
 
 #### Question
 
@@ -38,6 +42,7 @@ Currently, the metadata supported by each step type is as follows:
 #### Text
 
 * Text: The entered message
+* Color: The hex code of the selected color
 
 #### Upload
 
