@@ -101,9 +101,9 @@ The exportedData object has the following structure:
 ```
 {
     [name: string]: {
-        value: string;
-        priceModifier: number;
-    };
+        value: string,
+        priceModifier: number,
+    }
 }
 ```
 
