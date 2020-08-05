@@ -18,26 +18,9 @@ For Shopify users, Spiff Order Routing can also populate the order details strai
 
 Currently, the metadata supported by each step type is as follows:
 
-#### Color
-
-* Color: The name of the selected color variant
-
 #### Illustration
 
 * Colors: The list of hex codes of the selected colors
-* Image: The name of the selected illustration variant
-
-#### Material
-
-* Material: The name of the selected material variant
-
-#### Picture
-
-* Image: The name of the selected image variant
-
-#### Question
-
-* Selections: The list of selected variants
 
 #### Text
 
@@ -47,6 +30,21 @@ Currently, the metadata supported by each step type is as follows:
 #### Upload
 
 * Image: A URL of the uploaded photo
+
+Additionally Spiff records the variant selections made by the customer on each step.
+
+The variants corresponding to each step type are as follows:
+
+| Step Type | Selection |
+| -- | -- |
+| Color | The selected color |
+| Illustration | The selected image |
+| Material | The selected material |
+| Patchwork | The image selected to generate the patchwork |
+| Picture | The selected image |
+| Question | The selected answer(s) |
+| Text | The selected font |
+| Upload | The frame selected to contain the uploaded image |
 
 ### Ready to Print PDF's
 The Spiff system also creates a print ready pdf built by your customers during their design experience. 
