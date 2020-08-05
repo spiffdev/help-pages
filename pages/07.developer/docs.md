@@ -96,12 +96,25 @@ When a user has completed their transaction the complete callback provided will 
 | previewImage | string | no |A url to a preview image that has been generated from the users design. This can be then hotlinked to from any where in the merchant shop|
 | transactionId | string | no | The transactionId assigned to the created transaction. Note this will only be created if the user completes the workflow process. |
 
+The exportedData object has the following structure:
+
+```
+{
+    [name: string]: {
+        value: string;
+        priceModifier: number;
+    };
+}
+```
+
+Each name-value pair corresponds to a row seen by the customer in the order summary on the final screen of a workflow.
+
 #### Usage
 
 ```javascript
 // called when the user has completed their transaction
 transaction.on('complete', (result) => {
-    console.log(result.designMetaData);
+    console.log(result.exportedData);
     console.log(result.transactionId);
     console.log(result.designProductId);
     console.log(result.designProductVariantId);
