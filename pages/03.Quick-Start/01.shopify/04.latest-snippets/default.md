@@ -45,9 +45,14 @@ If your snippets are outdated, you can update them by overwriting them with the 
               console.log("The user exited before completing their design");
           });
           transaction.on('complete', async (result) => {
-            const lineItemProperties = {
-              ...result.designMetaData.metadata
+          	const lineItemProperties = {
+                spiffTransactionId: result.transactionId,
+                previewImage: result.previewImage
             };
+            const keys = Object.keys(result.exportedData);
+            for (const key of keys) {
+                lineItemProperties[key] = result.exportedData[key].value;
+            }
             const addToCartRequestBody = JSON.stringify({
               quantity: 1,
               id: result.designProductVariantId,
@@ -129,10 +134,14 @@ If your snippets are outdated, you can update them by overwriting them with the 
               console.log("The user exited before completing their design");
           });
           transaction.on('complete', async (result) => {
-            const lineItemProperties = {
-              ...result.designMetaData.metadata
+          	const lineItemProperties = {
+                spiffTransactionId: result.transactionId,
+                previewImage: result.previewImage
             };
-            lineItemProperties.spiffTransactionId = result.transactionId;
+            const keys = Object.keys(result.exportedData);
+            for (const key of keys) {
+                lineItemProperties[key] = result.exportedData[key].value;
+            }
             const firstVariantId = '{{product_object.variants[0].id}}';
             const addToCartRequestBody = JSON.stringify({
               quantity: 1,
