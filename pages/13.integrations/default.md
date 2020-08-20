@@ -10,7 +10,7 @@ The Spiff API allows you to execute the full customistion lifecycle of a product
 ## Phase 1 : Transaction
 The first step in the customisation of any product is creating a transaction. A transaction is created publiclly and stored with a design in spiff. To create a transaction the front end javascript API of spiff will need to be called. This front end API should be loaded form our CDN in to the merchants web page.
 
-
+![](flow.png)
 
 ## Phase 2: Order
 
