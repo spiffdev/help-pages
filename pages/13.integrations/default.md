@@ -1,5 +1,6 @@
 ---
 title: Integrations
+media_order: 'flow.png,flow-order.png'
 ---
 
 # Integrations
@@ -13,6 +14,8 @@ The first step in the customisation of any product is creating a transaction. A 
 ![](flow.png)
 
 ## Phase 2: Order
+
+![](flow-order.png)
 
 ### Example Orders Request
 ```
