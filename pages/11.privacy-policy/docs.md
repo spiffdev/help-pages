@@ -101,11 +101,14 @@ Please note that exercising any of the rights above may impact our ability to de
 
 Depending on the type of request that you make, we may respond to your request immediately. Usually, we respond within 14 days of receiving your request. We may need to contact others to properly investigate your request, but in any event will respond to you within 30 days.  
 If we decline to correct your personal information, we will provide you with our reasons for not doing so.  
-If you believe that we have breached our obligations, or wish to contact us regarding this privacy policy, please contact our Privacy Officer in writing at:  
-Shadi Taleb  
+
+If you believe that we have breached our obligations, or wish to contact us regarding this privacy policy, please contact our Privacy Officer in writing at: 
+
+**Shadi Taleb  
 Suite 12, Shop 18, 100 Harbour Esplanade, Docklands VIC, 3008, Australia  
 +61413 433 007  
-support@spiff.com.au  
+support@spiff.com.au  **
+
 If you are not satisfied with our response, you may raise your complaint with the Office of the Australian Information Commissioner (enquires@oaic.gov.au) or the Information Commissioner’s Office in the European Union.
 This policy may be updated periodically. We will post notice on our site to advise any significant changes to our policy. This privacy policy was last updated in August 2020.  
   
