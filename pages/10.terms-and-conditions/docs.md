@@ -132,17 +132,20 @@ Intellectual Property Breach means any breach by you (or any of your Personnel) 
  2.3	You agree and accept that We may increase the Price each year by the Consumer Price Index (CPI).  
 
 ###  3.	COMMENCEMENT  
-3.1	We will commence the provision of the Services within a reasonable time after the later of:
-(a)	the Commencement Date and/or receipt of the relevant Order;
-(b)	receipt or payment of the Price in full;
-(c)	provision of all relevant Data;
-(d)	the satisfaction of any other conditions precedent contemplated by these Terms; and 
-(e)	the completion of the Software in which your Product will be displayed.
-4.	VARIATION 
-4.1	You may request a variation or change to the Services, including the timing for the provision of the Services, by providing written notice (including by email) to Us, with details of the variation or change, (Variation Request).
-4.2	We will not be obliged to comply with a Variation Request unless We:
-(a)	accept the Variation Request, including any variation to the Price to effect the Variation Request (Price Variation), in writing; and 
-(b)	the Price has been adjusted to reflect the Price Variation.
+
+ 3.1	We will commence the provision of the Services within a reasonable time after the later of:
+		 (a)	the Commencement Date and/or receipt of the relevant Order;
+		 (b)	receipt or payment of the Price in full;
+		 (c)	provision of all relevant Data;
+		 (d)	the satisfaction of any other conditions precedent contemplated by these Terms; and 
+		 (e)	the completion of the Software in which your Product will be displayed.  
+
+### 4.	VARIATION 
+ 4.1	You may request a variation or change to the Services, including the timing for the provision of the Services, by providing written notice (including by email) to Us, with details of the variation or change, (Variation Request).  
+ 
+ 4.2	We will not be obliged to comply with a Variation Request unless We:  
+ 	 	 (a)	accept the Variation Request, including any variation to the Price to effect the Variation Request (Price Variation), in writing; and 
+		 (b)	the Price has been adjusted to reflect the Price Variation.
 4.3	If We consider that any instruction or direction from You constitutes a variation, then we will not be obliged to comply with such instruction or direction unless a Variation Request has been issued in accordance with these Terms.
 4.4	Subject to your approval, where the Services are varied or changed, or the costs of providing the Services increases, (Variation Event) and the cause of that Variation Event relates to, or is connected with, an event or circumstance beyond Our reasonable control, You agree to pay Us Our reasonable additional costs and expenses that We may suffer or incur as result of the Variation Event, as a debt due and immediately payable.
 4.5	We may substitute any Services or any component of such Services prior to access being provided if, in Our reasonable opinion, the substitution will not adversely affect the performance or capacity of the Services in a material respect. If We make such a substitution, We will notify You of that fact, and provide You with amended specifications at or prior to access being provided.
