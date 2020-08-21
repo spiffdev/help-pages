@@ -6,7 +6,7 @@ media_order: 'flow.png,flow-order.png'
 ## Overview
 The Spiff API allows you to execute the full customistion lifecycle of a product. This life cycle consists of two phases and involves the creation of two distinct entities. The first phase is based inside the user browser and executed via javascript most commonly on a eCommerce store front. This phase is executed by the customer anonymously and it's result is a transaction that is stored within the Spiff cloud.  The second phase is takes the form of a secure API call confirming the customer order and is executed by the merchant who owns the customer. When execiting the second phase the order creation must include the transactionId provided by the exection of the first phase.
 
-It is up to the developer of the integration to store the transactionId between phases in order to provide it for the second phase to be exected. Many existing integrations store the transactionId with the line item in their order allowing many customisations to be ordered at one time.
+It is up to the developer of the integration to store the `transactionId` between phases in order to provide it for the second phase to be exected. Many existing integrations store the transactionId with the line item in their order allowing many customisations to be ordered at one time.
 
 ## Phase 1 : Transaction
 The first step in the customisation of any product is creating a transaction. A transaction is created publiclly and stored with a design in spiff. To create a transaction the front end javascript API of spiff will need to be called. This front end API should be loaded form our CDN in to the merchants web page. For full details on using this API and creating a transaction please refer to the [Javascript API](/developer) page.
