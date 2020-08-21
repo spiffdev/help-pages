@@ -13,5 +13,5 @@ Before you integrate you will need to sign up to a free account on spiff and the
 
 Then use the following pages to complete your integration  
 
-1. [Integrations](/integrations)  
-2. [Spiff Javascript API](/javascript-api)  
+1. [Integrations](/developer/integrations)  
+2. [Spiff Javascript API](/developer/javascript-api)  
