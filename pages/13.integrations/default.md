@@ -4,23 +4,23 @@ media_order: 'flow.png,flow-order.png'
 ---
 
 ## Overview
-The Spiff API allows you to execute the full customistion lifecycle of a product. This life cycle consists of two phases and involves the creation of two distinct entities. The first phase is based inside the user browser and executed via javascript most commonly on a eCommerce store front. This phase is executed by the customer anonymously and it's result is a transaction that is stored within the Spiff cloud.  The second phase is takes the form of a secure API call confirming the customer order and is executed by the merchant who owns the customer. When execiting the second phase the order creation must include the transactionId provided by the exection of the first phase.
+The Spiff API allows you to execute the full customistion lifecycle of a product. This life cycle consists of two phases and involves the creation of two distinct entities. The first phase is based inside the user browser and executed via javascript most commonly on a eCommerce store front. This phase is executed by the customer anonymously and it's result is a transaction that is stored within the Spiff cloud.  The second phase is takes this created traansaction and orders it confirming the customer order has been executed by the merchant who owns the customer. When execiting the second phase the order creation must include the `transactionId` provided by the exection of the first phase. It this this `transactionId` that links the user customisation to an order.
 
-It is up to the developer of the integration to store the `transactionId` between phases in order to provide it for the second phase to be exected. Many existing integrations store the transactionId with the line item in their order allowing many customisations to be ordered at one time.
+It is up to the developer of the integration to store the `transactionId` between phases in order to provide it for the order to be executed exected. Many existing integrations store the `transactionId` with the line item in their order allowing many customisations to be ordered at one time.
 
 ## Phase 1 : Transaction
-The first step in the customisation of any product is creating a transaction. A transaction is created publiclly and stored with a design in spiff. To create a transaction the front end javascript API of spiff will need to be called. This front end API should be loaded form our CDN in to the merchants web page. For full details on using this API and creating a transaction please refer to the [Javascript API](/developer) page.
+The first step in the customisation of any product is creating a transaction. A transaction is created publiclly and stored with a design in spiff. To create a transaction the front end javascript API of spiff will need to be called. This front end API should be loaded form our CDN in to the merchant store front web page. For full details on using this API and creating a transaction please refer to the [Javascript API](/developer) page.
 
 ![](flow.png)
 
 ## Phase 2: Order
-Once an order for the customisable product takes place spiff must be notified when it is time for the order to be processed. For a typical e-Commerce integration this would take place once the user has rendered payment to the merchant for their prodcuts. Orders are assiocated with a transactionId that was used during phase one to setup the inital customisation and a transactionId is always required to create an order.
+Once a design has been completed and a `transactionId` returned this trnasaction can then be ordered.  For transactions to be processed they must first be ordered. For a typical e-Commerce integration this would take place once the user has rendered payment to the merchant for their prodcuts. Unlike creating a transcation which is done anonymously spiff orders are created on the behalf of a merchant. As a result a spiff order must be placed via a server to server https request that has been sgined with a client key and secret. Details of this request as well as how to sign the request are included below.  Note: It is recommended not to place this order on spiff until the store can confrim that the customer payment has been rendered.
 
 ![](flow-order.png)
 
 ### Example Orders Request
 ```
-POST /targets HTTP/1.1
+POST /orders HTTP/1.1
 Host: api.spiff.com.au
 Date: Mon, 23 Apr 2012 12:45:19 GMT
 Authorization: SOA df8d23140eb443505c0661c5b58294ef472baf64:jHX6oLeqTXpynyqcvVC2MSHarhU
@@ -34,16 +34,16 @@ Content-Type: application/json
 ```
 
 ## Signing Requests
-All server side requests such as creating orders must be signed in order to be performed. Signing a request must be done by appending a base64 encoded signature string to an auth header with the client key.
+All server side requests such as creating orders must be signed in order to be performed. Signing a request must be done by appending a base64 encoded signature string to an auth header with the client key. See below for an example of what this header should look like.
 
 ```
 Authorization: SOA  ${ClientKey}:${Base64EncodedRequestSignature}
 ```
 
-The request signature is computed from the hmac hash value of the following appeneded strings. 
+The request signature is computed from a hmac hash value of the following appeneded strings. To generate this hash the client secret should be used as the hash key.
 
 ```
 ${RequestMethod}\n${MD5(RequestBody)}\n${RequestContentType}\n${RequestDate}\n${RequestPath}
 ```
 
-To generate this hash the client secret should be used as the hash key. See this [example implementation of this operation](https://github.com/spiffdev/DeveloperPortal/blob/master/clients/php/woocommerce/spiff-connect/spiff-connect.php).
+See this [example implementation of this operation](https://github.com/spiffdev/DeveloperPortal/blob/master/clients/php/woocommerce/spiff-connect/spiff-connect.php).
