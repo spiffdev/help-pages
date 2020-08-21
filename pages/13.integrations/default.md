@@ -23,7 +23,7 @@ Once an order for the customisable product takes place spiff must be notified wh
 POST /targets HTTP/1.1
 Host: api.spiff.com.au
 Date: Mon, 23 Apr 2012 12:45:19 GMT
-Authorization: VWS df8d23140eb443505c0661c5b58294ef472baf64:jHX6oLeqTXpynyqcvVC2MSHarhU
+Authorization: SOA df8d23140eb443505c0661c5b58294ef472baf64:jHX6oLeqTXpynyqcvVC2MSHarhU
 Content-Type: application/json
 {
     "autoPrint":false,
@@ -34,4 +34,18 @@ Content-Type: application/json
 ```
 
 ## Signing Requests
+All server side requests such as creating orders must be signed in order to be performed. Signing a request must be done by appending a base64 encoded signature string to an auth header with the client key.
 
+```
+Authorization: SOA  ${ClientKey}:${Base64EncodedRequestSignature}}
+```
+
+The request signature is computed from the hmac hash value of the following appeneded strings. To generate this hash the client secret should be used as the hash key. See this [example implementation of this operation](https://github.com/spiffdev/DeveloperPortal/blob/master/clients/php/woocommerce/spiff-connect/spiff-connect.php).
+.
+```
+${RequestMethod}\n
+${MD5(RequestBody)}\n
+${RequestContentType}\n
+${RequestDate}\n
+${RequestPathj
+```
