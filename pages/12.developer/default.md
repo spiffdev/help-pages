@@ -1,5 +1,5 @@
 ---
-title: 'Developer API'
+title: Developer
 ---
 
 This is the Developer Area
