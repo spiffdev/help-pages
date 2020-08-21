@@ -2,7 +2,8 @@
 title: 'Privacy Policy'
 ---
 
-Click on one of the links below to jump to the listed section:
+Click on one of the links below to jump to the listed section:  
+
 Background and overview  
 Our commitment  
 Personal information  
@@ -15,16 +16,18 @@ Third party use of information
 Security and retention  
 Your information protection rights  
 
-Background and overview
+**Background and overview**  
 We create software to be used via an application that allows individual consumers (Consumers) to visualise and personalise consumer products offered for sale by retailers that have engaged us to provide them with our personalisation software (Retailers). Our software is accessible by Consumers via a phone, tablet, PC or MAC on a Retailer’s website.  
 We collect personal information (as defined in the Privacy Act 1988 (Cth)) and personal data (as defined in the European Union General Data Protection Regulation (GDPR)) (collectively for the purposes of this privacy policy “personal information”) relating to Retailers and their representatives (such as officers or employees) and Consumers (where relevant). Information is collected by us via our software, application and websites www.spiff.com.au and www.spiff3d.com (Services).
 Our commitment 
 We recognise the importance of protecting and maintaining the personal information we collect. Any personal information that we collect or hold will only be used for the purposes for which we have collected it, or as allowed by law. We will take all reasonable steps to protect the personal information we collect from unauthorised access, misuse, loss and unauthorised disclosure or modification. 
 We are committed to providing Retailers and Consumers with the highest quality professional service while protecting the privacy of the information we collect and abiding by the Privacy Act 1988 (Cth), the Australian Privacy Principles established under Australian law and the GDPR.
-This policy outlines how we collect, use, store and deal with the personal information we collect. By using our Services, you consent to the practices outlined in this policy.
-Personal information
-We and our ISP may collect personal information (including an opinion) when Retailers and Consumers use our software, application and/or website including:
-•	contact information – such as your name, geographical location, email address, home address, work address, telephone number, your browser’s and device’s characteristics such as your IP address, browser type, any referring URLs, MAC address, heat maps, plus eye and mouse tracking information;
+This policy outlines how we collect, use, store and deal with the personal information we collect. By using our Services, you consent to the practices outlined in this policy.  
+
+**Personal information**  
+
+We and our ISP may collect personal information (including an opinion) when Retailers and Consumers use our software, application and/or website including:  
+*	contact information – such as your name, geographical location, email address, home address, work address, telephone number, your browser’s and device’s characteristics such as your IP address, browser type, any referring URLs, MAC address, heat maps, plus eye and mouse tracking information;  
 •	demographic information – such as your age, date of birth, gender, preferences and interests; and
 •	site information – personal information you provide to our site and dates and times of site visits.
 We collect personal information directly and indirectly from you when you make an account with us, make enquiries with us regarding our Services, contact us to resolve technical issues, from third parties and through running competitions. 
