@@ -19,7 +19,7 @@ Note the file is called "woocommerce" for legacy reasons. The spiff JavascriptAP
 ![](flow.png)
 
 ## Phase 2: Order
-Once a design has been completed and a `transactionId` returned this trnasaction can then be ordered.  For transactions to be processed they must first be ordered. For a typical e-Commerce integration this would take place once the user has rendered payment to the merchant for their prodcuts. Unlike creating a transcation which is done anonymously spiff orders are created on the behalf of a merchant. As a result a spiff order must be placed via a server to server https request that has been sgined with a client key and secret. Details of this request as well as how to sign the request are included below.  Note: It is recommended not to place this order on spiff until the store can confrim that the customer payment has been rendered.
+Once a design has been completed and a `transactionId` returned this transaction can then be ordered.  For transactions to be processed they must first be ordered. For a typical e-Commerce integration this would take place once the user has rendered payment to the merchant for their prodcuts. Unlike creating a transcation which is done anonymously spiff orders are created on the behalf of a merchant. As a result a spiff order must be placed via a server to server https request that has been sgined with a client key and secret. Details of this request as well as how to sign the request are included below.  Note: It is recommended not to place this order on spiff until the store can confrim that the customer payment has been rendered.
 
 ![](flow-order.png)
 
