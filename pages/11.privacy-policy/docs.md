@@ -27,14 +27,20 @@ This policy outlines how we collect, use, store and deal with the personal infor
 **Personal information**  
 
 We and our ISP may collect personal information (including an opinion) when Retailers and Consumers use our software, application and/or website including:  
-*	contact information – such as your name, geographical location, email address, home address, work address, telephone number, your browser’s and device’s characteristics such as your IP address, browser type, any referring URLs, MAC address, heat maps, plus eye and mouse tracking information;  
-•	demographic information – such as your age, date of birth, gender, preferences and interests; and
-•	site information – personal information you provide to our site and dates and times of site visits.
-We collect personal information directly and indirectly from you when you make an account with us, make enquiries with us regarding our Services, contact us to resolve technical issues, from third parties and through running competitions. 
-We do not use cookies to collect information, however, we save application data from Retailers’ browsers for the purposes of running our software.
-Sensitive information 
-We do not collect sensitive information (as defined in the Privacy Act 1988 (Cth)) and special categories of information (as defined in the GDPR) (collectively for the purposes of this privacy policy “sensitive information”) unless disclosed by a Consumer to us as discussed below under the heading “Transaction ID”. Sensitive information includes any information about your racial or ethnic origin, political opinion, membership of a political association, religious beliefs or affiliations, philosophical beliefs, membership of a professional or trade association or union, sexual preferences or practices, criminal record, or health information.
-Transaction ID
+
+•  contact information – such as your name, geographical location, email address, home address, work address, telephone number, your browser’s and device’s characteristics such as your IP address, browser type, any referring URLs, MAC address, heat maps, plus eye and mouse tracking information;  
+
+•	demographic information – such as your age, date of birth, gender, preferences and interests; and  
+
+•	site information – personal information you provide to our site and dates and times of site visits.  
+
+We collect personal information directly and indirectly from you when you make an account with us, make enquiries with us regarding our Services, contact us to resolve technical issues, from third parties and through running competitions.  
+We do not use cookies to collect information, however, we save application data from Retailers’ browsers for the purposes of running our software.  
+
+**Sensitive information **  
+We do not collect sensitive information (as defined in the Privacy Act 1988 (Cth)) and special categories of information (as defined in the GDPR) (collectively for the purposes of this privacy policy “sensitive information”) unless disclosed by a Consumer to us as discussed below under the heading “Transaction ID”. Sensitive information includes any information about your racial or ethnic origin, political opinion, membership of a political association, religious beliefs or affiliations, philosophical beliefs, membership of a professional or trade association or union, sexual preferences or practices, criminal record, or health information.  
+
+**Transaction ID**  
 When Consumers use our Services to personalise products through a Retailer’s website, we  collect the data relating to the transaction entered into between a Consumer and a Retailer, for example, information relating to the colours chosen, designs chosen, size of the product, amount spent by the Consumer, what products were purchased as part of the same transaction etc. We do not collect any personal or sensitive information of the Consumer unless the Consumer directly discloses personally identifiable or sensitive information when personalising a product using our Services, for example by seeking to print a person’s name, phone number or information regarding a person’s religious belief on a product. This information, which forms part of the Transaction ID, may be viewed, collected and used by us if disclosed by a Consumer. 
 How do we use your personal information?
 We use the information we collect to:
