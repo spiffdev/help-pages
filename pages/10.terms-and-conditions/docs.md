@@ -132,13 +132,13 @@ Intellectual Property Breach means any breach by you (or any of your Personnel) 
  2.3	You agree and accept that We may increase the Price each year by the Consumer Price Index (CPI).  
 
 ###  3.	COMMENCEMENT  
-
- 3.1	We will commence the provision of the Services within a reasonable time after the later of:
-		 (a)	the Commencement Date and/or receipt of the relevant Order;
-		 (b)	receipt or payment of the Price in full;
-		 (c)	provision of all relevant Data;
-		 (d)	the satisfaction of any other conditions precedent contemplated by these Terms; and 
-		 (e)	the completion of the Software in which your Product will be displayed.  
+  
+ 3.1	We will commence the provision of the Services within a reasonable time after the later of:  
+		 (a)	the Commencement Date and/or receipt of the relevant Order;  
+		 (b)	receipt or payment of the Price in full;  
+		 (c)	provision of all relevant Data;  
+		 (d)	the satisfaction of any other conditions precedent contemplated by these Terms; and   
+		 (e)	the completion of the Software in which your Product will be displayed.    
 
 ### 4.	VARIATION 
  4.1	You may request a variation or change to the Services, including the timing for the provision of the Services, by providing written notice (including by email) to Us, with details of the variation or change, (Variation Request).  
