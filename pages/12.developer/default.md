@@ -4,7 +4,7 @@ title: Developer
 
 Please check in with spiff support reguraliry for updates.   
 
-Also we welcome feed back from developers in an effort to improve the API offering.  email: support@spiff.com.au  
+We welcome feed back from developers in an effort to improve the API offering.  email: support@spiff.com.au  
 
 ### Integration with a non Shopify or Wordpress Website ( Or if you want bespoke behaviour) 
 This page describes for developers, how you can use our Javascript API to use the spiff services.
