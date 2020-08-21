@@ -4,10 +4,14 @@ title: Developer
 
 Please check in with spiff support reguraliry for updates.   
 
-Also we welcome feed back from developers in an effort to improve the API offering. 
+Also we welcome feed back from developers in an effort to improve the API offering.  email: support@spiff.com.au  
 
-### [Integration with a non Shopify or Wordpress Website ( Or if you want bespoke behaviour)](https://help.spiff.com.au/developer/integrations) 
+### Integration with a non Shopify or Wordpress Website ( Or if you want bespoke behaviour) 
+This page describes for developers, how you can use our Javascript API to use the spiff services.
 
+Before you integrate you will need to sign up to a free account on spiff and then create a partner account. After this, you will be asked to create an integration which will provide you with a API Key and Secret. 
 
-### [Spiff Javascript API](https://help.spiff.com.au/developer/javascript-api)
-The Spiff Javascript API allows you to execute the full customistion lifecycle of a product. This life cycle consists of two phases and involves the creation of two distinct entities. The first phase is based inside the user browser and executed via javascript most commonly on a eCommerce store front. This phase is executed by the customer anonymously and it's result is a transaction that is stored within the Spiff cloud.  The second phase takes this created transaction and orders it confirming the customer order has been executed by the merchant who owns the customer. When executing the second phase the order creation must include the `transactionId` provided by the execution@ of the first phase. It is this this `transactionId` that links the user customisation to an order.
+Then use the following pages to complete your integration
+
+1. [Integrations](/integrations)
+2. [Spiff Javascript API](/javascript-api)
