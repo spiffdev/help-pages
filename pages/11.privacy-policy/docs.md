@@ -3,17 +3,17 @@ title: 'Privacy Policy'
 ---
 
 Click on one of the links below to jump to the listed section:
-Background and overview
-Our commitment
-Personal information
-Sensitive information
-Transaction ID
-How do we use your personal information?
-Marketing 
-Disclosure
-Third party use of information
-Security and retention
-Your information protection rights
+Background and overview  
+Our commitment  
+Personal information  
+Sensitive information  
+Transaction ID  
+How do we use your personal information?  
+Marketing  
+Disclosure  
+Third party use of information  
+Security and retention  
+Your information protection rights  
 
 Background and overview
 We create software to be used via an application that allows individual consumers (Consumers) to visualise and personalise consumer products offered for sale by retailers that have engaged us to provide them with our personalisation software (Retailers). Our software is accessible by Consumers via a phone, tablet, PC or MAC on a Retailer’s website.  
