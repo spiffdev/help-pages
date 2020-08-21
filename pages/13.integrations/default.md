@@ -1,6 +1,6 @@
 ---
 title: Integrations
-media_order: 'flow.png,flow-order.png'
+media_order: flow-order.png
 ---
 
 ## Overview
