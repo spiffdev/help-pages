@@ -3,8 +3,6 @@ title: Integrations
 media_order: 'flow.png,flow-order.png'
 ---
 
-# Integrations
-
 ## Overview
 The Spiff API allows you to execute the full customistion lifecycle of a product. This life cycle consists of two phases and involves the creation of two distinct entities. The first phase is based inside the user browser and executed via javascript most commonly on a eCommerce store front. This phase is executed by the customer anonymously and it's result is a transaction that is stored within the Spiff cloud.  The second phase is takes the form of a secure API call confirming the customer order and is executed by the merchant who owns the customer. When execiting the second phase the order creation must include the transactionId provided by the exection of the first phase.
 
