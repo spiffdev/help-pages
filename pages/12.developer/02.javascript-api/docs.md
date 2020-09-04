@@ -36,9 +36,9 @@ Register a callback method on the product object. There are different kinds of c
 | ready | The product has been determined to exist in Spiff's database and is enabled. | 
 | invalid | Spiff could not find the product or it is not enabled. | 
 
-### confirmActive(): Promise&lt;void&gt;
+### confirmActive(): void
 
-Confirm that the configured product exists and is enabled. Calling this method and waiting for the "ready" event to fire is required before a transaction amy be created.
+Confirm that the configured product exists and is enabled. Calling this method and waiting for the "ready" event to fire is required before a transaction may be created.
 
 ## Spiff.Transaction
 
