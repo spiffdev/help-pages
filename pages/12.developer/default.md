@@ -29,7 +29,6 @@ As mentioned above, two phases constitute a Spiff integration. First is creating
 The following is an example of a typical Javascript API integration. Note the comments in the code. They explain and link back to key concepts that have been outlined above. In the below all user variables are denotedt by two sets of curly brackets `{{}}`. See the table below for detals explaining each variable. Also remember to check the [JavascriptAPI page](/developer/javascript-api) for full details of the API.
 
 ```javascript
-
 // This function could run when the user clicks a customise button on your page.
 function instantiateSpiffTransaction() {
     const product = new window.Spiff.Product({
