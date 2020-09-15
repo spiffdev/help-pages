@@ -2,16 +2,30 @@
 title: Developer
 ---
 
-Please check in with spiff support reguraliry for updates.   
+# Introduction
 
-We welcome feed back from developers in an effort to improve the API offering.  email: support@spiff.com.au   
+Welcome to Spiff Development. This section of our help is primarily aimed at developers who are looking to build integrations with the Spiff platform. If you’re a merchant you might consider starting on a [different page](/spiff-concepts) which provides a higher-level overview of spiff with less of a technical focus. 
 
-### Integration with a non Shopify or Wordpress Website ( Or if you want bespoke behaviour)    
-This page describes for developers, how you can use our Javascript API to use the spiff services with an ecommerce platform.  
+While Spiff is aimed at eCommerce the platform has been built from the ground up to be as flexible as possible. Any customer-facing HTML interface should be able to support a Spiff integration. It’s also possible to integrate with Spiff even if your platform is not geared towards eCommerce.
 
-Before you integrate you will need to sign up to a free account on spiff and then create a partner account. After this, you will be asked to create an integration which will provide you with a API Key and Secret.   
+A Spiff integration consists of two components. First, there is a [Javascript API](/developer/javascript-api) that is hosted within the Spiff CDN. A Restful API which is available at api.spiff.com.au makes up the second part of the integration. The Javascript API can be accessed publicly while the Rest API is secured with a key and secret. The key and secret will be issued to you from the Spiff Hub and requires server to server requests. More detail on the key and secret can be found below. Both Spiff APIs need to be utilized to create a full end to end integration.
 
-Then use the following pages to complete your integration  
+# Before You Begin
 
-1. [Integrations](/developer/integrations)  
-2. [Spiff Javascript API](/developer/javascript-api)  
+Before you begin building any [integration](/developer/integrations) you will need to understand some key concepts of Spiff. The following list provides a summary of these concepts and acts as a checklist detailing what needs to be set up within the Spiff Hub.
+
+* A Spiff account. You can sign up for a Spff account at [app.spiff.com.au](https://app.spiff.com.au)
+* A [product](/spiff-concepts/product). A product in Spiff should form a 1 to 1 relationship with the products you have set up in your existing platform. Note here there is no explicit link between your platform and Spiff and that you will only need to create Spiff products for your platform products that you intend to make available for customisation.
+* A [Workflow](/spiff-concepts/workflows). This can be set up in the Spiff Hub which is accessed after signing up. Spiff workflows are a detailed topic and more information can be found on their documentation page.
+* An Integration. To integrate with Spiff you will need to create an integration. The integration will provide you with the key and secret necessary to place a secure order. For more information on this process please see your integrations page which is linked above.
+* An Integration Product.  An integration product provides the link between a product and an integration. This can be created from either the integration page in the Spiff Hub or  the product page itself.
+
+Once you have checked the above list you are ready to start building the code integration.
+
+# Integration Overview
+
+As mentioned above, two phases constitute a Spiff integration. First is creating a public transaction with the Spiff Javascript API and second is creating an order based on that transaction with the Spiff Rest API. The Javascript portion of the integration would be ideally implemented within the templating system of your merchant frontend while the order portion should be implemented using backend code. In the case of popular eCommerce platforms such as Shopify and Bigcommerce this would be accomplished using a webhook.
+
+# Code Examples
+
+
