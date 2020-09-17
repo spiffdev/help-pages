@@ -62,6 +62,5 @@ function instantiateSpiffTransaction() {
 
 |variable|explanation|
 |---------|-------------|
-|integrationId|The id of the integration. This ID can be used site wide and it is recommned to create a sandbox integration for testing in a lower environment|
-|integrationProductId|This is the id of the integration product. If your customising more than one product we recommnd extending your product backend entity so that this id can be injected in to the script automaticlly. To find the integration productId login to the spiff Hub and visit the product page |
+|integrationProductId|This is the ID of the integration product. If you're customising more than one product we recommend extending your product backend entity so that this ID can be injected into the script automatically. To find the integration product ID login to the Spiff Hub and visit the product page. |
 
