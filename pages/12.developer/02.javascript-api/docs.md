@@ -83,7 +83,7 @@ The set of options to create the transaction with. See below table for construct
 
 |Option|Type|Optional?|Description|
 | ------ | --- |
-| integrationProduct | IntegrationProduct | no (unless product option is specified instead) | A Spiff integration product which has been confirmed to be active.|
+| integrationProduct | IntegrationProduct | no (unless product is specified instead) | A Spiff integration product which has been confirmed to be active.|
 | presentmentCurrency | string | no | The currency that the transaction amount should be calculated in. This should be set to what ever currency the users chooses to pay in. Use standard three letter currency codes such as "USD", "GBP" and "AUD" |
 | product | Product | no (unless integrationProduct is specified instead) | A Spiff product which has been confirmed to be active. |
 | shouldCreateDesignProduct | boolean | yes | A flag that will create a "design product" on your eCommerce. Currently this is only supported on shopify. Note in the on complete callback of the transaction this productId will be returned as designProductId allow you to add it to your cart |
