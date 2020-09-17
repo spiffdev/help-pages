@@ -2,7 +2,36 @@
 title: 'Javascript API'
 ---
 
-In order to open spiff workflows and allow your customers to customise their own versions of your products you must first interact with the Spiff Javascript API. The Spiff javascript API becomes avaiable to the pages of any shopfront that has the Spiff application installed. If you have not yet done this pelase [install one of our integrations](/integrations).
+In order to open Spiff workflows and allow your customers to customise their own versions of your products you must first interact with the Spiff Javascript API. The Spiff Javascript API becomes available to the pages of any shopfront that has the Spiff application installed. If you have not yet done this please [install one of our integrations](/integrations).
+
+## Spiff.IntegrationProduct
+
+### Constructor
+
+```new Spiff.IntegrationProduct(integrationProductId)```
+
+|Argument|Type|Description|
+| ------ | --- |
+|integrationProductId|string|The ID of the integration product. This value will be shown on the product's page in the Spiff Hub.|
+
+#### Usage
+
+```javascript
+const integrationProduct = new window.Spiff.IntegrationProduct("649dfe36-bd0a-447e-a9f9-67bff7bc9a96");
+```
+
+### on(eventName: string, callback: (callbackOptions: object) => void): void
+
+Register a callback method on the product object. There are different kinds of callbacks detailed in the table below.
+
+| Callback|Description|
+| ------ | --- |
+| ready | The product has been determined to exist in Spiff's database and is enabled. | 
+| invalid | Spiff could not find the product or it is not enabled. | 
+
+### confirmActive(): void
+
+Confirm that the configured product exists and is enabled. Calling this method and waiting for the "ready" event to fire is required before a transaction may be created.
 
 ## Spiff.Product
 
@@ -52,19 +81,20 @@ When ordering product on spiff a client needs to first create a transaction. A t
 
 The set of options to create the transaction with. See below table for constructing the options.
 
-|Option|Type|Description|
+|Option|Type|Optional?|Description|
 | ------ | --- |
-|presentmentCurrency|string|The currency that the transaction amount should be calculated in. This should be set to what ever currency the users chooses to pay in. Use standard three letter currency codes such as "USD", "GBP" and "AUD"|
-|product|Product|A Spiff product which has been confirmed to be active.|
-|shouldCreateDesignProduct|boolean| **Optional**. A flag that will create a "design product" on your eCommerce. Currently this is only supported on shopify. Note in the on complete callback of the transaction this productId will be returned as designProductId allow you to add it to your cart|
-|embedElement|DOMElement| **Optional**. The JavascriptDOM element you would like the spiff workflow Iframe to be inserted. Note if you don't set this Spiff will add the Iframe with a modal style treatment. Note as well if you do provide a DOM element the on quit callback will never be called. Note that when providing an embed element you will need to make sure that your container element has a height. Currently a height of 0 will result in an error.|
+| integrationProduct | IntegrationProduct | no (unless product option is specified instead) | A Spiff product which has been confirmed to be active.|
+| presentmentCurrency | string | no | The currency that the transaction amount should be calculated in. This should be set to what ever currency the users chooses to pay in. Use standard three letter currency codes such as "USD", "GBP" and "AUD" |
+| product | Product | no (unless integrationProduct is specified instead) | A Spiff product which has been confirmed to be active. |
+| shouldCreateDesignProduct | boolean | yes | A flag that will create a "design product" on your eCommerce. Currently this is only supported on shopify. Note in the on complete callback of the transaction this productId will be returned as designProductId allow you to add it to your cart |
+| embedElement | DOMElement | yes | The JavascriptDOM element you would like the spiff workflow Iframe to be inserted. Note if you don't set this Spiff will add the Iframe with a modal style treatment. Note as well if you do provide a DOM element the on quit callback will never be called. Note that when providing an embed element you will need to make sure that your container element has a height. Currently a height of 0 will result in an error. |
 
 #### Usage
 
 ```javascript
 const transactionOptions = {
 	presentmentCurrency: "USD",
-    product: product, // See Spiff.Product
+    integrationProduct: intgrationProduct, // See Spiff.IntegrationProduct
     shouldCreateDesignProduct: true,
     embedElement: document.querySelector("#spiff-workflow-container")
 };
