@@ -31,15 +31,12 @@ The following is an example of a typical Javascript API integration. Note the co
 ```javascript
 // This function could run when the user clicks a customise button on your page.
 function instantiateSpiffTransaction() {
-    const product = new window.Spiff.Product({
-        integrationId: '{{intergrationId}}',
-        productId: '{{integrationProductId}}'
-    });
+    const integrationProduct = new window.Spiff.IntegrationProduct('{{integrationProductId}}');
 
-    product.on('ready', function() {
+    integrationProduct.on('ready', function() {
         const transaction = new window.Spiff.Transaction({
             presentmentCurrency: "AUD",
-            product: product,
+            integrationProduct: integrationProduct,
             embedElement: document.querySelector("#query-selector-on-my-product-page")
         });
         
@@ -54,11 +51,11 @@ function instantiateSpiffTransaction() {
         transaction.execute();
     })
 
-    product.on('invalid', function() {
+    integrationProduct.on('invalid', function() {
         console.error("Spiff product could not be found")
     })
 
-    product.confirmActive()
+    integrationProduct.confirmActive()
 }
 
 ```
