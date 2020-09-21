@@ -19,4 +19,4 @@ Panels are measured in **Points** or **pixels** by a **width** and a **height**.
 
 ### Naming your Panel:
 It is important to note that for the purposes of the output file (pdf), you can name your panel anything. But to have the panel appear on a 3D model, you must match the panel name exactly (case sensitive) to the material name of portion of the 3D model you would like your panel to appear on.  
-![](Wine%20Label%20Panel-01.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/01.workflow-details/02.panels/Wine%20Label%20Panel-01.png)
