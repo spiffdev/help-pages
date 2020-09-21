@@ -2,9 +2,10 @@
 title: Panels
 ---
 
-### The canvas to your masterpiece! 
+### What are Panels? 
 
-The Canvas your design is built over that forms the base size of your pdf. Be sure to include bleed in this calculation. 
+A panel is the canvas/artboard that your design is built over that forms the base size of your pdf.
+Be sure to include bleed in your panel. 
 
 Defined in **Points** or **pixels** by a **width** and a **height**. 
 
