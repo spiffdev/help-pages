@@ -11,7 +11,7 @@ Be sure to include bleed in your panel.
 Panels are measured in **Points** or **pixels** by a **width** and a **height**. 
   
 ### Example:
-![](Panel%20Graph%20Bigger.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/01.workflow-details/02.panels/Panel%20Graph%20Bigger.png)
 
 ### A Panel is Needed:
 - To have content rendered appear in place on the output file used to fulfil the personalized item (pdf).
