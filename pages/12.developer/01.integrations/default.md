@@ -25,7 +25,7 @@ Once a design has been completed and a `transactionId` returned this transaction
 
 ### Example Orders Request
 ```
-POST /api/orders HTTP/1.1
+POST /api/v2/orders HTTP/1.1
 Host: api.spiff.com.au
 Date: Mon, 23 Apr 2012 12:45:19 GMT
 Authorization: SOA df8d23140eb443505c0661c5b58294ef472baf64:jHX6oLeqTXpynyqcvVC2MSHarhU
