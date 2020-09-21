@@ -1,6 +1,6 @@
 ---
 title: Panels
-media_order: 'Panel Graph Bigger.png,Panel 1.png'
+media_order: 'Panel Graph Bigger.png,Panel 1.png,Panel 2.png,Panel1.png'
 ---
 
 ### What are Panels? 
