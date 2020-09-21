@@ -7,7 +7,7 @@ media_order: 'Panel Graph Bigger.png,Panel 1.png'
 
 A panel is the canvas/artboard that your design is built over that forms the base size of your pdf.
 Be sure to include bleed in your panel. 
-![](Panel%201.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/01.workflow-details/02.panels/Panel%201.png)
 
 Panels are measured in **Points** or **pixels** by a **width** and a **height**. 
   
