@@ -7,7 +7,7 @@ title: Panels
 A panel is the canvas/artboard that your design is built over that forms the base size of your pdf.
 Be sure to include bleed in your panel. 
 
-Defined in **Points** or **pixels** by a **width** and a **height**. 
+Panels are measured in **Points** or **pixels** by a **width** and a **height**.
 
 ### Example:
 |Size|Width (mm)|Height (mm)|Width (points)|Height (points)|
