@@ -30,7 +30,7 @@ You can have as many panels as you like. You just need to be able to match the p
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/01.workflow-details/02.panels/Screen%20Shot%202020-09-22%20at%2012.14.07%20pm.png)
 
 2. Now go to your scene explorer on the right hand side and select the Materials drop down.
-Here you will see the names of the panels in your model.
+Here you will see the names of the panels in your model. This models panel is called Label.
 
  ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/01.workflow-details/02.panels/Screen%20Shot%202020-09-22%20at%2012.14.17%20pm.png)
 
