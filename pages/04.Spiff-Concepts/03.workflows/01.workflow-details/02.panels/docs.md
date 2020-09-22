@@ -20,6 +20,11 @@ Panels are measured in **points** or **pixels** by a **width** and a **height**.
 ##### Example:
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/01.workflow-details/02.panels/Panel%20Graph%20Bigger.png)
 
+
+### How many Panels can I Have?
+
+You can have as many panels as you like. You just need to be able to match the panel sizes and names to what is on your 3D model.
+
 ### A Panel is Needed:
 - To have content rendered appear in place on the output file used to fulfil the personalized item (pdf).
 - To have content rendered in a step appear on a 3D model.
