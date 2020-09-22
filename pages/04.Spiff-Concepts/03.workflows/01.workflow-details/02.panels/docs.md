@@ -29,14 +29,12 @@ You can have as many panels as you like. You just need to be able to match the p
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/01.workflow-details/02.panels/Screen%20Shot%202020-09-22%20at%2012.14.07%20pm.png)
 
-2. Now go to your scene explorer on the right hand side and select the Materials drop down.
+2. Now go to your Scene Explorer on the right hand side and select the **Materials** drop down.
 Here you will see the names of the panels in your model. This models panel is called Label.
 
  ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/01.workflow-details/02.panels/Screen%20Shot%202020-09-22%20at%2012.14.17%20pm.png)
 
-### A Panel is Needed:
-- To have content rendered appear in place on the output file used to fulfil the personalized item (pdf).
-- To have content rendered in a step appear on a 3D model.
 
-### Naming your Panel:
-It is important to note that for the purposes of the output file (pdf), you can name your panel anything. But to have the panel appear on a 3D model, you must match the panel name exactly (case sensitive) to the material name of portion of the 3D model you would like your panel to appear on.
+### Naming your Panels
+
+It is important to to match the panel names **exactly** (case sensitive) to the material name of portion of the 3D model you would like your panel to appear on. If you don't do this, the design will not show on your model.
