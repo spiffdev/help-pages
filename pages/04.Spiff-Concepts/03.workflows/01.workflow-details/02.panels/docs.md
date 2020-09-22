@@ -25,6 +25,8 @@ Panels are measured in **points** or **pixels** by a **width** and a **height**.
 
 You can have as many panels as you like. You just need to be able to match the panel sizes and names to what is on your 3D model. To find out what the names are on your model go to [Babylon Sandbox](https://sandbox.babylonjs.com/) and drag your model into the browser.
 
+![](Screen%20Shot%202020-09-22%20at%2012.14.07%20pm.png)
+
 ### A Panel is Needed:
 - To have content rendered appear in place on the output file used to fulfil the personalized item (pdf).
 - To have content rendered in a step appear on a 3D model.
