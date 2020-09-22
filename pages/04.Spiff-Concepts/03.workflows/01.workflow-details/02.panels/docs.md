@@ -17,7 +17,7 @@ When you set up your panel(s) remeber to add at least 2mm [bleed](https://en.wik
 
 Panels are measured in **Points** or **pixels** by a **width** and a **height**. 
   
-## Example:
+#### Example:
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/01.workflow-details/02.panels/Panel%20Graph%20Bigger.png)
 
 ### A Panel is Needed:
