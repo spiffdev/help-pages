@@ -15,7 +15,7 @@ When you set up your panel(s) remeber to add at least 2mm [bleed](https://en.wik
   
   ### Panel Measurements 
 
-Panels are measured in **points** or **pixels** by a **width** and a **height**. So if your design is in millimeters or any other measurement you will need to convert it to points/pixels. _You can do this easily on google or using programs such as Adobe Illustrator._
+Panels are measured in **points** or **pixels** by a **width** and a **height**. So if your design is in millimeters or any other measurement you will need to convert it to points/pixels. You can do this easily using google or programs such as Adobe Illustrator.
   
 #### Example:
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/01.workflow-details/02.panels/Panel%20Graph%20Bigger.png)
