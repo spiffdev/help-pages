@@ -25,10 +25,11 @@ Panels are measured in **points** or **pixels** by a **width** and a **height**.
 
 You can have as many panels as you like. You just need to be able to match the panel sizes and names to what is on your 3D model. To find out what the names are on your model go to [Babylon Sandbox](https://sandbox.babylonjs.com/) and drag your model into the browser. 
 
-In the bottom right corner there are 3 icons, select the first one that is highlighted red in the example below.
+1. In the bottom right corner there are 3 icons, select the first one that is highlighted red in the example below.
+
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/01.workflow-details/02.panels/Screen%20Shot%202020-09-22%20at%2012.14.07%20pm.png)
 
-Now go to your scene explorer on the right hand side and select the Materials drop down.
+2. Now go to your scene explorer on the right hand side and select the Materials drop down.
 Here you will see the names of the panels in your model.
 
  ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/01.workflow-details/02.panels/Screen%20Shot%202020-09-22%20at%2012.14.17%20pm.png)
