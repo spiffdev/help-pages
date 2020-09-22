@@ -1,13 +1,16 @@
 ---
 title: Panels
-media_order: 'Panel Graph Bigger.png,Panel 1.png,Panel 2.png,Panel1.png,Bleed.png'
+media_order: 'Panel Graph Bigger.png,Screen Shot 2020-09-22 at 11.45.58 am.png,Screen Shot 2020-09-22 at 11.46.13 am.png'
 ---
 
 ### What are Panels? 
 
-A panel is the canvas/artboard that your design is built over that forms the base size of your pdf. Don't forget to include bleed in your panel.
+A panel is the base canvas that wraps onto your model. Panels are used to create pdf's.
 
-![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/01.workflow-details/02.panels/sdfghjk.png)    
+![](Screen%20Shot%202020-09-22%20at%2011.45.58%20am.png)
+
+When you set up your panel(s) remeber to add [bleed](https://www.digitalprinting.co.uk/support/what-is-bleed/) so that the edges of your design don't get cut off.
+![](Screen%20Shot%202020-09-22%20at%2011.46.13%20am.png)
 
 Panels are measured in **Points** or **pixels** by a **width** and a **height**. 
   
