@@ -23,9 +23,9 @@ Panels are measured in **points** or **pixels** by a **width** and a **height**.
 
 ### How many Panels can I have?
 
-You can have as many panels as you like. You just need to be able to match the panel sizes and names to what is on your 3D model. To find out what the names are on your model go to [Babylon Sandbox](https://sandbox.babylonjs.com/) and drag your model into the browser.
+You can have as many panels as you like. You just need to be able to match the panel sizes and names to what is on your 3D model. To find out what the names are on your model go to [Babylon Sandbox](https://sandbox.babylonjs.com/) and drag your model into the browser. In the bottom right corner there are 3 icons, select the first one that is highlighted red in the example below.
 
-![](Screen%20Shot%202020-09-22%20at%2012.14.07%20pm.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/01.workflow-details/02.panels/Screen%20Shot%202020-09-22%20at%2012.14.07%20pm.png)
 
 ### A Panel is Needed:
 - To have content rendered appear in place on the output file used to fulfil the personalized item (pdf).
