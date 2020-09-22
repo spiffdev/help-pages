@@ -23,7 +23,7 @@ Panels are measured in **points** or **pixels** by a **width** and a **height**.
 
 ### How many Panels can I have?
 
-You can have as many panels as you like. You just need to be able to match the panel sizes and names to what is on your 3D model. To find out what the names of the panels are on your model go to [Babylon Sandbox](https://sandbox.babylonjs.com/) and drag your model into the browser.
+You can have as many panels as you like. You just need to be able to match the panel sizes and names to what is on your 3D model. To find out what the names are on your model go to [Babylon Sandbox](https://sandbox.babylonjs.com/) and drag your model into the browser.
 
 ### A Panel is Needed:
 - To have content rendered appear in place on the output file used to fulfil the personalized item (pdf).
