@@ -7,7 +7,7 @@ media_order: 'Panel Graph Bigger.png,Screen Shot 2020-09-22 at 11.45.58 am.png,S
 
 A panel is the base canvas that wraps onto your model. Panels are used to create pdf's.
 
-![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/01.workflow-details/02.panels/Screen%20Shot%202020-09-22%20at%2011.45.58%20am.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/01.workflow-details/02.panels/Screen%20Shot%202020-09-23%20at%203.08.53%20pm.png)
 
 When you set up your panel(s) remeber to add at least 2mm [bleed](https://en.wikipedia.org/wiki/Bleed_(printing)) so that the edges of your design don't get cut off.
 
