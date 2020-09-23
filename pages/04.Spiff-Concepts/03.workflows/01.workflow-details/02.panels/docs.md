@@ -1,6 +1,6 @@
 ---
 title: Panels
-media_order: 'Panel Graph Bigger.png,Screen Shot 2020-09-22 at 11.45.58 am.png,Screen Shot 2020-09-22 at 11.46.13 am.png'
+media_order: 'Panel Graph Bigger.png,Screen Shot 2020-09-22 at 11.45.58 am.png,Screen Shot 2020-09-22 at 11.46.13 am.png,Screen Shot 2020-09-22 at 12.14.07 pm.png,Screen Shot 2020-09-22 at 12.14.17 pm.png,Screen Shot 2020-09-23 at 10.01.42 am.png'
 ---
 
 ### What are Panels? 
@@ -29,7 +29,7 @@ You can have as many panels as you like. You just need to be able to match the p
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/01.workflow-details/02.panels/Screen%20Shot%202020-09-22%20at%2012.14.07%20pm.png)
 
-2. Now go to your Scene Explorer on the right hand side and select the **Materials** drop down.
+2. Now go to your **Scene Explorer** on the right hand side and select the **Materials** drop down.
 Here you will see the names of the panels in your model. This models panel is called Label.
 
  ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/01.workflow-details/02.panels/Screen%20Shot%202020-09-22%20at%2012.14.17%20pm.png)
@@ -38,3 +38,5 @@ Here you will see the names of the panels in your model. This models panel is ca
 ### Naming your Panels
 
 It is important to to match the panel names **exactly** (case sensitive) to the material name of portion of the 3D model you would like your panel to appear on. If you don't do this, the design will not show on your model.
+
+![](Screen%20Shot%202020-09-23%20at%2010.01.42%20am.png)
