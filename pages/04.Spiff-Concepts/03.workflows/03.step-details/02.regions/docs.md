@@ -35,7 +35,7 @@ For example in Adobe Illustrator your regions would look something like this -
 
 When in Spiff these regions would look like this -
 
-![](Screen%20Shot%202020-09-24%20at%209.47.00%20am.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/02.regions/Screen%20Shot%202020-09-24%20at%209.47.00%20am.png)
 
 
 In the region, we also set a layer index which refers to the layer order a step will appear in. This is important as it determines what order design steps are rendered on the canvas regardless of the step order. 
