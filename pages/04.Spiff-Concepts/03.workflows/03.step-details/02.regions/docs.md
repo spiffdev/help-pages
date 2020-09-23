@@ -16,19 +16,24 @@ You can also have multiple regions per step. To add more regions simply use the 
 
 ### Placing your Regions
 
-Regions are defined in pixels, so to find out where to place them make sure your design file is set this.
-Regions are measured from the top left corner of your panel
+Regions are defined in pixels, so to find out where to place them make sure your design file is in this measurement.
 
 To find out what your coordinates are find the:
 
-1. Distance from the left edge of the panel **(x)** 
-2. Distance from the top edge of the panel **(y)**
-3. Width of the area you are allowing your content to be sized into **(w)**
-4. Height of the area you are allowing your content to be sized into **(h)** 
-
-These are the values you would see allocated to an object (e.g. text box) in Adobe Illustrator or Photoshop or any other design program. 
+1.  **(x)** Distance from the left edge of the panel  
+2. **(y)**  Distance from the top edge of the panel
+3. **(w)** Width of the area your content will be to be sized to
+4. **(h)**  Height of the area your content will be to be sized to
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/02.regions/Screen%20Shot%202020-09-23%20at%204.11.49%20pm.png)
+
+These are the values you would see allocated to an object (e.g. text box) in Adobe Illustrator or Photoshop or any other design program.
+Regions are measured from the top left corner of your panel so whatever 
+
+It Illustrator your regions would look something like this -
+![](Screen%20Shot%202020-09-23%20at%204.15.56%20pm.png)
+
+
 
 
 In the region, we also set a layer index which refers to the layer order a step will appear in. This is important as it determines what order design steps are rendered on the canvas regardless of the step order. 
