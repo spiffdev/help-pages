@@ -2,9 +2,11 @@
 title: Regions
 ---
 
-### where the content of a step should be placed onto the panel. 
+### What is a Region?
 
-A region is a square area that defines the spot where the content in your step should be rendered on the panel and therefore the 3D model and the pdf. 
+A region is an area that defines the location where the content in your step should be rendered on the panel.
+
+
 
 ### Defined in points, it is:
 1. the distance from the left edge of the panel (x) 
