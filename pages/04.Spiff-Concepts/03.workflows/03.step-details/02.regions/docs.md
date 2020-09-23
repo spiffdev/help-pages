@@ -28,7 +28,7 @@ To find out what your coordinates are find the:
 
 These are the values you would see allocated to an object (e.g. text box) in Adobe Illustrator or Photoshop or any other design program. 
 
-![](Screen%20Shot%202020-09-23%20at%204.11.49%20pm.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/02.regions/Screen%20Shot%202020-09-23%20at%204.11.49%20pm.png)
 
 
 In the region, we also set a layer index which refers to the layer order a step will appear in. This is important as it determines what order design steps are rendered on the canvas regardless of the step order. 
