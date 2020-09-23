@@ -31,7 +31,7 @@ These are the values you would see allocated to an object (e.g. text box) in Ado
 Regions are measured from the top left corner of your panel so whatever 
 
 It Illustrator your regions would look something like this -
-![](Screen%20Shot%202020-09-23%20at%204.15.56%20pm.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/02.regions/Screen%20Shot%202020-09-23%20at%204.15.56%20pm.png)
 
 
 
