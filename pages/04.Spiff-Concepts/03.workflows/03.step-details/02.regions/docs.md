@@ -4,8 +4,11 @@ title: Regions
 
 ### What is a Region?
 
-A region is an area that defines the location where the content in your step should be rendered on the panel.
+A region is an area that defines the location where the content in your step should be placed on the panel.
 
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/02.regions/Screen%20Shot%202020-09-23%20at%203.32.37%20pm.png)
+
+A region can be any kind of rectangular shape.
 
 
 ### Defined in points, it is:
