@@ -28,10 +28,9 @@ To find out what your coordinates are find the:
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/02.regions/Screen%20Shot%202020-09-23%20at%204.11.49%20pm.png)
 
 These are the values you would see allocated to an object (e.g. text box) in Adobe Illustrator or Photoshop or any other design program.
-Regions are measured from the top left corner of your panel so whatever 
+For example in Adobe Illustrator your regions would look something like this -
 
-It Illustrator your regions would look something like this -
-![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/02.regions/Screen%20Shot%202020-09-23%20at%204.15.56%20pm.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/02.regions/Screen%20Shot%202020-09-23%20at%204.17.56%20pm.png)
 
 
 
