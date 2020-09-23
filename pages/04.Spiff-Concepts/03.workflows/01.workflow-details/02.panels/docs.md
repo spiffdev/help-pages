@@ -39,4 +39,4 @@ Here you will see the names of the panels in your model. This models panel is ca
 
 It is important to to match the panel names **exactly** (case sensitive) to the material name of portion of the 3D model you would like your panel to appear on. If you don't do this, the design will not show on your model.
 
-![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/01.workflow-details/02.panels/Screen%20Shot%202020-09-23%20at%2010.01.42%20am.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/01.workflow-details/02.panels/Screen%20Shot%202020-09-23%20at%2010.05.35%20am.png)
