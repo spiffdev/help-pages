@@ -8,7 +8,7 @@ A region is an area that defines the location where the content in your step is 
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/02.regions/Screen%20Shot%202020-09-23%20at%203.32.37%20pm.png)
 
-A region can be any rectangular shape, and sit anywhere on the panel.
+A region can be **any rectangular shape**, and sit anywhere on the panel.
 You can also have multiple regions per step. To add more regions simply use the **+ ADD REGION** button and enter in your coordinates.
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/02.regions/Screen%20Shot%202020-09-23%20at%203.45.33%20pm.png)
