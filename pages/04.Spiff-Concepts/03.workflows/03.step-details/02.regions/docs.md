@@ -11,6 +11,8 @@ A region is an area that defines the location where the content in your step is 
 A region can be any rectangular shape, and sit anywhere on the panel.
 You can also have multiple regions per step. To add more regions simply use the **+ ADD REGION** button and enter in your coordinates.
 
+![](Screen%20Shot%202020-09-23%20at%203.45.33%20pm.png)
+
 
 ### Defined in points, it is:
 1. the distance from the left edge of the panel (x) 
