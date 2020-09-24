@@ -17,6 +17,20 @@ If you don't have any illustrations, don't worry. Spiff provides all merchants w
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/03.illustrations/Screen%20Shot%202020-09-24%20at%2012.12.25%20pm.png)
 
+
+### Creating an Illustration
+
+When creating an illustration to have it optimized for Spiff remember to:
+
+- Have 6 or less colors to keep it simple for the consumer
+- Don't use clipping masks, they will not work
+- Don't use transparency because the color picker won't recoginize it
+
+Apart from these rules, everything else should work! Here are some perfect SVG exmaples.
+
+![](Screen%20Shot%202020-09-24%20at%203.39.19%20pm.png)
+
+
 The illustrations are linked to merchant workflows by creating a new [option](http://help.spiff.com.au/spiff-concepts/options) and selecting illustration as the option type and then building a list of variants (illustrations) to be displayed in a step on a merchant workflow. 
 
 The ability to set colours on the step is a configurable option
