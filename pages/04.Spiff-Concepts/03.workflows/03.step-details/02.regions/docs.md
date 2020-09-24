@@ -40,9 +40,9 @@ When in Spiff these regions would look like this -
 ### Completing your Region
 
 Regions are very powerful and require a little more than just adding your coordinates. You also need to set a **layer index**, add **rotation** (if required), and choose your **panel**.
-The layer index refers to which layer this set will be on
+The layer index refers to which layer this step will be on, you can have as many layers as you like.
 
-![](Screen%20Shot%202020-09-24%20at%2010.10.08%20am.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/02.regions/Screen%20Shot%202020-09-24%20at%2010.10.08%20am.png)
 
 which refers to the layer order a step will appear in. This is important as it determines what order design steps are rendered on the canvas regardless of the step order. 
 We also set a rotation from 0° to 360°
