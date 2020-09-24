@@ -1,6 +1,6 @@
 ---
 title: Illustrations
-media_order: 'firework 8.svg,Happy Birthday 8.svg,6757d8a5632b6bafdbfd15187f758ae0c56a4509-screen-shot-2020-03-25-at-42757-pm.png,f6a581e5798cde7fecd4b37f55401412ff1b662c-screen-shot-2020-05-05-at-73332-am.png,ladybug.svg,bee 1.svg,dragon fly.svg'
+media_order: 'firework 8.svg,Happy Birthday 8.svg,6757d8a5632b6bafdbfd15187f758ae0c56a4509-screen-shot-2020-03-25-at-42757-pm.png,f6a581e5798cde7fecd4b37f55401412ff1b662c-screen-shot-2020-05-05-at-73332-am.png,ladybug.svg,bee 1.svg,dragon fly.svg,Screen Shot 2020-09-24 at 11.28.46 am.png,Screen Shot 2020-09-24 at 11.45.30 am.png'
 ---
 
 ### Illustrations
