@@ -23,22 +23,17 @@ If you don't have any illustrations, don't worry. Spiff provides all merchants w
 When creating an illustration to have it optimized for Spiff remember to:
 
 - Have 6 or less colors to keep it simple for the consumer
+- Avoid extremely detailed vectors, they take too much processing power
 - Don't use clipping masks, they will not work
-- Don't use transparency because the color picker won't recoginize it
+- Don't use transparency, the color picker does not recogize it
+- Don't use gradients or vignette, the color picker does not recogize them
 
-Apart from these rules, everything else should work! Here are some perfect SVG exmaples.
+Apart from these rules, everything else should work! Here are some perfect SVG exmaples. To learn how to set up an SVG in more detail click [here](https://spiffconf.atlassian.net/wiki/spaces/SUD/pages/981401601/Create+SVG).
 
-![](Screen%20Shot%202020-09-24%20at%203.39.19%20pm.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/03.illustrations/Screen%20Shot%202020-09-24%20at%203.39.19%20pm.png)
 
 
 The illustrations are linked to merchant workflows by creating a new [option](http://help.spiff.com.au/spiff-concepts/options) and selecting illustration as the option type and then building a list of variants (illustrations) to be displayed in a step on a merchant workflow. 
 
-The ability to set colours on the step is a configurable option
-
-Click here for a detailed explanation on [how to set up an SVG]()
 
 
-Unusable SVG's 
-Not all SVG's are built equal. 
-- In order for an SVG to be usable it cannot have a gradient or vignette. This is so that spiff can read the colour and therefore offer it for customization. 
-- Too much detail. An SVG is a set of mathematical calculations that are represented by computer code in the file. The more detail, the more calculations and therefore the more processing power required by your conusmers device in order to render it. For examples of Vectors that are too detailed see [SVG Set up]().
