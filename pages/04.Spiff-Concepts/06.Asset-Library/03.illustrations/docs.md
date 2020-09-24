@@ -32,4 +32,4 @@ Apart from these rules, everything else should work! Here are some perfect SVG e
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/03.illustrations/Screen%20Shot%202020-09-24%20at%203.39.19%20pm.png)
 
-To learn how to set up an SVG in more detail click [here](https://spiffconf.atlassian.net/wiki/spaces/SUD/pages/981401601/Create+SVG).
+To learn how to set up an SVG in more detail click [here](https://help.spiff.com.au/spiff-concepts/asset-library/illustrations/create-an-svg).
