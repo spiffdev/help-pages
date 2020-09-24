@@ -5,15 +5,14 @@ media_order: 'firework 8.svg,Happy Birthday 8.svg,6757d8a5632b6bafdbfd15187f758a
 
 ### Illustrations
 
-Illustrations are [vector](https://www.adobe.com/au/creativecloud/illustration/discover/vector-art.html) graphics drawn in Adobe Illustrator or programs like it. Once the vector is ready to be used it is then exported into [svg's](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics) (scaleable vector graphic).
+Illustrations are [vector](https://www.adobe.com/au/creativecloud/illustration/discover/vector-art.html) graphics drawn in Adobe Illustrator or programs like it. Once the vector is ready to be used it is then exported into [SVG's](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics) (scaleable vector graphic).
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/03.illustrations/Screen%20Shot%202020-09-24%20at%2011.45.30%20am.png)
 
-Our system uses these svg's as illustrations that can change colour and be sized to anything. The best thing about svg's is that they don't loose their quality when sized up.
+The advantage of using SVG’s in our editor is that the colors that exist within the SVG are easily modified using our system. The other obvious advantage is that for the purposes of print, SVG’s can be scaled to any size without loosing print quality.
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/03.illustrations/Screen%20Shot%202020-09-24%20at%2011.28.46%20am.png)
-
-The advantage of using SVG’s in our editor is that colours that exist within the SVG are easily modified using the spiff UI. The other obvious advantage is that for the purposes of print, SVG’s can be scaled to any size without loosing print quality.  
+ 
 
 Spiff provides all new merchants with a library of illustrations that can be found in their asset gallery by checking the public assets check box. The user can store their illustrations in the spiff asset gallery.  
 
