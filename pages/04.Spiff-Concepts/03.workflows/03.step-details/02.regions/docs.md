@@ -47,11 +47,10 @@ The layer index refers to which layer this step will be on, you can have as many
 
 It's important to keep your layers structured neatly or you may not be able to see everything you've added to your panel. For exmaple:
 
-- **Layer 0** is a colour step where someone can choose the color of their background
+- **Layer 0** is a color step where someone can choose the color of their background
 - **Layer 1** is an upload step where someone can upload an image
 - **Layer 2** is a text step
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/02.regions/Screen%20Shot%202020-09-24%20at%2010.17.35%20am.png)
 
-which refers to the layer order a step will appear in. This is important as it determines what order design steps are rendered on the canvas regardless of the step order. 
-We also set a rotation from 0° to 360°
+We also set a rotation from 0° to 360°.
