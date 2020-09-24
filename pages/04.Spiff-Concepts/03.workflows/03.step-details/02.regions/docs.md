@@ -56,3 +56,5 @@ It's important to keep your layers structured neatly or you may not be able to s
 We also set a rotation from 0° to 360°.
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/02.regions/Screen%20Shot%202020-09-24%20at%2010.36.32%20am.png)
+
+To complete your region you need to assign it a panel. The panel you assign it to will be the one it appears on.
