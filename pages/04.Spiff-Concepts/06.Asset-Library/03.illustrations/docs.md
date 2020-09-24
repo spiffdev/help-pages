@@ -15,6 +15,8 @@ The advantage of using SVG’s in our editor is that the colors that exist withi
  
 If you don't have any illustrations, don't worry. Spiff provides all merchants with a library of illustrations that can be found in their **asset gallery** by checking the **public assets** check box. You can also upload as many illustrations as you like  using the **Create New Asset** button in the top right.
 
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/03.illustrations/Screen%20Shot%202020-09-24%20at%2012.00.01%20pm.png)
+
 The illustrations are linked to merchant workflows by creating a new [option](http://help.spiff.com.au/spiff-concepts/options) and selecting illustration as the option type and then building a list of variants (illustrations) to be displayed in a step on a merchant workflow. 
 
 The ability to set colours on the step is a configurable option
