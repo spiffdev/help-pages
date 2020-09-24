@@ -19,10 +19,10 @@ You can also have multiple regions per step. To add more regions simply use the 
 Regions are defined in pixels, so to find out where to place them make sure your design file is in this measurement.
 
 To find out what your coordinates are find the:
-1.  **(x)** Distance from the left edge 
-2. **(y)**  Distance from the top edge
-3. **(w)** Width of the area
-4. **(h)**  Height of the area
+1.  **(x)** Distance from the left edge  
+3. **(y)**  Distance from the top edge
+4. **(w)** Width of the area
+5. **(h)**  Height of the area
 
 
 
@@ -37,6 +37,12 @@ When in Spiff these regions would look like this -
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/02.regions/Screen%20Shot%202020-09-24%20at%209.47.00%20am.png)
 
+### Completing your Region
 
-In the region, we also set a layer index which refers to the layer order a step will appear in. This is important as it determines what order design steps are rendered on the canvas regardless of the step order. 
+Regions are very powerful and require a little more than just adding your coordinates. You also need to set a **layer index**, add **rotation** (if required), and choose your **panel**.
+The layer index refers to which layer this set will be on
+
+![](Screen%20Shot%202020-09-24%20at%2010.10.08%20am.png)
+
+which refers to the layer order a step will appear in. This is important as it determines what order design steps are rendered on the canvas regardless of the step order. 
 We also set a rotation from 0° to 360°
