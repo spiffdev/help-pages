@@ -40,7 +40,7 @@ When in Spiff these regions would look like this (these have been rounded up) -
 
 ### Completing your Regions
 
-Regions are very powerful and require a little more than just adding your coordinates. You also need to set a **layer index**, add **rotation** (if required), and choose your **panel**.
+Regions are very powerful and require a little more than just adding your coordinates. You also need to set a **layer index**, add **rotation** (if required), and choose your **[panel](https://help.spiff.com.au/spiff-concepts/workflows/workflow-details/panels)**.
 The layer index refers to which layer this step will be on, you can have as many layers as you like.
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/02.regions/Screen%20Shot%202020-09-24%20at%2010.16.11%20am.png)
@@ -58,3 +58,5 @@ We also set a rotation from 0° to 360°.
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/02.regions/Screen%20Shot%202020-09-24%20at%2010.36.32%20am.png)
 
 To complete your region you need to assign it a panel. The panel you assign it to will be the one it appears on.
+
+The last thing you can configure in regions is the **immutable** checkbox. This setting will make it so that the object is locked when in the **advanced editor**.
