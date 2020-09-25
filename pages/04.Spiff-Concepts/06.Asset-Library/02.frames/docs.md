@@ -42,7 +42,7 @@ Frames are created as vectors in Adobe Illustrator and are exported as SVG’s a
 
 1. Create your desired shape as a vector in Illustrator, this shape can be anything you like. We have chosen to make all of our frames grey to keep them consistant and reccomend you do the same. The hex code is #616262. 
 
-![](Screen%20Shot%202020-09-25%20at%203.48.33%20pm.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/02.frames/Screen%20Shot%202020-09-25%20at%203.48.33%20pm.png)
 
 2. After you have created your shape turn it into a compound path. Do this by going to the **Object** tab in the top menu, and down to **Compound Path** and then **Make**. Also it's important to note if your frame is made up of two or more objects, first **group** your objects and then make them a compound path.
 
@@ -50,4 +50,8 @@ Frames are created as vectors in Adobe Illustrator and are exported as SVG’s a
 
 3. Now your frame is ready to export as an SVG. To do this go to the **File** tab in the top menu and down to **Export** and **Export As...**.
 
-![](0e74a97a-0ab1-4391-8cdc-d23030f19fb1.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/02.frames/0e74a97a-0ab1-4391-8cdc-d23030f19fb1.png)
+
+4. This will bring up an SVG Options box. In this box ensure that the **Images** drop down is set to **Embed**. Then press **OK**.
+
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/02.frames/752e3dde-f4c8-48b5-93c6-d368f230b509.png)
