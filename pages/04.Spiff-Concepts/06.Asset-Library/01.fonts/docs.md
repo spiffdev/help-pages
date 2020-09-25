@@ -19,7 +19,7 @@ Spiff provides the merchant with a host of public fonts that merchants can use f
 
 Placing your fonts is made very simple with the use of [regions](https://help.spiff.com.au/spiff-concepts/workflows/step-details/regions). A region is an area that defines the location where the content in your step is placed on the panel. Simply find out the region in which you want your font to appear on the panel and then add your chosen frame(s). Go here to more about placing your [regions](https://help.spiff.com.au/spiff-concepts/workflows/step-details/regions).
 
-![](Screen%20Shot%202020-09-25%20at%205.25.55%20pm.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/01.fonts/Screen%20Shot%202020-09-25%20at%205.25.55%20pm.png)
 
 #### Attributes
 
