@@ -11,7 +11,7 @@ Fonts are one of the asset types Spiff uses, they used in text steps which allow
 
 The Spiff editor accepts [True Type (.ttf)](https://en.wikipedia.org/wiki/TrueType) fonts.
 
-![](Screen%20Shot%202020-09-25%20at%204.54.32%20pm.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/01.fonts/Screen%20Shot%202020-09-25%20at%204.54.32%20pm.png)
 
 They are uploaded using the **Create New Asset** button in the top right. Spiff provides the merchant with a host of public fonts that merchants can use for free in their respective workflows. If you have any fonts that are not TTF our editor will not recognize them, to fix this simply find a converter such as [Convertio](https://convertio.co/otf-ttf/) and change your file type to TTF.
 
