@@ -7,15 +7,13 @@ media_order: '7ff3300b1956239b03bc1763acea2e0376b439ad-screen-shot-2020-04-09-at
 
 Frames render an upload button to a step allowing users to add an image from their device. Frames can be any kind of shape or size which gives users a lot of creative freedom when uploading images.
 
-![](Screen%20Shot%202020-09-25%20at%202.47.54%20pm.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/02.frames/Screen%20Shot%202020-09-25%20at%202.47.54%20pm.png)
 
 Like all other Spiff assets we provide you with public library so that you can start building workflows straight away. To see the library of frames simply make sure the **Show public assets** button is checked. Here are some of our existing frames.
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/02.frames/Screen%20Shot%202020-09-25%20at%202.42.20%20pm.png)
 
-This step renders an Upload button allowing the user to add an image from their device. The position is totally configurable to your requirements. 
-![](9b0004b012dfbcaa4d3c83454af26438ad451229-screen-shot-2020-04-09-at-72600-am.png)
-Accepted User File Types = JPG, PNG and SVG
+
 
 #### Uploading Frames to fill a defined area 
 Images uploaded to spiff are defined by regions. A region is space defined with the panel area. A region has an x and y coordinate value to position the image (top Right corner) on the model and pdf as well as a height and width. These coordinates are also used to build the pdf upon execution of the order.  
@@ -39,6 +37,11 @@ Note that when the user uploads an image they can click on the image in the step
 To apply an image like a logo the user must upload PNG or SVG as they are transparent when inserted onto the product, whilst JPG files are not. 
 ![](c1d9b295582e7498bf22a94a489ea9c929b7b9f4-screen-shot-2020-04-09-at-72223-am.png)
 Applying a logo in a JPG will result in white space to fill the area outside of the logo. Below is an example of how a Transparent PNG will place in the model. Notice that the white background in the file on the right does not show on the object. If this were a JPG the white background would show on the model as a square around the logo just like it does on the right. 
+
+
+This step renders an Upload button allowing the user to add an image from their device. The position is totally configurable to your requirements. 
+![](9b0004b012dfbcaa4d3c83454af26438ad451229-screen-shot-2020-04-09-at-72600-am.png)
+Accepted User File Types = JPG, PNG and SVG
 
 
  
