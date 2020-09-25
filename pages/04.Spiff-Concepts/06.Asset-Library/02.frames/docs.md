@@ -28,7 +28,7 @@ When adding frames to a workflow step you can have as many as you like! As long 
 
 Placing your frames is made very simple with the use of [regions](https://help.spiff.com.au/spiff-concepts/workflows/step-details/regions). A region is an area that defines the location where the content in your step is placed on the panel. Simply find out the region in which you want your frame to appear on the panel and then add your chosen frame(s).
 
-![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/02.frames/Screen%20Shot%202020-09-25%20at%203.05.27%20pm.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/02.frames/Screen%20Shot%202020-09-25%20at%203.09.49%20pm.png)
 
 #### Creating a Frame
 
