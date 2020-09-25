@@ -1,11 +1,11 @@
 ---
 title: Frames
-media_order: '7ff3300b1956239b03bc1763acea2e0376b439ad-screen-shot-2020-04-09-at-73456-am.png,52d13c990d202f3f847a4187f8ac3d3f8de241e4-screen-shot-2020-04-09-at-73648-am-1.png,214f2b0cec7c75906e22c77a95ee7099474e0d9c-screen-shot-2020-04-08-at-115128-am.png,c1d9b295582e7498bf22a94a489ea9c929b7b9f4-screen-shot-2020-04-09-at-72223-am.png,9b0004b012dfbcaa4d3c83454af26438ad451229-screen-shot-2020-04-09-at-72600-am.png,Screen Shot 2020-09-25 at 2.42.20 pm.png,Screen Shot 2020-09-25 at 2.54.25 pm.png,Screen Shot 2020-09-25 at 2.50.35 pm.png,Screen Shot 2020-09-25 at 3.09.49 pm.png,png-700x342.jpg'
+media_order: '7ff3300b1956239b03bc1763acea2e0376b439ad-screen-shot-2020-04-09-at-73456-am.png,52d13c990d202f3f847a4187f8ac3d3f8de241e4-screen-shot-2020-04-09-at-73648-am-1.png,214f2b0cec7c75906e22c77a95ee7099474e0d9c-screen-shot-2020-04-08-at-115128-am.png,c1d9b295582e7498bf22a94a489ea9c929b7b9f4-screen-shot-2020-04-09-at-72223-am.png,9b0004b012dfbcaa4d3c83454af26438ad451229-screen-shot-2020-04-09-at-72600-am.png,Screen Shot 2020-09-25 at 2.42.20 pm.png,Screen Shot 2020-09-25 at 2.54.25 pm.png,Screen Shot 2020-09-25 at 2.50.35 pm.png,Screen Shot 2020-09-25 at 3.09.49 pm.png,png-700x342.jpg,Screen Shot 2020-09-25 at 3.16.08 pm.png,d2b700ea-26e5-443d-9e64-9c067b9e7954.png'
 ---
 
 ### Frames
 
-Frames render an upload button to a step allowing users to add an image from their device. Frames can be any shape or size which gives users a lot of creative freedom when uploading images.
+Frames render an upload button to a step allowing users to add an image from their device. Frames are a powerful and easy way to empower your consumer with the ability to create professional and artistic personalisation's without needing to have any knowledge of how to design. Without frames we would only be able to drop images into a square [region](https://help.spiff.com.au/spiff-concepts/workflows/step-details/regions) defined by a length and width. 
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/02.frames/Screen%20Shot%202020-09-25%20at%202.50.35%20pm.png)
 
@@ -32,22 +32,14 @@ When adding frames to a workflow step you can have as many as you like! As long 
 
 #### Placing your Frames
 
-Placing your frames is made very simple with the use of [regions](https://help.spiff.com.au/spiff-concepts/workflows/step-details/regions). A region is an area that defines the location where the content in your step is placed on the panel. Simply find out the region in which you want your frame to appear on the panel and then add your chosen frame(s).
+Placing your frames is made very simple with the use of [regions](https://help.spiff.com.au/spiff-concepts/workflows/step-details/regions). A region is an area that defines the location where the content in your step is placed on the panel. Simply find out the region in which you want your frame to appear on the panel and then add your chosen frame(s). Go here to more about placing your [regions](https://help.spiff.com.au/spiff-concepts/workflows/step-details/regions).
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/02.frames/Screen%20Shot%202020-09-25%20at%203.09.49%20pm.png)
 
 #### Creating a Frame
 
-Frames are created as grey vectors in illustrator and are exported as SVG’s and uploaded to the Frames TAB in the asset gallery. Only SVG’s in this folder will be able to be used in the upload step. See uploading frames for more help on how to set up an SVG for spiff.
+Frames are created as vectors in Adobe Illustrator and are exported as SVG’s and uploaded to the frames in the **asset gallery**. Only SVG’s in this folder will be able to be used in the upload step. See steps below for detailed instructions on how to create a frame in Adobe Illustrator.
 
-A user can either use one frame or many. If an Option is added (list of variants) to the step to display many frames, the user can choose from a range of shapes. 
-![](214f2b0cec7c75906e22c77a95ee7099474e0d9c-screen-shot-2020-04-08-at-115128-am.png)  
-Note: Frames are vectors and so are sized to be in proportion to the length and width defined by the merchant as the area the frame takes up on the object. This means that a shape uploaded to assets will be distorted to fit within those parameters. 
+1. Create your desired shape as a vector in Illustrator. This shape can be anything you like. After you have created your shape turn it into a compound path, by going to the **Object** tab in the top menu, and down to **Compound Path** and then **Make**. If your frame is made up of two or more objects, first group your objects and then make a compound path.
 
-
-Eg. In a region defined as a square, a rectangle will be resized into a square to fit.  In the example below you have a region on the bottle defined as almost a square 448x408.  
-![](7ff3300b1956239b03bc1763acea2e0376b439ad-screen-shot-2020-04-09-at-73456-am.png)  
-You Can see that the uploaded frame shape is rectangular in shape
-When it is placed onto the object it is resized and is no longer a rectangle. 
-![](52d13c990d202f3f847a4187f8ac3d3f8de241e4-screen-shot-2020-04-09-at-73648-am-1.png)
-Note that when the user uploads an image they can click on the image in the step and zoom in or zoom out and pan the image into their desired spot. 
+![](d2b700ea-26e5-443d-9e64-9c067b9e7954.png)
