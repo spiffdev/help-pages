@@ -42,4 +42,4 @@ Frames are created as vectors in Adobe Illustrator and are exported as SVG’s a
 
 1. Create your desired shape as a vector in Illustrator. This shape can be anything you like. After you have created your shape turn it into a compound path, by going to the **Object** tab in the top menu, and down to **Compound Path** and then **Make**. If your frame is made up of two or more objects, first group your objects and then make a compound path.
 
-![](d2b700ea-26e5-443d-9e64-9c067b9e7954.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/02.frames/d2b700ea-26e5-443d-9e64-9c067b9e7954.png)
