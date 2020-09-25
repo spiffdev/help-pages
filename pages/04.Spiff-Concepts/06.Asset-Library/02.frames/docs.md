@@ -40,6 +40,7 @@ Placing your frames is made very simple with the use of [regions](https://help.s
 
 Frames are created as vectors in Adobe Illustrator and are exported as SVG’s and uploaded to the frames in the **asset gallery**. Only SVG’s in this folder will be able to be used in the upload step. See steps below for detailed instructions on how to create a frame in Adobe Illustrator.
 
-1. Create your desired shape as a vector in Illustrator. This shape can be anything you like. After you have created your shape turn it into a compound path, by going to the **Object** tab in the top menu, and down to **Compound Path** and then **Make**. If your frame is made up of two or more objects, first group your objects and then make a compound path.
+1. Create your desired shape as a vector in Illustrator, this shape can be anything you like. We have chosen to make all of our frames grey to keep them consistant and reccomend you do the same. The hex code is #616262. After you have created your shape turn it into a compound path, by going to the **Object** tab in the top menu, and down to **Compound Path** and then **Make**. If your frame is made up of two or more objects, first group your objects and then make a compound path.
+
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/02.frames/d2b700ea-26e5-443d-9e64-9c067b9e7954.png)
