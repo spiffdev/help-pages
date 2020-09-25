@@ -9,9 +9,10 @@ Fonts are one of the asset types Spiff uses, they used in text steps which allow
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/01.fonts/Screen%20Shot%202020-09-25%20at%204.28.22%20pm.png)
 
-to set 1 or more regions on a canvas where the user can type in a personalized message. 
+The Spiff editor accepts [True Type (.ttf)](https://en.wikipedia.org/wiki/TrueType) fonts. They are uploaded using the **Create New Asset** button in the top right. Spiff provides the merchant with a host of public fonts that merchants can use for free in their respective workflows. If you have any fonts that are not TTF our editor will not recognize them, to fix this simply find a converter such as [Convertio](https://convertio.co/otf-ttf/) and change your file type to TTF.
 
-The spiff editor accepts True Type (.ttf) fonts. They are uploaded to the spiff platform via the spiff hub in the assets folder. Spiff provides the merchant with a host of public fonts that merchants can use for free in their respective workflows. 
+
+to set 1 or more regions on a canvas where the user can type in a personalized message. 
 
 Click on the assets folder and select the fonts tab
 Then click the create asset button and upload your fonts
