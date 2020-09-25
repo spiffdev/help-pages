@@ -22,10 +22,7 @@ When a use is uploading to a frame their image needs to be a [JPG](https://en.wi
 
 Uploading logos to a frame works the same as uploading any other image except the image will need to have a transparent background. The file types that we reccomend to use are PNG's and SVG's because they support transaprency. JPG does not, applying a logo in a JPG will result in white space to fill the area outside of the logo.
 
-Below is an example of how a Transparent PNG will place in the model. Notice that the white background in the file on the right does not show on the object. If this were a JPG the white background would show on the model as a square around the logo just like it does on the right. 
-
-![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/02.frames/c1d9b295582e7498bf22a94a489ea9c929b7b9f4-screen-shot-2020-04-09-at-72223-am.png)
-![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/02.frames/png-700x342.jpg)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/02.frames/Screen%20Shot%202020-09-25%20at%203.16.08%20pm.png)
 
 #### How many Frames can I use?
 
