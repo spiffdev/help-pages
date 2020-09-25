@@ -55,3 +55,7 @@ Frames are created as vectors in Adobe Illustrator and are exported as SVG’s a
 4. This will bring up an SVG Options box. In this box ensure that the **Images** drop down is set to **Embed**. Then press **OK**.
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/02.frames/752e3dde-f4c8-48b5-93c6-d368f230b509.png)
+
+5. Now your frame is exported to your desired location. Now all you need to add in a small snipped of code so that our system will recognize the SVG as a frame. Open up any program where you can see html such as [Visual Studio Code](https://code.visualstudio.com/) and open your new frame. Near the top of the code you should see the word **path**. Once you find this all you need to do is paste **"id=target-path"** after it and then save. Your frame is now ready to upload.
+
+![](Screen%20Shot%202020-09-25%20at%203.54.55%20pm.png)
