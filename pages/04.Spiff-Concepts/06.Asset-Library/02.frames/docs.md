@@ -13,6 +13,11 @@ Like all other Spiff assets we provide you with public library so that you can s
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/02.frames/Screen%20Shot%202020-09-25%20at%202.42.20%20pm.png)
 
+
+#### Accepted File Formats
+
+When a use is uploading to a frame their image needs to be a [JPG](https://en.wikipedia.org/wiki/JPEG), [PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics) or [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics).
+
 #### How many Frames can I use?
 
 When adding frames to a workflow step you can have as many as you like! As long as they all have the same aspect ratio. The reason they all need to be the same aspect ratio is because they will all be placed into the same [region](https://help.spiff.com.au/spiff-concepts/workflows/step-details/regions), which will stretch/squish a frame that is not the right size.
@@ -23,6 +28,9 @@ When adding frames to a workflow step you can have as many as you like! As long 
 
 Placing your frames is made very simple with the use of [regions](https://help.spiff.com.au/spiff-concepts/workflows/step-details/regions). A region is an area that defines the location where the content in your step is placed on the panel. Simply find out the region in which you want your frame to appear on the panel and then add your chosen frame(s).
 
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/02.frames/Screen%20Shot%202020-09-25%20at%203.05.27%20pm.png)
+
+#### Creating a Frame
 
 Frames are created as grey vectors in illustrator and are exported as SVG’s and uploaded to the Frames TAB in the asset gallery. Only SVG’s in this folder will be able to be used in the upload step. See uploading frames for more help on how to set up an SVG for spiff.
 
