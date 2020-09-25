@@ -1,6 +1,6 @@
 ---
 title: Frames
-media_order: '7ff3300b1956239b03bc1763acea2e0376b439ad-screen-shot-2020-04-09-at-73456-am.png,52d13c990d202f3f847a4187f8ac3d3f8de241e4-screen-shot-2020-04-09-at-73648-am-1.png,214f2b0cec7c75906e22c77a95ee7099474e0d9c-screen-shot-2020-04-08-at-115128-am.png,c1d9b295582e7498bf22a94a489ea9c929b7b9f4-screen-shot-2020-04-09-at-72223-am.png,9b0004b012dfbcaa4d3c83454af26438ad451229-screen-shot-2020-04-09-at-72600-am.png,Screen Shot 2020-09-25 at 2.42.20 pm.png,Screen Shot 2020-09-25 at 2.54.25 pm.png,Screen Shot 2020-09-25 at 2.50.35 pm.png,Screen Shot 2020-09-25 at 3.09.49 pm.png,png-700x342.jpg,Screen Shot 2020-09-25 at 3.16.08 pm.png,d2b700ea-26e5-443d-9e64-9c067b9e7954.png'
+media_order: '7ff3300b1956239b03bc1763acea2e0376b439ad-screen-shot-2020-04-09-at-73456-am.png,52d13c990d202f3f847a4187f8ac3d3f8de241e4-screen-shot-2020-04-09-at-73648-am-1.png,214f2b0cec7c75906e22c77a95ee7099474e0d9c-screen-shot-2020-04-08-at-115128-am.png,c1d9b295582e7498bf22a94a489ea9c929b7b9f4-screen-shot-2020-04-09-at-72223-am.png,9b0004b012dfbcaa4d3c83454af26438ad451229-screen-shot-2020-04-09-at-72600-am.png,Screen Shot 2020-09-25 at 2.42.20 pm.png,Screen Shot 2020-09-25 at 2.54.25 pm.png,Screen Shot 2020-09-25 at 2.50.35 pm.png,Screen Shot 2020-09-25 at 3.09.49 pm.png,png-700x342.jpg,Screen Shot 2020-09-25 at 3.16.08 pm.png,d2b700ea-26e5-443d-9e64-9c067b9e7954.png,0e74a97a-0ab1-4391-8cdc-d23030f19fb1.png,752e3dde-f4c8-48b5-93c6-d368f230b509.png,Screen Shot 2020-09-25 at 3.48.33 pm.png'
 ---
 
 ### Frames
@@ -40,7 +40,14 @@ Placing your frames is made very simple with the use of [regions](https://help.s
 
 Frames are created as vectors in Adobe Illustrator and are exported as SVG’s and uploaded to the frames in the **asset gallery**. Only SVG’s in this folder will be able to be used in the upload step. See steps below for detailed instructions on how to create a frame in Adobe Illustrator.
 
-1. Create your desired shape as a vector in Illustrator, this shape can be anything you like. We have chosen to make all of our frames grey to keep them consistant and reccomend you do the same. The hex code is #616262. After you have created your shape turn it into a compound path, by going to the **Object** tab in the top menu, and down to **Compound Path** and then **Make**. If your frame is made up of two or more objects, first group your objects and then make a compound path.
+1. Create your desired shape as a vector in Illustrator, this shape can be anything you like. We have chosen to make all of our frames grey to keep them consistant and reccomend you do the same. The hex code is #616262. 
 
+![](Screen%20Shot%202020-09-25%20at%203.48.33%20pm.png)
+
+2. After you have created your shape turn it into a compound path. Do this by going to the **Object** tab in the top menu, and down to **Compound Path** and then **Make**. Also it's important to note if your frame is made up of two or more objects, first **group** your objects and then make them a compound path.
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/02.frames/d2b700ea-26e5-443d-9e64-9c067b9e7954.png)
+
+3. Now your frame is ready to export as an SVG. To do this go to the **File** tab in the top menu and down to **Export** and **Export As...**.
+
+![](0e74a97a-0ab1-4391-8cdc-d23030f19fb1.png)
