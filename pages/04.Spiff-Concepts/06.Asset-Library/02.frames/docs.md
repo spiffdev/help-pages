@@ -17,7 +17,7 @@ Like all other Spiff assets we provide you with public library so that you can s
 
 When adding frames to a workflow step you can have as many as you like! As long as they all have the same aspect ratio. The reason they all need to be the same aspect ratio is because they will all be placed into the same [region](https://help.spiff.com.au/spiff-concepts/workflows/step-details/regions), which will stretch/squish a frame that is not the right size.
 
-![](Screen%20Shot%202020-09-25%20at%202.54.25%20pm.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/02.frames/Screen%20Shot%202020-09-25%20at%202.54.25%20pm.png)
 
 #### Placing your Frames
 
