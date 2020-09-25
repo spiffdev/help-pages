@@ -5,7 +5,7 @@ media_order: 'b74900c2e141b444c8678991bc3ea4bdb467c42c-screen-shot-2020-05-03-at
 
 ### Fonts
 
-Fonts are one of the asset types Spiff uses. Fonts are used in the text steps in workflows which allows users to type in personalized messages.
+Fonts are one of the asset types Spiff uses, they used in text steps which allows users to create personalized messages.
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/01.fonts/Screen%20Shot%202020-09-25%20at%204.28.22%20pm.png)
 
