@@ -15,14 +15,14 @@ The Spiff editor accepts [True Type (.ttf)](https://en.wikipedia.org/wiki/TrueTy
 
 Spiff provides the merchant with a host of public fonts that merchants can use for free in their respective workflows. If you have any fonts that are not TTF our editor will not recognize them. To fix this simply find a converter such as [Convertio](https://convertio.co/otf-ttf/) and change your file type to TTF.
 
+### Placing your Fonts
 
+Placing your fonts is made very simple with the use of [regions](https://help.spiff.com.au/spiff-concepts/workflows/step-details/regions). A region is an area that defines the location where the content in your step is placed on the panel. Simply find out the region in which you want your font to appear on the panel and then add your chosen frame(s). Go here to more about placing your [regions](https://help.spiff.com.au/spiff-concepts/workflows/step-details/regions).
 
-
-
-to set 1 or more regions on a canvas where the user can type in a personalized message. 
-
+![](Screen%20Shot%202020-09-25%20at%205.25.55%20pm.png)
 
 #### Attributes
+
 The merchant can set a default font for a text step. In this case the merchant dictates that the consumer must use the font provided and no list options are shown to the user. The user is just presented with a Text field with a (configurable) color picker. This is displayed in the left hand imnage below 
 ![](210f25906042709d16dac1510e0cc1d459d5ec8d-screen-shot-2020-03-25-at-45021-pm.png)![](210f25906042709d16dac1510e0cc1d459d5ec8d-screen-shot-2020-03-25-at-45021-pm.png)
 
