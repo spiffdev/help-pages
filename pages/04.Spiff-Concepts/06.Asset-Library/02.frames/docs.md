@@ -5,7 +5,7 @@ media_order: '7ff3300b1956239b03bc1763acea2e0376b439ad-screen-shot-2020-04-09-at
 
 ### Frames
 
-Frames render an upload button to a step allowing users to add an image from their device. Frames can be any kind of shape or size which gives users a lot of creative freedom when uploading images.
+Frames render an upload button to a step allowing users to add an image from their device. Frames can be any shape or size which gives users a lot of creative freedom when uploading images.
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/02.frames/Screen%20Shot%202020-09-25%20at%202.50.35%20pm.png)
 
@@ -13,12 +13,17 @@ Like all other Spiff assets we provide you with public library so that you can s
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/02.frames/Screen%20Shot%202020-09-25%20at%202.42.20%20pm.png)
 
+#### How many Frames can I use?
+
+When adding frames to a workflow step you can have as many as you like! As long as they all have the same aspect ratio. The reason they all need to be the same aspect ratio is because they will all be placed into the same [region](https://help.spiff.com.au/spiff-concepts/workflows/step-details/regions), which will stretch/squish a frame that is not the right size.
+
+![](Screen%20Shot%202020-09-25%20at%202.54.25%20pm.png)
+
+#### Placing your Frames
+
+Placing your frames is made very simple with the use of [regions](https://help.spiff.com.au/spiff-concepts/workflows/step-details/regions). A region is an area that defines the location where the content in your step is placed on the panel. 
 
 
-#### Uploading Frames to fill a defined area 
-Images uploaded to spiff are defined by regions. A region is space defined with the panel area. A region has an x and y coordinate value to position the image (top Right corner) on the model and pdf as well as a height and width. These coordinates are also used to build the pdf upon execution of the order.  
-Generally merchants will require a standard square frame but it is important to note that this can be any shape or combination of shapes. 
-![](7ff3300b1956239b03bc1763acea2e0376b439ad-screen-shot-2020-04-09-at-73456-am.png)  
 Frames are created as grey vectors in illustrator and are exported as SVG’s and uploaded to the Frames TAB in the asset gallery. Only SVG’s in this folder will be able to be used in the upload step. See uploading frames for more help on how to set up an SVG for spiff.
 
 A user can either use one frame or many. If an Option is added (list of variants) to the step to display many frames, the user can choose from a range of shapes. 
