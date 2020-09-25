@@ -5,7 +5,11 @@ media_order: 'b74900c2e141b444c8678991bc3ea4bdb467c42c-screen-shot-2020-05-03-at
 
 ### Fonts
 
-Fonts are oneFonts are used in the Add Text Step Type in workflows which allows the merchant to set 1 or more regions on a canvas where the user can type in a personalized message. 
+Fonts are another one of the asset types Spiff has. Fonts are used in the text steps in workflows which allows users to type in personalized messages.
+
+![](Screen%20Shot%202020-09-25%20at%204.28.22%20pm.png)
+
+to set 1 or more regions on a canvas where the user can type in a personalized message. 
 
 The spiff editor accepts True Type (.ttf) fonts. They are uploaded to the spiff platform via the spiff hub in the assets folder. Spiff provides the merchant with a host of public fonts that merchants can use for free in their respective workflows. 
 
