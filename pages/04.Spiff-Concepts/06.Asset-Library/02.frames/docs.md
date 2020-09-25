@@ -61,5 +61,6 @@ Frames are created as vectors in Adobe Illustrator and are exported as SVG’s a
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/02.frames/Screen%20Shot%202020-09-25%20at%203.54.55%20pm.png)
 
 6. Now your frame is ready sign into your account on Spiff and got to your frame tab in assets and press **Create New Asset** in the top right. And viola you have created a frame!
-
+  
+  
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/02.frames/Screen%20Shot%202020-09-25%20at%204.07.00%20pm.png)
