@@ -7,7 +7,7 @@ media_order: '7ff3300b1956239b03bc1763acea2e0376b439ad-screen-shot-2020-04-09-at
 
 Frames render an upload button to a step allowing users to add an image from their device. Frames can be any kind of shape or size which gives users a lot of creative freedom when uploading images.
 
-![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/02.frames/Screen%20Shot%202020-09-25%20at%202.47.54%20pm.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/02.frames/Screen%20Shot%202020-09-25%20at%202.50.35%20pm.png)
 
 Like all other Spiff assets we provide you with public library so that you can start building workflows straight away. To see the library of frames simply make sure the **Show public assets** button is checked. Here are some of our existing frames.
 
