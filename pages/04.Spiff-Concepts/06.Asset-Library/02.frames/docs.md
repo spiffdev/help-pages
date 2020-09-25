@@ -18,6 +18,14 @@ Like all other Spiff assets we provide you with public library so that you can s
 
 When a use is uploading to a frame their image needs to be a [JPG](https://en.wikipedia.org/wiki/JPEG), [PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics) or [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics).
 
+#### Uploading Logos
+
+Uploading logos to a frame works the same as uploading any other image except the image will need to have a transparent background. The file types that we reccomend to use are PNG's and SVG's because they support transaprency. JPG does not, applying a logo in a JPG will result in white space to fill the area outside of the logo.
+
+Below is an example of how a Transparent PNG will place in the model. Notice that the white background in the file on the right does not show on the object. If this were a JPG the white background would show on the model as a square around the logo just like it does on the right. 
+
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/02.frames/c1d9b295582e7498bf22a94a489ea9c929b7b9f4-screen-shot-2020-04-09-at-72223-am.png)
+
 #### How many Frames can I use?
 
 When adding frames to a workflow step you can have as many as you like! As long as they all have the same aspect ratio. The reason they all need to be the same aspect ratio is because they will all be placed into the same [region](https://help.spiff.com.au/spiff-concepts/workflows/step-details/regions), which will stretch/squish a frame that is not the right size.
@@ -45,16 +53,3 @@ You Can see that the uploaded frame shape is rectangular in shape
 When it is placed onto the object it is resized and is no longer a rectangle. 
 ![](52d13c990d202f3f847a4187f8ac3d3f8de241e4-screen-shot-2020-04-09-at-73648-am-1.png)
 Note that when the user uploads an image they can click on the image in the step and zoom in or zoom out and pan the image into their desired spot. 
-
-#### Uploading Logos
-To apply an image like a logo the user must upload PNG or SVG as they are transparent when inserted onto the product, whilst JPG files are not. 
-![](c1d9b295582e7498bf22a94a489ea9c929b7b9f4-screen-shot-2020-04-09-at-72223-am.png)
-Applying a logo in a JPG will result in white space to fill the area outside of the logo. Below is an example of how a Transparent PNG will place in the model. Notice that the white background in the file on the right does not show on the object. If this were a JPG the white background would show on the model as a square around the logo just like it does on the right. 
-
-
-This step renders an Upload button allowing the user to add an image from their device. The position is totally configurable to your requirements. 
-![](9b0004b012dfbcaa4d3c83454af26438ad451229-screen-shot-2020-04-09-at-72600-am.png)
-Accepted User File Types = JPG, PNG and SVG
-
-
- 
