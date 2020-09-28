@@ -2,7 +2,9 @@
 title: Images
 ---
 
-The place where you can store raster based images that you can curate for use in your workflows via the use of spiff options
+### Images
+
+Images are raster based [PNG's](https://en.wikipedia.org/wiki/PNG), [JPG's](https://en.wikipedia.org/wiki/JPEG) or [JPEG's](https://en.wikipedia.org/wiki/JPEG) that you can curate for use in workflows.
 
 ### Uses 
 - Build lists of curated images and offer customers the ablility to customise products using images perfectly setup to portray the finished product. Also images used in this process mean that you also can control the quality of the output (printing)
