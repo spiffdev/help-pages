@@ -6,7 +6,7 @@ title: Images
 
 Images are raster based [PNG's](https://en.wikipedia.org/wiki/PNG), [JPG's](https://en.wikipedia.org/wiki/JPEG) or [JPEG's](https://en.wikipedia.org/wiki/JPEG) that you can curate for use in workflows.
 
-![](thumbnail.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/04.images/thumbnail.png)
 
 ### Uses 
 - Build lists of curated images and offer customers the ablility to customise products using images perfectly setup to portray the finished product. Also images used in this process mean that you also can control the quality of the output (printing)
