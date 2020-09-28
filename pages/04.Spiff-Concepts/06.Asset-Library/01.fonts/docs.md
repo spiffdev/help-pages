@@ -25,21 +25,30 @@ Placing your fonts is made very simple with the use of [regions](https://help.sp
 
 The merchant can set a default font for a text step. In this case the merchant dictates that the consumer must use the font provided and no list options are shown to the user. The user is just presented with a text field with a (configurable) color picker.
 
-[](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/01.fonts/210f25906042709d16dac1510e0cc1d459d5ec8d-screen-shot-2020-03-25-at-45021-pm.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/01.fonts/210f25906042709d16dac1510e0cc1d459d5ec8d-screen-shot-2020-03-25-at-45021-pm.png)
 
 You can also create an option with a list of font variants which will display like the right hand above image. 
 
 Other controls the merchant can configure into the workflow are: 
 
 1. **Text Alignment** - centred, justified, left, right
+
 2. **Text Size** - select a required font size or range
+
 3. **Text Color** - colors displayed are customisable
+
 4. **Font Lists** - build an option using the font option type 
+
 5. **Character Limits** - control your users results by setting character limits
+
 6. **Constrain Text** - to a fixed region and re-size smaller or larger
+
 7. **Profanity Filter** - Spiff moderation 
+
 8. **Case Sensitivity** - set all text the user types to appear in uppercase, lowercase or titlecase
+
 9. **Vertical Text** - this allows text to print vertically from top to bottom 
+
 10. **Rotate Text** - rotate text to appear on any angle within a set region
 
 Fonts are also vectors like SVG’s and so can be re-sized to any size necessary size without compromising print quality. 
