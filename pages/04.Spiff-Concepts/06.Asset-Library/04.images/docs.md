@@ -23,7 +23,7 @@ There are many reasons for uses images when building a workflow, such as:
 
 ### Attributes
 
-- Cannot change colours like illustrations because they are raster based
+- Cannot change colors like illustrations because they are raster based
 - Build options using the following option types (illustrations, question step and any product image within an option) 
 
 ### Accepted formats 
