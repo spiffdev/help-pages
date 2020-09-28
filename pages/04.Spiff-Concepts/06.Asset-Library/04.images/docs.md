@@ -19,6 +19,8 @@ There are many reasons for uses images when building a workflow, such as:
 4. Silent Illustrations - Where you have a design that is used is a background or as a base image that the user cannot change. 
 5. Placeholders - Where you want to signify to a user what area their product image will fill on the product. 
 
+![](Screen%20Shot%202020-09-28%20at%204.51.19%20pm.png)
+
 ### Attributes
 - Cannot change colours like illustrations because they are raster based
 - Build options using the following option types (illustrations, question step and any product image within an option) 
