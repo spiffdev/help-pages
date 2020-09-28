@@ -44,4 +44,5 @@ Other controls the merchant can configure into the workflow are:
 9. **Vertical Text** - this allows text to print vertically from top to bottom 
 10. **Rotate Text** - rotate text to appear on any angle within a set region
 
+
 Fonts are also vectors like SVG’s and so can be re-sized to any size necessary size without compromising print quality. 
