@@ -21,25 +21,25 @@ Placing your fonts is made very simple with the use of [regions](https://help.sp
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/01.fonts/Screen%20Shot%202020-09-25%20at%205.25.55%20pm.png)
 
-#### Attributes
+### Attributes
 
-The merchant can set a default font for a text step. In this case the merchant dictates that the consumer must use the font provided and no list options are shown to the user. The user is just presented with a Text field with a (configurable) color picker. This is displayed in the left hand imnage below 
-![](210f25906042709d16dac1510e0cc1d459d5ec8d-screen-shot-2020-03-25-at-45021-pm.png)![](210f25906042709d16dac1510e0cc1d459d5ec8d-screen-shot-2020-03-25-at-45021-pm.png)
+The merchant can set a default font for a text step. In this case the merchant dictates that the consumer must use the font provided and no list options are shown to the user. The user is just presented with a text field with a (configurable) color picker.
+
+[](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/01.fonts/210f25906042709d16dac1510e0cc1d459d5ec8d-screen-shot-2020-03-25-at-45021-pm.png)
 
 You can also create an option with a list of font variants which will display like the right hand above image. 
 
-
 Other controls the merchant can configure into the workflow are: 
 
-- Text alignment - centred, justified, left, right
-- Text Size - Select a required font size or range
-- Text Colour - colours displayed are customisable
-- Font Lists - build an option using the font option type 
-- Character Limits - Control your users results by setting character limits if the design you provide requires it. 
-- Constrain text to a fixed region and re-size smaller or larger depending on character length
-- Profanity filter - Spiff Moderation 
-- Case sensitivity - Set all text the user types to appear in Uppercase, Lowercase or Titlecase
-- Vertical text - This allows text to print vertically from top to bottom 
-- Rotate text - Rotate text to appear on any angle within a set region
+1. **Text Alignment** - centred, justified, left, right
+2. **Text Size** - select a required font size or range
+3. **Text Color** - colors displayed are customisable
+4. **Font Lists** - build an option using the font option type 
+5. **Character Limits** - control your users results by setting character limits
+6. **Constrain Text** - to a fixed region and re-size smaller or larger
+7. **Profanity Filter** - Spiff moderation 
+8. **Case Sensitivity** - set all text the user types to appear in uppercase, lowercase or titlecase
+9. **Vertical Text** - this allows text to print vertically from top to bottom 
+10. **Rotate Text** - rotate text to appear on any angle within a set region
 
 Fonts are also vectors like SVG’s and so can be re-sized to any size necessary size without compromising print quality. 
