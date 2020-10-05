@@ -17,7 +17,8 @@ To see pacthworks in action check out our exmaple on demo.spiff.com.au in the [b
 
 Popular examples of this technology in use were when diet Coke and Nutella used it to create a campaign where every bottle design was completely unique. 
 
-![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/06.patchworks-assets/maxresdefault.jpg)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/06.patchworks-assets/Screen%20Shot%202020-10-05%20at%204.07.09%20pm.png)
+
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/06.patchworks-assets/Screen%20Shot%202020-10-05%20at%204.05.26%20pm.png)
 
 ### How to Use
