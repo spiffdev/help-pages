@@ -13,9 +13,7 @@ Patchworks are used in a design process that allows the customer to receive a co
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/06.patchworks-assets/Screen%20Shot%202020-10-05%20at%203.59.21%20pm.png)
 
-To see pacthworks in action check out our exmaple on demo.spiff.com.au in the [boarshorts demo](https://demo.spiff.com.au/collections/apparel/products/boardshorts-demo) in second step named side pattern.
-
-Popular examples of this technology in use were when diet Coke and Nutella used it to create a campaign where every bottle design was completely unique. 
+Popular examples of this technology in use were when diet Coke and Nutella used it to create a campaign where every bottle design was completely unique. To see Spiff patchworks in action check out our exmaple [here](https://demo.spiff3d.com/collections/demo-products/products/samsung-galaxy-s9-case).
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/06.patchworks-assets/Screen%20Shot%202020-10-05%20at%204.07.09%20pm.png)
 
