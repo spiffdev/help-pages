@@ -9,9 +9,9 @@ media_order: shoes.png
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/05.3d-models/shoes.png)
 
-3D models can be any kind of product, and come in any shape or size. 
+3D models can be any kind of product, and come in any shape or size. If you'd like to see some examples of the kind of models we can do check out our [demo](https://demo.spiff3d.com/collections/demo-products) site.
 
-![](9wndxe3a-900.jpg)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/05.3d-models/9wndxe3a-900.jpg)
 
 
 
