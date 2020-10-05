@@ -20,11 +20,9 @@ Popular examples of this technology in use were when diet Coke and Nutella used 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/06.patchworks-assets/Screen%20Shot%202020-10-05%20at%204.05.26%20pm.png)
 
 ### How to Use
-- The Merchant simply places a high res PNG or SVG of the image into the Patchworks section of the spiff hub assets repository and can either link one, or create an option with variants to offer a multiple of designs to choose from. 
-- Create an option list of patchworks using the patchworks option type 
+
+- The Merchant simply places a high res PNG or SVG of the image into the patchworks section of the Spiff Hub assets repository and can either link one, or create an option with variants to offer a multiple of designs to choose from
+- Create a list of patchworks using the patchworks option type 
 - Create a workflow step using the patchworks step type 
-- Link the option 
 - Create a region on the canvas where you want the patchworks to display
 - Save and link to a product
-
-Use the examples given to you free of charge in the spiff assets folder under patchworks. 
