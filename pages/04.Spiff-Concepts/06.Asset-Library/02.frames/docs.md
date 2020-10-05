@@ -3,7 +3,7 @@ title: Frames
 media_order: '7ff3300b1956239b03bc1763acea2e0376b439ad-screen-shot-2020-04-09-at-73456-am.png,52d13c990d202f3f847a4187f8ac3d3f8de241e4-screen-shot-2020-04-09-at-73648-am-1.png,214f2b0cec7c75906e22c77a95ee7099474e0d9c-screen-shot-2020-04-08-at-115128-am.png,c1d9b295582e7498bf22a94a489ea9c929b7b9f4-screen-shot-2020-04-09-at-72223-am.png,9b0004b012dfbcaa4d3c83454af26438ad451229-screen-shot-2020-04-09-at-72600-am.png,Screen Shot 2020-09-25 at 2.42.20 pm.png,Screen Shot 2020-09-25 at 2.54.25 pm.png,Screen Shot 2020-09-25 at 2.50.35 pm.png,Screen Shot 2020-09-25 at 3.09.49 pm.png,png-700x342.jpg,Screen Shot 2020-09-25 at 3.16.08 pm.png,d2b700ea-26e5-443d-9e64-9c067b9e7954.png,0e74a97a-0ab1-4391-8cdc-d23030f19fb1.png,752e3dde-f4c8-48b5-93c6-d368f230b509.png,Screen Shot 2020-09-25 at 3.48.33 pm.png,Screen Shot 2020-09-25 at 3.54.55 pm.png,Screen Shot 2020-09-25 at 4.07.00 pm.png'
 ---
 
-### Frames
+## Frames
 
 Frames render an upload button to a step allowing users to add an image from their device. Frames are a powerful and easy way to empower your consumer with the ability to create professional and artistic personalisation's without needing to have any knowledge of how to design. Without frames we would only be able to drop images into a square [region](https://help.spiff.com.au/spiff-concepts/workflows/step-details/regions) defined by a length and width. 
 
