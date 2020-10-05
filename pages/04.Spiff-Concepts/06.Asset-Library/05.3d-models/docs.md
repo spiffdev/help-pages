@@ -15,6 +15,8 @@ media_order: 'shoes.png,9wndxe3a-900.jpg,Screen Shot 2020-10-05 at 2.32.06 pm.pn
 
 All models must be [GLB's](https://docs.fileformat.com/3d/glb/) for them to work. You can create these models yourself using programs such as [Blender](https://www.blender.org/), [Autodesk Maya](https://www.autodesk.com.au/) and more. Alternativly there are many sites out there where you can purchase 3D models such as [Turbosquid](https://www.turbosquid.com/), [CG Trader](https://www.cgtrader.com/3d-models), etc. If neither of these options suit you Spiff can design 3D models to your exact needs to find out more please send us an email or submit an **asset request** with a detailed description of what you require.
 
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/05.3d-models/Screen%20Shot%202020-10-05%20at%202.32.06%20pm.png)
+
 Spiff provides all merchants with a library of models that can be found in their **asset gallery** by checking the **public assets** check box. You can also upload as many models as you like using the **Create New Asset** button in the top right.
 
 
