@@ -2,9 +2,11 @@
 title: '3D Models'
 ---
 
-# 3D Models
+### 3D Models
 
 When building 3D content for spiff the following workflow must be used.
+
+![](Screen%20Shot%202020-10-05%20at%202.02.06%20pm.png)
 
 Build content in Blender including meshes, animations and materials
 Export to GLB
