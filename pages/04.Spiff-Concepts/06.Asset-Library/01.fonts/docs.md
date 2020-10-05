@@ -3,7 +3,7 @@ title: Fonts
 media_order: 'b74900c2e141b444c8678991bc3ea4bdb467c42c-screen-shot-2020-05-03-at-101954-pm.png,210f25906042709d16dac1510e0cc1d459d5ec8d-screen-shot-2020-03-25-at-45021-pm.png,ff018ba8964a8642639db783061d7c14b127ee5f-screen-shot-2020-03-25-at-45055-pm.png,Screen Shot 2020-09-25 at 4.28.22 pm.png,Screen Shot 2020-09-25 at 4.54.32 pm.png'
 ---
 
-### Fonts
+## Fonts
 
 Fonts are one of the asset types Spiff uses, they used in text steps which allows users to create personalized messages.
 
