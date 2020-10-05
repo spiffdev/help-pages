@@ -17,7 +17,7 @@ To see pacthworks in action check out our exmaple on demo.spiff.com.au in the [b
 
 Popular examples of this technology in use were when diet Coke and Nutella used it to create a campaign where every bottle design was completely unique. 
 
-![](maxresdefault.jpg)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/06.patchworks-assets/maxresdefault.jpg)
 
 ### How to Use
 - The Merchant simply places a high res PNG or SVG of the image into the Patchworks section of the spiff hub assets repository and can either link one, or create an option with variants to offer a multiple of designs to choose from. 
