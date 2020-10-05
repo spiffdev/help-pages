@@ -17,11 +17,11 @@ All models must be [GLB's](https://docs.fileformat.com/3d/glb/) for them to work
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/05.3d-models/Screen%20Shot%202020-10-05%20at%202.32.06%20pm.png)
 
-Spiff provides all merchants with a library of models that can be found in their **asset gallery** by checking the **public assets** check box. You can also upload as many models as you like using the **Create New Asset** button in the top right.
+If you'd like to start setting up workflows now Spiff provides all merchants with a library of models that can be found in their **asset gallery** by checking the **public assets** check box. You can also upload as many models as you like using the **Create New Asset** button in the top right.
 
+### Building your 3D Models
 
-
-When building 3D content for spiff the following workflow must be used.
+When building 3D content for Spiff the following workflow must be used.
 
 Build content in Blender including meshes, animations and materials
 Export to GLB
