@@ -1,6 +1,6 @@
 ---
 title: Images
-media_order: 'thumbnail.png,Screen Shot 2020-09-24 at 11.28.46 am.png'
+media_order: 'thumbnail.png,Screen Shot 2020-09-24 at 11.28.46 am.png,Screen Shot 2020-09-28 at 4.51.19 pm.png,Screen Shot 2020-10-05 at 11.19.11 am.png'
 ---
 
 ### Images
@@ -25,6 +25,8 @@ There are many reasons for uses images when building a workflow, such as:
 
 - Cannot change colors like illustrations because they are raster based
 - Build options using the following option types (illustrations, question step and any product image within an option) 
+
+![](Screen%20Shot%202020-10-05%20at%2011.19.11%20am.png)
 
 ### Accepted formats 
 - PNG's 
