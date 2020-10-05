@@ -5,8 +5,6 @@ media_order: 'thumbnail.png,Screen Shot 2020-09-24 at 11.28.46 am.png,Screen Sho
 
 ### Images
 
-![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/04.images/Screen%20Shot%202020-10-05%20at%2011.19.11%20am.png)
-
 Images are raster based [PNG's](https://en.wikipedia.org/wiki/PNG), [JPG's](https://en.wikipedia.org/wiki/JPEG) or [JPEG's](https://en.wikipedia.org/wiki/JPEG) that you can curate for use in workflows. The difference between **images** and **illustrations** is that images are raster based, meaning you cannot change the color of them and they loose quality if you enlarge them. On the other hand [illustrations](https://help.spiff.com.au/spiff-concepts/step-types/add-illustrations) are vector based and can change color and be resized to anything.
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/04.images/Screen%20Shot%202020-09-24%20at%2011.28.46%20am.png)
@@ -32,3 +30,5 @@ There are many reasons for uses images when building a workflow, such as:
 - PNG's 
 - JPG's
 - JPEG's 
+
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/04.images/Screen%20Shot%202020-10-05%20at%2011.19.11%20am.png)
