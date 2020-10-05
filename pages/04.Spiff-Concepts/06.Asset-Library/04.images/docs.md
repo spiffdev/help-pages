@@ -1,6 +1,6 @@
 ---
 title: Images
-media_order: 'thumbnail.png,Screen Shot 2020-09-24 at 11.28.46 am.png,Screen Shot 2020-09-28 at 4.51.19 pm.png,Screen Shot 2020-10-05 at 11.19.11 am.png,Screen Shot 2020-10-05 at 11.23.21 am.png,Screen Shot 2020-10-05 at 11.24.53 am.png'
+media_order: 'thumbnail.png,Screen Shot 2020-09-24 at 11.28.46 am.png,Screen Shot 2020-09-28 at 4.51.19 pm.png,Screen Shot 2020-10-05 at 11.19.11 am.png,Screen Shot 2020-10-05 at 11.23.21 am.png,Screen Shot 2020-10-05 at 11.24.53 am.png,Screen Shot 2020-10-05 at 11.27.31 am.png'
 ---
 
 ### Images
@@ -23,10 +23,13 @@ There are many reasons for uses images when building a workflow, such as:
 
 3. Product overlays - Where you have a specific product based overlay (Eg. MSDS for chemicals, Barcode or Product based information in general) that needs to be dropped into a workflow that is used across multiple products.
 
-![](Screen%20Shot%202020-10-05%20at%2011.24.53%20am.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/04.images/Screen%20Shot%202020-10-05%20at%2011.24.53%20am.png)
 
 4. Silent Illustrations - Where you have a design that is used is a background or as a base image that the user cannot change. 
-6. Placeholders - Where you want to signify to a user what area their product image will fill on the product. 
+
+![](Screen%20Shot%202020-10-05%20at%2011.27.31%20am.png)
+
+5. Placeholders - Where you want to signify to a user what area their product image will fill on the product. 
 
 
 ### Attributes
