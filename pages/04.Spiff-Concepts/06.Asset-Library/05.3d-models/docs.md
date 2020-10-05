@@ -73,10 +73,10 @@ Please ensure that all animation clips exported run for the same length as the s
 
 ### Exporting
 
-To export in blender 2.8 select "File" > "Export" > "glTF 2.0". In this screen ensure you have the following settings configured in the bottom left corner
+To export in blender 2.8 select "File" > "Export" > "glTF 2.0". In this screen ensure you have the following settings configured in the bottom left corner.
 
 General: "+Y Up" Checked
 Meshes: Ensure that "UVs", "Normals" and "Vertex Colours" are selected.
 Objects: Nothing should be checked
 Materials: Ensure that "Materials" is selected
-Animations: Ensure the following is selected "Animations", "Limit To Playback Range", "Always Sample Animations", "Skinning", "Shape Keys", "Shape Key Normals". Also ensure that keyframes start at 0 is unchecked
+Animations: Ensure the following is selected "Animations", "Limit To Playback Range", "Always Sample Animations", "Skinning", "Shape Keys", "Shape Key Normals". Also ensure that keyframes start at 0 is unchecked.
