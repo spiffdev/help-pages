@@ -1,12 +1,19 @@
 ---
 title: '3D Models'
+media_order: shoes.png
 ---
 
 ### 3D Models
 
-3D models are used in workflows to create a memorable experience for users; where they can see a realistic replica of their chosen product update in real time.
+3D models are used in workflows so that users can see a realistic replica of their chosen product update in real time. This is important when creating a memorable experience for your customers.
 
-![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/05.3d-models/Screen%20Shot%202020-10-05%20at%202.02.06%20pm.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/05.3d-models/shoes.png)
+
+3D models can be any kind of product, and come in any shape or size. 
+
+![](9wndxe3a-900.jpg)
+
+
 
 When building 3D content for spiff the following workflow must be used.
 
