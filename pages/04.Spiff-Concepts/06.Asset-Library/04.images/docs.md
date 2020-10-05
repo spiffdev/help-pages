@@ -3,7 +3,7 @@ title: Images
 media_order: 'thumbnail.png,Screen Shot 2020-09-24 at 11.28.46 am.png,Screen Shot 2020-09-28 at 4.51.19 pm.png,Screen Shot 2020-10-05 at 11.19.11 am.png,Screen Shot 2020-10-05 at 11.23.21 am.png,Screen Shot 2020-10-05 at 11.24.53 am.png,Screen Shot 2020-10-05 at 11.27.31 am.png,Screen Shot 2020-10-05 at 11.32.59 am.png'
 ---
 
-### Images
+## Images
 
 Images are raster based [PNG's](https://en.wikipedia.org/wiki/PNG) or [JPG's/JPEG's](https://en.wikipedia.org/wiki/JPEG) that you can curate for use in workflows. The difference between **images** and **illustrations** is that images are raster based, meaning you cannot change the color of them and they loose quality if you enlarge them. On the other hand [illustrations](https://help.spiff.com.au/spiff-concepts/step-types/add-illustrations) are vector based and can change color and be resized to anything.
 
