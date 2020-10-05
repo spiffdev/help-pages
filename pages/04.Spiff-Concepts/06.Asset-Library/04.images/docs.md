@@ -27,7 +27,7 @@ There are many reasons for uses images when building a workflow, such as:
 
 4. Silent Illustrations - Where you have a design that is used is a background or as a base image that the user cannot change. 
 
-![](Screen%20Shot%202020-10-05%20at%2011.27.31%20am.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/04.images/Screen%20Shot%202020-10-05%20at%2011.27.31%20am.png)
 
 5. Placeholders - Where you want to signify to a user what area their product image will fill on the product. 
 
