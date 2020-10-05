@@ -2,7 +2,11 @@
 title: 'Patchworks Assets'
 ---
 
-Allows user to create a unique background or region from a predefined set of SVG's or PNG's. Randomly extracts a unique portion by scaling and rotating around the object to display different perpectives of the same art. 
+## Patchworks
+
+Patchworks allows users to create a unique background or region from a predefined set of SVG's or PNG's. Patchworks randomly extract a unique portion of your chosen deisgn by **scaling** and** rotating** around the object to display different perpectives of the same art. 
+
+![](Screen%20Shot%202020-10-05%20at%203.55.58%20pm.png)
 
 A design process that allows the customer to receive a completely unique version of a particular product. It works best where the based image is highly detailed like in the examples shown be default as public assets in patchworks tab in assets. Mosaic art gives the best effect.  
 
