@@ -4,9 +4,11 @@ title: '3D Models'
 
 ### 3D Models
 
-When building 3D content for spiff the following workflow must be used.
+3D models are used in workflows to create a memorable experience for users; where they can see a realistic replica of their chosen product update in real time.
 
-![](Screen%20Shot%202020-10-05%20at%202.02.06%20pm.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/05.3d-models/Screen%20Shot%202020-10-05%20at%202.02.06%20pm.png)
+
+When building 3D content for spiff the following workflow must be used.
 
 Build content in Blender including meshes, animations and materials
 Export to GLB
