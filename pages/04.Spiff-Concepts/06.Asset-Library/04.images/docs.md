@@ -31,7 +31,7 @@ There are many reasons for uses images when building a workflow, such as:
 
 5. **Placeholders** - Where you want to signify to a user what area their product image will fill on the product. 
 
-![](Screen%20Shot%202020-10-05%20at%2011.32.59%20am.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/04.images/Screen%20Shot%202020-10-05%20at%2011.32.59%20am.png)
 
 
 ### Attributes
