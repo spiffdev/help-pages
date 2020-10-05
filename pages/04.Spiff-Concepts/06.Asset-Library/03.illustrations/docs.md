@@ -3,7 +3,7 @@ title: Illustrations
 media_order: 'firework 8.svg,Happy Birthday 8.svg,6757d8a5632b6bafdbfd15187f758ae0c56a4509-screen-shot-2020-03-25-at-42757-pm.png,f6a581e5798cde7fecd4b37f55401412ff1b662c-screen-shot-2020-05-05-at-73332-am.png,ladybug.svg,bee 1.svg,dragon fly.svg,Screen Shot 2020-09-24 at 11.28.46 am.png,Screen Shot 2020-09-24 at 11.45.30 am.png,Screen Shot 2020-09-24 at 12.12.25 pm.png,Screen Shot 2020-09-24 at 3.39.19 pm.png,Screen Shot 2020-09-24 at 3.52.49 pm.png'
 ---
 
-### Illustrations
+## Illustrations
 
 Illustrations are [vector](https://www.adobe.com/au/creativecloud/illustration/discover/vector-art.html) graphics drawn in Adobe Illustrator or programs like it. Once the vector is ready to be used it is then exported into [SVG's](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics) (scaleable vector graphic).
 
