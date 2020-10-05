@@ -19,15 +19,16 @@ All models must be [GLB's](https://docs.fileformat.com/3d/glb/) for them to work
 
 If you'd like to start setting up workflows now Spiff provides all merchants with a library of models that can be found in their **asset gallery** by checking the **public assets** check box. You can also upload as many models as you like using the **Create New Asset** button in the top right.
 
-### Building your 3D Models
+### Building 3D Models
 
-When building 3D content for Spiff the following workflow must be used.
+_When building 3D content for Spiff the following workflow must be used._
 
-Build content in Blender including meshes, animations and materials
-Export to GLB
-Test GLB file by uploading to the Bablyon Sandbox
-Submit both the GLB exported file as well as the .blend file
-All Models must be built in Blender. Deliverables are:
+1. Build content in Blender (or whatever software you are using) including meshes, animations and materials
+2. Export to GLB
+3. Test GLB file by uploading to the [Bablyon Sandbox](https://sandbox.babylonjs.com/)
+4. Submit both the GLB exported file as well as the **.blend** file
+
+### Deliverables
 
 A .blend file
 A .glb file.
