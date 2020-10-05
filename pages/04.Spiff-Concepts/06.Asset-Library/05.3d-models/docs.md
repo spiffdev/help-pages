@@ -1,6 +1,6 @@
 ---
 title: '3D Models'
-media_order: shoes.png
+media_order: 'shoes.png,9wndxe3a-900.jpg,Screen Shot 2020-10-05 at 2.32.06 pm.png'
 ---
 
 ### 3D Models
