@@ -1,6 +1,6 @@
 ---
 title: Materials
-media_order: 'Screen Shot 2020-10-06 at 11.01.26 am.png,Hatched.png,allliii.png'
+media_order: 'Screen Shot 2020-10-06 at 11.01.26 am.png,Hatched.png,allliii.png,Screen Shot 2020-10-06 at 11.23.18 am.png,Screen Shot 2020-10-06 at 11.54.42 am.png'
 ---
 
 ## Materials
@@ -27,11 +27,13 @@ To create a material you need to first have the [PNG](https://en.wikipedia.org/w
 
 Once you have this upload head over to your **Materials** tab and click the **Create New Asset** button in the top right. Here you can add your PNG/JPG and name your material. Generally you only need to add your PNG/JPG to the Albedo channel.
 
-_When using materials on your models you will no longer be able to add steps on top of the materials becase they will not show. If you want to add text/images/etc to your model we reccomend using a **Color Step** or a **Image Step** instead._
+_When using materials on your models you will no longer be able to add steps on top of the materials becase they will not show. If you want to add text/images/etc to your model we reccomend using a **Color Step** or a **[Image Step](https://help.spiff.com.au/spiff-concepts/asset-library/images)** instead._
 
-### Storage are for assets that are used for simulating surfaces. 
+### More Detail 
 
-Whilst Materials are assets saved in the asset repository, they do not operate the same way in which the other assets do.  
+Whilst materials are assets saved in the asset repository, they do not operate the same way in which the other assets do.  
 
 Materials are a combination of different images laid on top of each other (MAPS) that together help to simulate a textured surface.  
-Once saved into your Materials repo as an asset, easily use them with an option to give your users choice over surfaces and finishes of your products. 
+Once saved into your materials tab as an asset, easily use them with an option to give your users choice over surfaces and finishes of your products. 
+
+![](Screen%20Shot%202020-10-06%20at%2011.54.42%20am.png)
