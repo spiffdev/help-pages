@@ -1,6 +1,6 @@
 ---
 title: Materials
-media_order: 'Screen Shot 2020-10-06 at 11.01.26 am.png,Screen Shot 2020-10-06 at 11.07.44 am.png,Screen Shot 2020-10-06 at 11.08.01 am.png,Screen Shot 2020-10-06 at 11.13.09 am.png,Hatched.png,allliii.png'
+media_order: 'Screen Shot 2020-10-06 at 11.01.26 am.png,Hatched.png,allliii.png'
 ---
 
 ## Materials
@@ -15,9 +15,13 @@ _Alligator Leather -_
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/07.materials/allliii.png)
 
-We use materials as the composition of the surface of an object.
+We use materials as the composition of the surface of an object. Therefore you can create a model that's surface looks like anything you want. 
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/07.materials/Screen%20Shot%202020-10-06%20at%2011.01.26%20am.png)
+
+### Creating a Material
+
+To create a material you need to first have the PNG or JPG you wish to use uploaded into the **Images** asset section. 
 
 ### Storage are for assets that are used for simulating surfaces. 
 
