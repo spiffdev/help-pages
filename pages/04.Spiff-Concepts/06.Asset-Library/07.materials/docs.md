@@ -9,15 +9,15 @@ Materials are used to create different kinds of surfaces on exising 3D models. F
 
 _Hatched Leather -_
 
-![](Screen%20Shot%202020-10-06%20at%2011.08.01%20am.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/07.materials/Screen%20Shot%202020-10-06%20at%2011.07.44%20am.png)
 
 _Alligator Leather -_
 
-![](Screen%20Shot%202020-10-06%20at%2011.07.44%20am.png)
-
-![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/07.materials/Screen%20Shot%202020-10-06%20at%2011.01.26%20am.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/07.materials/Screen%20Shot%202020-10-06%20at%2011.08.01%20am.png)
 
 We use materials as the composition of the surface of an object.
+
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/07.materials/Screen%20Shot%202020-10-06%20at%2011.01.26%20am.png)
 
 ### Storage are for assets that are used for simulating surfaces. 
 
