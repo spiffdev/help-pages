@@ -1,12 +1,23 @@
 ---
 title: Materials
+media_order: 'Screen Shot 2020-10-06 at 11.01.26 am.png,Screen Shot 2020-10-06 at 11.07.44 am.png,Screen Shot 2020-10-06 at 11.08.01 am.png'
 ---
 
 ## Materials
 
-Materials are used to create surfaces on exising 3D models.
+Materials are used to create different kinds of surfaces on exising 3D models. For example you might have a shoe where you want a customer to choose between different kinds of leathers and have this update on the model. For example:
+
+_Hatched Leather -_
+
+![](Screen%20Shot%202020-10-06%20at%2011.08.01%20am.png)
+
+_Alligator Leather -_
+
+![](Screen%20Shot%202020-10-06%20at%2011.07.44%20am.png)
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/07.materials/Screen%20Shot%202020-10-06%20at%2011.01.26%20am.png)
+
+We use materials as the composition of the surface of an object.
 
 ### Storage are for assets that are used for simulating surfaces. 
 
