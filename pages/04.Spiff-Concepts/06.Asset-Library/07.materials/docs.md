@@ -1,6 +1,6 @@
 ---
 title: Materials
-media_order: 'Screen Shot 2020-10-06 at 11.01.26 am.png,Screen Shot 2020-10-06 at 11.07.44 am.png,Screen Shot 2020-10-06 at 11.08.01 am.png'
+media_order: 'Screen Shot 2020-10-06 at 11.01.26 am.png,Screen Shot 2020-10-06 at 11.07.44 am.png,Screen Shot 2020-10-06 at 11.08.01 am.png,Screen Shot 2020-10-06 at 11.13.09 am.png,Hatched.png,allliii.png'
 ---
 
 ## Materials
