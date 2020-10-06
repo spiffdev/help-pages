@@ -13,7 +13,7 @@ _Hatched Leather -_
 
 _Alligator Leather -_
 
-![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/07.materials/Screen%20Shot%202020-10-06%20at%2011.08.01%20am.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/07.materials/Screen%20Shot%202020-10-06%20at%2011.13.09%20am.png)
 
 We use materials as the composition of the surface of an object.
 
