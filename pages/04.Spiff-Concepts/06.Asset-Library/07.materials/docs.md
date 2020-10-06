@@ -21,7 +21,11 @@ We use materials as the composition of the surface of an object. Therefore you c
 
 ### Creating a Material
 
-To create a material you need to first have the PNG or JPG you wish to use uploaded into the **Images** asset section. 
+To create a material you need to first have the [PNG](https://en.wikipedia.org/wiki/PNG) or [JPG](https://en.wikipedia.org/wiki/JPEG) you wish to use uploaded into the **Images** asset section. 
+
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/07.materials/Screen%20Shot%202020-10-06%20at%2011.23.18%20am.png)
+
+Once you have this upload head over to your **Materials** tab. 
 
 ### Storage are for assets that are used for simulating surfaces. 
 
