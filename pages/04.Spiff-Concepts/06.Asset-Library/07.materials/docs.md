@@ -6,7 +6,7 @@ title: Materials
 
 Materials are used to create surfaces on exising 3D models.
 
-![](Screen%20Shot%202020-10-06%20at%2011.01.26%20am.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/07.materials/Screen%20Shot%202020-10-06%20at%2011.01.26%20am.png)
 
 ### Storage are for assets that are used for simulating surfaces. 
 
