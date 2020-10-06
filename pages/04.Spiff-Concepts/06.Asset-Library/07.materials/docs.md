@@ -19,13 +19,15 @@ We use materials as the composition of the surface of an object. Therefore you c
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/07.materials/Screen%20Shot%202020-10-06%20at%2011.01.26%20am.png)
 
-### Creating a Material
+### Creating a Material in Spiff
 
 To create a material you need to first have the [PNG](https://en.wikipedia.org/wiki/PNG) or [JPG](https://en.wikipedia.org/wiki/JPEG) you wish to use uploaded into the **Images** asset section. 
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/07.materials/Screen%20Shot%202020-10-06%20at%2011.23.18%20am.png)
 
-Once you have this upload head over to your **Materials** tab. 
+Once you have this upload head over to your **Materials** tab and click the **Create New Asset** button in the top right. Here you can add your PNG/JPG and name your material. Generally you only need to add your PNG/JPG to the Albedo channel.
+
+_When using materials on your models you will no longer be able to add steps on top of the materials becase they will not show. If you want to add text/images/etc to your model we reccomend using a **Color Step** or a **Image Step** instead._
 
 ### Storage are for assets that are used for simulating surfaces. 
 
