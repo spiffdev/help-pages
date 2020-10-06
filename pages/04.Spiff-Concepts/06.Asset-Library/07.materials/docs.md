@@ -36,4 +36,4 @@ Whilst materials are assets saved in the asset repository, they do not operate t
 Materials are a combination of different images laid on top of each other (MAPS) that together help to simulate a textured surface.  
 Once saved into your materials tab as an asset, easily use them with an option to give your users choice over surfaces and finishes of your products. 
 
-![](Screen%20Shot%202020-10-06%20at%2011.54.42%20am.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/06.Asset-Library/07.materials/Screen%20Shot%202020-10-06%20at%2011.54.42%20am.png)
