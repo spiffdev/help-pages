@@ -27,4 +27,4 @@ This is when its **off**
   
 3. **2D Preview Download** - Enabled this will render a button allowing the user to download a non print ready png of the 2D design before checking out.
 
-![](Screen%20Shot%202020-10-26%20at%2010.51.23%20am.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/01.workflow-details/Screen%20Shot%202020-10-26%20at%2010.51.23%20am.png)
