@@ -1,8 +1,11 @@
 ---
 title: 'Step Details'
+media_order: 'Screen Shot 2020-10-26 at 10.57.57 am.png'
 ---
 
 ## Step Details
+
+This is where you add steps to your workflow. You can add as many steps as you like. There are 12 different kinds of steps you can choose from.
 
 ### Your workflow settings area
 
