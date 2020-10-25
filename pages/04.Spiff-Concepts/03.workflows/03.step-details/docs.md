@@ -7,9 +7,7 @@ media_order: 'Screen Shot 2020-10-26 at 10.57.57 am.png'
 
 This is where you add steps to your workflow. You can add as many steps as you like. There are 12 different kinds of steps you can choose from.
 
-### Your workflow settings area
-
-This section represents the global aspects of the workflow. The options in this section are not step specific. 
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/Screen%20Shot%202020-10-26%20at%2010.57.57%20am.png)
 
 **Examples of attributes of this section are**
 1. Advanced Editor Enabled Mode - Great for use when setting up your workflow to test what your pdf will look like without placing an order
