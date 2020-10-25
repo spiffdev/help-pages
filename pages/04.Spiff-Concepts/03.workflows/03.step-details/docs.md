@@ -2,6 +2,8 @@
 title: 'Step Details'
 ---
 
+## Step Details
+
 ### Your workflow settings area
 
 This section represents the global aspects of the workflow. The options in this section are not step specific. 
