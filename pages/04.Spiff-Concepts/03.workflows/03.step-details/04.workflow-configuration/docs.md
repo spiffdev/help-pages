@@ -17,8 +17,8 @@ Preview configuration is the area where you set the details of your 3D model. Yo
 
 - **Minimum Vertical Rotation** - A value, in degrees, representing the lowest angle the camera can view your product from. If blank, there is no limit.
 
-![](Screen%20Shot%202020-10-26%20at%2012.14.07%20pm.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/04.workflow-configuration/Screen%20Shot%202020-10-26%20at%2012.14.07%20pm.png)
 
 - **Maximum Vertical Rotation** - A value, in degrees, representing the highest angle the camera can view your product from. If blank, there is no limit.
 
-![](Screen%20Shot%202020-10-26%20at%2012.14.07%20pm.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/04.workflow-configuration/Screen%20Shot%202020-10-27%20at%2010.07.09%20am.png)
