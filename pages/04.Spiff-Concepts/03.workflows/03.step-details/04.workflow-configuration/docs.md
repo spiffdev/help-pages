@@ -9,10 +9,10 @@ Preview configuration is the area where you set the details of your 3D model. Yo
 
 - **Zoom In** - This controls how far you can zoom into a model. For example on a model that has text you may want the user to be able zoom right in to read the text. Or for a larger model you might want to stop them from zooming so they can always see the whole model. To zoom in hard try adding **0.001**.
 
-![](Screen%20Shot%202020-10-26%20at%2012.01.34%20pm.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/04.workflow-configuration/Screen%20Shot%202020-10-26%20at%2012.01.34%20pm.png)
 
 - **Zoom Out** - This works the same as zooming in.
 
-![](Screen%20Shot%202020-10-26%20at%2012.01.23%20pm.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/04.workflow-configuration/Screen%20Shot%202020-10-26%20at%2012.01.23%20pm.png)
 
 
