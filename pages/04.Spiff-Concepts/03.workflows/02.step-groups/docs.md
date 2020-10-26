@@ -23,7 +23,7 @@ This is what it's like then the steps are seperate. Notice how in the corner it'
 
 It doesn't matter if your steps are in a group or not they will still do the exact same thing. The only change it makes is how they are displayed.
 
-### Adding Step Group
+### Adding Step Groups
 
 It's very easy to add a step group. Simply press the **Add Step Group** button and then name your step group. You can name it anything you like.
 
