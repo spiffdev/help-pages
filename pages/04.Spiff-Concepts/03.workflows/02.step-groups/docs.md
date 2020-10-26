@@ -6,13 +6,13 @@ title: 'Step Groups'
 
 Steps can either be displayed **individually** or in **groups**. Keeping a step by itself is a good way to keep consumers focused on one step at a time. This can be important to not overload the user with information. However if the step relates directly to another step it can be a clean way to show this to the user my putting them in a group together.
 
-When adding steps groups also be aware of how it will show on **mobile** and **desktop*.
+When adding steps groups also be aware of how it will show on **mobile** and **desktop**.
 
-This is what an workflow looks like that has three steps put into a group on desktop.
+This is what an workflow looks like that has three steps put into a group on desktop. Notice how in the corner it's 1/2 steps.
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/02.step-groups/Screen%20Shot%202020-10-26%20at%2011.36.43%20am.png)
 
-This is what it's like then the steps are seperate.
+This is what it's like then the steps are seperate. Notice how in the corner it's our of 4 steps.
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/02.step-groups/Screen%20Shot%202020-10-26%20at%2011.37.23%20am.png)
 
