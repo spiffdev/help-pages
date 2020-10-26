@@ -1,5 +1,6 @@
 ---
 title: 'Step Groups'
+media_order: 'Screen Shot 2020-10-26 at 11.36.43 am.png,Screen Shot 2020-10-26 at 11.37.23 am.png,Screen Shot 2020-10-26 at 11.37.29 am.png,Screen Shot 2020-10-26 at 11.37.34 am.png,Screen Shot 2020-10-26 at 11.42.22 am.png,Screen Shot 2020-10-26 at 11.43.18 am.png'
 ---
 
 ## Step Groups
@@ -20,7 +21,20 @@ This is what it's like then the steps are seperate. Notice how in the corner it'
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/02.step-groups/Screen%20Shot%202020-10-26%20at%2011.37.34%20am.png)
 
-**Examples**
+It doesn't matter if your steps are in a group or not they will still do the exact same thing. The only change it makes is how they are displayed.
+
+## Adding Step Group
+
+It's very easy to add a step group. Simply press the **Add Step Group** button and then name your step group. You can name it anything you like.
+
+![](Screen%20Shot%202020-10-26%20at%2011.42.22%20am.png)
+
+Once you have created and named your Step Group, go into the step you'd like to add it too using the downwards arrow and scroll till you see the **Step Group** section. Click the arrow and select your chosen step group.
+
+![](Screen%20Shot%202020-10-26%20at%2011.43.18%20am.png)
+
+## Examples
+
 1. Customising a tshirt - everything in a particular view of the 3Dmodel should be listed in a step group ie the front panel of the shirt (base colour, illustration, image upload etc)  
 
 2. Tote bag - group 1 could be the material and base colour (non printed customisations) and group could be the logo upload and typed message (printed components)  
