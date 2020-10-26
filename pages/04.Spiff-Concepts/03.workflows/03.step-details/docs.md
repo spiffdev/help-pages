@@ -36,4 +36,8 @@ You can rearrnage the order of your steps at anytime by clicking and dragging th
 
 At the right end side of every step you will see three options.
 
-![](Screen%20Shot%202020-10-26%20at%2011.19.25%20am.png)
+- The arrow drops down your step so you can edit it's details.
+- The paper icon dupliates your workflow.
+- The cross deletes your step. Be careful doing this because it cannot be undone.
+
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/Screen%20Shot%202020-10-26%20at%2011.19.25%20am.png)
