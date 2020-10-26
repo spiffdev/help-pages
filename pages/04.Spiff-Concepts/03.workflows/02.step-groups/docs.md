@@ -13,7 +13,7 @@ This is what an workflow looks like that has three steps put into a group on des
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/02.step-groups/Screen%20Shot%202020-10-26%20at%2011.36.43%20am.png)
 
-This is what it's like then the steps are seperate. Notice how in the corner it's our of 4 steps.
+This is what it's like then the steps are seperate. Notice how in the corner it's out of 4 steps.
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/02.step-groups/Screen%20Shot%202020-10-26%20at%2011.37.23%20am.png)
 
