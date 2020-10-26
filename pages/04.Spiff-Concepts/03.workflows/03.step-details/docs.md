@@ -28,4 +28,4 @@ To add any of these steps simply click the **Add Step** button.
 
 You can rearrnage the order of your steps at anytime by clicking and dragging this symbol in the left corner of each step.
 
-![](Screen%20Shot%202020-10-26%20at%2011.14.00%20am.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/Screen%20Shot%202020-10-26%20at%2011.14.00%20am.png)
