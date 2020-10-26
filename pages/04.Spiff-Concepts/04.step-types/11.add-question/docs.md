@@ -2,7 +2,10 @@
 title: Question
 ---
 
+## Question Step
+
 #### Ask your customers a question
+
 Used to give your consumer a choice that does not affect the product display.  
 Examples: 
 - Sizes - shirt, jeans, shorts, shoes etc 
