@@ -34,11 +34,3 @@ Once you have created and named your Step Group, go into the step you'd like to 
 _Note: You need at least 2 steps to create a step group._
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/02.step-groups/Screen%20Shot%202020-10-26%20at%2011.43.18%20am.png)
-
-### Examples
-
-1. Customising a tshirt - everything in a particular view of the 3Dmodel should be listed in a step group ie the front panel of the shirt (base colour, illustration, image upload etc)  
-
-2. Tote bag - group 1 could be the material and base colour (non printed customisations) and group could be the logo upload and typed message (printed components)  
-
-3. Custom shoe - group customisations in to one step group and upsell items into another group (care products)  
