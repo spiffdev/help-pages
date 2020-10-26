@@ -1,6 +1,6 @@
 ---
 title: 'Workflow Configuration'
-media_order: 'Screen Shot 2020-10-26 at 12.01.23 pm.png,Screen Shot 2020-10-26 at 12.01.34 pm.png'
+media_order: 'Screen Shot 2020-10-26 at 12.01.23 pm.png,Screen Shot 2020-10-26 at 12.01.34 pm.png,Screen Shot 2020-10-26 at 12.14.07 pm.png,Screen Shot 2020-10-27 at 10.07.09 am.png'
 ---
 
 ## Preview Configuration
@@ -15,4 +15,10 @@ Preview configuration is the area where you set the details of your 3D model. Yo
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/04.workflow-configuration/Screen%20Shot%202020-10-26%20at%2012.01.23%20pm.png)
 
+- **Minimum Vertical Rotation** - A value, in degrees, representing the lowest angle the camera can view your product from. If blank, there is no limit.
 
+![](Screen%20Shot%202020-10-26%20at%2012.14.07%20pm.png)
+
+- **Maximum Vertical Rotation** - A value, in degrees, representing the highest angle the camera can view your product from. If blank, there is no limit.
+
+![](Screen%20Shot%202020-10-26%20at%2012.14.07%20pm.png)
