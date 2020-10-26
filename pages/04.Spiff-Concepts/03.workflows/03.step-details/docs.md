@@ -1,6 +1,6 @@
 ---
 title: 'Step Details'
-media_order: 'Screen Shot 2020-10-26 at 10.57.57 am.png,Screen Shot 2020-10-26 at 11.11.15 am.png'
+media_order: 'Screen Shot 2020-10-26 at 10.57.57 am.png,Screen Shot 2020-10-26 at 11.11.15 am.png,Screen Shot 2020-10-26 at 11.14.00 am.png'
 ---
 
 ## Step Details
@@ -24,12 +24,8 @@ This is where you add steps to your workflow. You can add as many steps as you l
 
 To add any of these steps simply click the **Add Step** button.
 
-![](Screen%20Shot%202020-10-26%20at%2011.11.15%20am.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/Screen%20Shot%202020-10-26%20at%2011.11.15%20am.png)
 
-**Examples of attributes of this section are**
-1. Advanced Editor Enabled Mode - Great for use when setting up your workflow to test what your pdf will look like without placing an order
-2. Show Model Preview - This relates to the summary step. If this is set to off you will see a 2D png of your first panel in the summary step
-3. 2D preview download - Enabled this will render a button allowing the user to download a non print ready png of the 2D design before checking out
-4. Step Groups - Group steps into a single page or a series of pages
+You can rearrnage the order of your steps at anytime by clicking and dragging this symbol in the left corner of each step.
 
-
+![](Screen%20Shot%202020-10-26%20at%2011.14.00%20am.png)
