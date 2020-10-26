@@ -2,8 +2,15 @@
 title: 'Step Groups'
 ---
 
-### Display steps in a group on the same page
-Steps can either be displayed individually to keep a consumer focused on one very important decision or grouped together on the same page to provide the consumer with context over a section in your design template.  
+## Step Groups
+
+Steps can either be displayed **individually** or in **groups**. Keeping a step by itself is a good way to keep consumers focused on one step at a time. This can be important to not overload the user with information. However if the step relates directly to another step it can be a clean way to show this to the user my putting them in a group together.
+
+When adding steps groups also be aware of how it will show on **mobile** and **desktop*.
+
+This is what an workflow looks like that has three steps put into a group.
+
+![](Screen%20Shot%202020-10-26%20at%2011.36.43%20am.png)
 
 **Examples**
 1. Customising a tshirt - everything in a particular view of the 3Dmodel should be listed in a step group ie the front panel of the shirt (base colour, illustration, image upload etc)  
