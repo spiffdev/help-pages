@@ -8,9 +8,17 @@ Steps can either be displayed **individually** or in **groups**. Keeping a step 
 
 When adding steps groups also be aware of how it will show on **mobile** and **desktop*.
 
-This is what an workflow looks like that has three steps put into a group.
+This is what an workflow looks like that has three steps put into a group on desktop.
 
-![](Screen%20Shot%202020-10-26%20at%2011.36.43%20am.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/02.step-groups/Screen%20Shot%202020-10-26%20at%2011.36.43%20am.png)
+
+This is what it's like then the steps are seperate.
+
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/02.step-groups/Screen%20Shot%202020-10-26%20at%2011.37.23%20am.png)
+
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/02.step-groups/Screen%20Shot%202020-10-26%20at%2011.37.29%20am.png)
+
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/02.step-groups/Screen%20Shot%202020-10-26%20at%2011.37.34%20am.png)
 
 **Examples**
 1. Customising a tshirt - everything in a particular view of the 3Dmodel should be listed in a step group ie the front panel of the shirt (base colour, illustration, image upload etc)  
