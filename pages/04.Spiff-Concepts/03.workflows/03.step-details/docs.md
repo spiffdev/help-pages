@@ -1,11 +1,13 @@
 ---
 title: 'Step Details'
-media_order: 'Screen Shot 2020-10-26 at 10.57.57 am.png'
+media_order: 'Screen Shot 2020-10-26 at 10.57.57 am.png,Screen Shot 2020-10-26 at 11.11.15 am.png'
 ---
 
 ## Step Details
 
 This is where you add steps to your workflow. You can add as many steps as you like. There are 12 different kinds of steps you can choose from.
+
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/Screen%20Shot%202020-10-26%20at%2010.57.57%20am.png)
 
 - [Question](https://help.spiff.com.au/spiff-concepts/step-types/add-question)
 - [Upload](https://help.spiff.com.au/spiff-concepts/step-types/upload-image)
@@ -20,7 +22,9 @@ This is where you add steps to your workflow. You can add as many steps as you l
 - [Silent](https://help.spiff.com.au/spiff-concepts/step-types/silent-step)
 - Model
 
-![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/Screen%20Shot%202020-10-26%20at%2010.57.57%20am.png)
+To add any of these steps simply click the **Add Step** button.
+
+![](Screen%20Shot%202020-10-26%20at%2011.11.15%20am.png)
 
 **Examples of attributes of this section are**
 1. Advanced Editor Enabled Mode - Great for use when setting up your workflow to test what your pdf will look like without placing an order
