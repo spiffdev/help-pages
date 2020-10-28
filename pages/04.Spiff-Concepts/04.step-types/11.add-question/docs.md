@@ -1,16 +1,24 @@
 ---
 title: Question
+media_order: 'Screen Shot 2020-10-29 at 10.40.09 am.png,Screen Shot 2020-10-29 at 10.42.52 am.png'
 ---
 
 ## Question Step
 
-#### Ask your customers a question
+Question steps are used when you need to ask your customers a question.
 
-Used to give your consumer a choice that does not affect the product display.  
+![](Screen%20Shot%202020-10-29%20at%2010.40.09%20am.png)
+
+### Ask a Question
+
+_Used to give your consumer a choice that does not affect the product display._
+
 Examples: 
-- Sizes - shirt, jeans, shorts, shoes etc 
-- Upselling - Would you like the product gift wrapped? 
-- Reference for Conditional Step - Would you like to include extra images and text on the back ? 
+- **Sizes** - Choice of shirt, jeans, shorts, shoes, etc.
+- **Upselling** - Would you like the product gift wrapped? 
+- **Reference for Conditional Step** - Would you like to include extra images and text on the back? 
+
+![](Screen%20Shot%202020-10-29%20at%2010.42.52%20am.png)
 
 #### How to Create
 - Click on Add step within a workflow. 
