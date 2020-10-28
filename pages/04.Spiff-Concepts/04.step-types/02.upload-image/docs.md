@@ -15,7 +15,7 @@ Set an area (region) on your product to allow the user to upload their image. Yo
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/02.upload-image/Screen%20Shot%202020-09-25%20at%202.42.20%20pm.png)
 
-This can therefore be anynshape you please, even broken up into pieces. Users can zoom in and out as well as re-position to set the image in the exact spot. 
+This can be any shape you please, even broken up into pieces. Users can zoom in and out as well as re-position to set the image in the exact spot. 
 This is then cropped into the pdf and supplied to you the merchant upon order so no set up is required.
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/02.upload-image/Screen%20Shot%202020-09-25%20at%202.54.25%20pm.png)
