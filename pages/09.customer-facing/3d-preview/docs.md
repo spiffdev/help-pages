@@ -8,7 +8,7 @@ visible: true
 
 These controls are used to change the preview your 3D model.
 
-![](https://help.spiff.com.au/user/pages/09.customer-facing/3d-preview/Screen%20Shot%202020-10-28%20at%203.12.22%20pm.png)
+![](https://help.spiff.com.au/user/pages/09.customer-facing/3d-preview/Screen%20Shot%202020-10-28%20at%203.17.15%20pm.png)
 
 ### What They Do
 
