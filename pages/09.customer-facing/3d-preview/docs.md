@@ -6,7 +6,7 @@ visible: true
 
 ### 3D preview controls  
 
-![](https://help.spiff.com.au/user/pages/10.customer-facing/3d-preview/Screen%20Shot%202020-07-08%20at%201.32.06%20am.png)
+![](https://help.spiff.com.au/user/pages/09.customer-facing/3d-preview/Screen%20Shot%202020-10-28%20at%203.12.22%20pm.png)
 
 In Order from left to right
 
