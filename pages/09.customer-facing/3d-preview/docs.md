@@ -1,10 +1,12 @@
 ---
 title: '3D preview'
-media_order: 'Screen Shot 2020-07-08 at 1.32.06 am.png'
+media_order: 'Screen Shot 2020-10-28 at 3.12.22 pm.png'
 visible: true
 ---
 
-### 3D preview controls  
+## 3D Preview Controls
+
+These controls are used to change the preview your 3D model.
 
 ![](https://help.spiff.com.au/user/pages/09.customer-facing/3d-preview/Screen%20Shot%202020-10-28%20at%203.12.22%20pm.png)
 
