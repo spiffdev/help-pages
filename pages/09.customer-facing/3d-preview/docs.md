@@ -29,3 +29,5 @@ _**In order from left to right**_
 ![](https://help.spiff.com.au/user/pages/09.customer-facing/3d-preview/Screen%20Shot%202020-10-28%20at%203.23.56%20pm.png)
 
 5. **Close Help** - Simply press this to close the help side bar.
+
+![](https://help.spiff.com.au/user/pages/09.customer-facing/3d-preview/Screen%20Shot%202020-10-28%20at%203.28.28%20pm.png)
