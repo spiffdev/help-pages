@@ -1,7 +1,11 @@
 ---
 title: 'Upload Image'
-media_order: 'Screen Shot 2020-05-08 at 7.27.22 am.png'
+media_order: 'Screen Shot 2020-05-08 at 7.27.22 am.png,Screen Shot 2020-09-25 at 2.42.20 pm.png,Screen Shot 2020-09-25 at 2.50.35 pm.png,Screen Shot 2020-09-25 at 2.54.25 pm.png,Screen Shot 2020-09-25 at 3.09.49 pm.png'
 ---
+
+## Upload Step
+
+This step allowed user to upload images to their products.
 
 ### User image Uploads  
 Set an area (region) on your product to allow the user to upload their image. You Set the area the user uploads by selecting a frame from your assets folder. A frame is an SVG that is coloured grey (for aesthetics) that we use to identify the area an uploaded image will fill.   
