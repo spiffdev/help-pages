@@ -30,7 +30,7 @@ Examples:
 
 Then you create your text step allowing the user to add a message to the sleeve and set a condition to make it only appear if the consumer selects yes to the above question step. 
 
-![](Screen%20Shot%202020-10-29%20at%2010.46.21%20am.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/11.add-question/Screen%20Shot%202020-10-29%20at%2010.46.21%20am.png)
 
 ### Customization or Personalization ?
 
