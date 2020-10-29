@@ -48,3 +48,5 @@ This step could be part of the standard workflow available to all or it could be
 ### Customization or Personalization?
 
 The Material step is a customization. A customer chooses a texture and the merchant would usually pick, configure and pack the item for consumer. No printing is required for this step.
+
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/05.choose-materials-textures/Screen%20Shot%202020-10-29%20at%2011.23.51%20am.png)
