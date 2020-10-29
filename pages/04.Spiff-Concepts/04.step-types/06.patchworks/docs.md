@@ -1,7 +1,9 @@
 ---
 title: Patchworks
-media_order: 'patchworkimage1.png,patchwork2.png,patchwork3.png'
+media_order: 'patchworkimage1.png,patchwork2.png,patchwork3.png,Screen Shot 2020-10-05 at 3.55.58 pm.png,Screen Shot 2020-10-05 at 3.59.21 pm.png,Screen Shot 2020-10-05 at 4.05.26 pm.png,Screen Shot 2020-10-05 at 4.07.09 pm.png'
 ---
+
+## Patchworks
 
 #### Every user gets a unique version of your ART.   
 Do you have a detailed graphic or a large mosaic picture? If so, using patchworks you can give every person a unique portion of that image to set in your product. Most popular examples have been Mosaic Diet Coke or Mosaic Nutella. Check your assets repository, we give a few examples to use for free!
