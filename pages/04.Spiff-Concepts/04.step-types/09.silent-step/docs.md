@@ -19,6 +19,8 @@ _Complexity = Intermediate_
 
 _Note: The silent step should only be used where you require the content in this step to be printed. If printing is not required and the content is always required to be there for display purposes we can bake this content into the 3D model. _
 
+![](Screen%20Shot%202020-10-30%20at%209.43.37%20am.png)
+
 ### How to Create
 
 1. Click on **Add Silent Step** within a workflow.
