@@ -1,6 +1,6 @@
 ---
 title: Illustrations
-media_order: 'firework 8 (1).svg,dragon fly (1).svg,Happy Birthday 8 (1).svg,Screen Shot 2020-09-24 at 3.39.19 pm.png,Screen Shot 2020-09-24 at 11.28.46 am.png'
+media_order: 'firework 8 (1).svg,dragon fly (1).svg,Happy Birthday 8 (1).svg,Screen Shot 2020-09-24 at 3.39.19 pm.png,Screen Shot 2020-09-24 at 11.28.46 am.png,Screen Shot 2020-10-29 at 11.08.21 am.png,Screen Shot 2020-10-29 at 11.11.42 am.png'
 ---
 
 ## Illustrations
