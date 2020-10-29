@@ -7,26 +7,44 @@ media_order: 'allliii.png,Hatched.png,Screen Shot 2020-10-06 at 11.01.26 am.png,
 
 Materials are used to create different kinds of surfaces on exising 3D models. For example you might have a shoe where you want a customer to choose between different kinds of leathers and have this update on the model.
 
-### Customers can simulate materials, textures and product finishes  
+_Hatched Leather -_
+
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/05.choose-materials-textures/Hatched.png)
+
+_Alligator Leather -_
+
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/05.choose-materials-textures/allliii.png)
+
+### Customers Can
+
+- **Simulate Materials**
+- **Textures**
+- **Product finishes**
+
 Give customers choice over materials or textures you have available and let them see an accurate representation of this on the 3D model. 
 
-Complexity = Advanced
+_Complexity = Advanced_
 
-#### Examples: 
-- Material - Select from the following material finishes for your Tote Bag (Cotton, Velvet, Snakeskin, etc)?
-- Finish - What finish are you after (Gloss, Matt, Satin)? 
-- Texture - What type of legs do you want for your table (Wood, Metal, Synthetic etc)? 
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/05.choose-materials-textures/Screen%20Shot%202020-10-06%20at%2011.01.26%20am.png)
 
-#### How to Create
-- Click on 'Add Material' Step within a workflow. 
-- Add your Title (E.g. Tote Bag Material)
-- Add your Help Text (E.g. Choose the Material you would like for your Bag)
-- Add your option by either selecting a pre-made option or create a new one by clicking add variant (Velvet, Cotton, Snakeskin).
-- Save Step
+### Examples
+
+- **Material** - Select from the following material finishes for your tote bag (cotton, velvet, snakeskin, etc)?
+- **Finish** - What finish are you after (gloss, matt, satin)? 
+- **Texture** - What type of legs do you want for your table (wood, metal, synthetic etc)? 
+
+### How to Create
+
+1. Click on 'Add Material' Step within a workflow. 
+2. Add your Title (E.g. Tote Bag Material)
+3. Add your **Help Text** (E.g. Choose the Material you would like for your bag)
+4. Add your option by either selecting a pre-made option or create a new one by clicking add variant (Velvet, Cotton, Snakeskin).
+5. Save Step
 
 _Important note: In the option you create for a material you need to set a texture file for each variant. A texture file (normal map) is a PNG image which is blueish purple in colour. It is an RGB representation of the texture which we can use to simulate a material or finish. More on Normal Maps.
 
 This step could be part of the standard workflow available to all or it could be linked as a conditional step by clicking the conditional button at the bottom of the step setting it to only appear when a particular variant in a previous step is selected. 
 
-#### Customization or Personalization?
+### Customization or Personalization?
+
 The Material step is a customization. A customer chooses a texture and the merchant would usually pick, configure and pack the item for consumer. No printing is required for this step.
