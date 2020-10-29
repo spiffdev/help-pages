@@ -1,8 +1,13 @@
 ---
 title: Materials
+media_order: 'allliii.png,Hatched.png,Screen Shot 2020-10-06 at 11.01.26 am.png,Screen Shot 2020-10-06 at 11.23.18 am.png'
 ---
 
-#### Customers can simulate materials, textures and product finishes  
+## Materials
+
+Materials are used to create different kinds of surfaces on exising 3D models. For example you might have a shoe where you want a customer to choose between different kinds of leathers and have this update on the model.
+
+### Customers can simulate materials, textures and product finishes  
 Give customers choice over materials or textures you have available and let them see an accurate representation of this on the 3D model. 
 
 Complexity = Advanced
