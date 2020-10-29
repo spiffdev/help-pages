@@ -9,13 +9,13 @@ This is an image or SVG that is placed into the artwork that cannot be edited by
 
 _Complexity = Intermediate_
 
-
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/09.silent-step/Screen%20Shot%202020-10-30%20at%209.41.05%20am.png)
 
 ### Examples
 
-- Your Brand Name - Where the name of your product needs to appear in a fixed position to maintain brand integrity.
-- Label details - User can input name or an image logo but cant change the base label to maintain brand integrity.
-- Set a defined background - Where the artwork for the background is a fundamental part of the product desigin and shouldnt be changed. 
+**Your Brand Name** - Where the name of your product needs to appear in a fixed position to maintain brand integrity.
+**Label Details** - User can input name or an image logo but cant change the base label to maintain brand integrity.
+**Set a Defined Background** - Where the artwork for the background is a fundamental part of the product desigin and shouldnt be changed. 
 
 _Note: The silent step should only be used where you require the content in this step to be printed. If printing is not required and the content is always required to be there for display purposes we can bake this content into the 3D model. _
 
