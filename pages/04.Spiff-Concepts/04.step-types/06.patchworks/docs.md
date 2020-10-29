@@ -5,14 +5,25 @@ media_order: 'patchworkimage1.png,patchwork2.png,patchwork3.png,Screen Shot 2020
 
 ## Patchworks
 
-#### Every user gets a unique version of your ART.   
+Patchworks allows users to create a unique background or region from a predefined set of SVG's or PNG's. Patchworks randomly extract a unique portion of your chosen deisgn by scaling and rotating around the object to display different perpectives of the same art.
+
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/06.patchworks/Screen%20Shot%202020-10-05%20at%203.55.58%20pm.png)
+
+### Unique Art
+
 Do you have a detailed graphic or a large mosaic picture? If so, using patchworks you can give every person a unique portion of that image to set in your product. Most popular examples have been Mosaic Diet Coke or Mosaic Nutella. Check your assets repository, we give a few examples to use for free!
 
-Complexity = Advanced (only in that you need a highly detailed image for this step to be effective) 
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/06.patchworks/Screen%20Shot%202020-10-05%20at%204.05.26%20pm.png)
 
-#### Examples: 
-- Wine Bottle Background - Your unique "popular artist" background of this well known image ?
-|![](patchwork2.png)|![](patchwork3.png)|
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/06.patchworks/Screen%20Shot%202020-10-05%20at%204.07.09%20pm.png)
+
+_Complexity = Advanced (only in that you need a highly detailed image for this step to be effective)_
+
+### Examples
+
+Check out this [bag](https://demo.spiff.com.au/collections/demo-products/products/tote-bag-demo) to see patchworks in action.
+
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/06.patchworks/patchworkimage1.png)
 
 #### How to Create
 - Click on Add Patchworks Step within a workflow. 
