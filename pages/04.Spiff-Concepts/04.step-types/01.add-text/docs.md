@@ -28,7 +28,7 @@ This step type allows you to set defined areas ([regions](https://help.spiff.com
 
 _Take a look at some examples of the finished product._
 
-|![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/01.add-text/Screen%20Shot%202020-05-08%20at%206.47.41%20am.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/01.add-text/Screen%20Shot%202020-10-29%20at%2011.04.06%20am.png)
 
 ### How to Use
 
