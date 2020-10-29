@@ -2,6 +2,8 @@
 title: Color
 ---
 
+## Color Step
+
 #### Customers can choose colours that you set
 Used to give your consumer a choice over the colors of your product or a portion (region) of your product.  
 
