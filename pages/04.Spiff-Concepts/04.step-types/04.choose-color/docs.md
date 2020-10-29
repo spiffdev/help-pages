@@ -27,7 +27,7 @@ Color steps are used to give your consumer a choice over the colors of your prod
 4. Add your option by either selecting a pre-made option or create a new one by clicking add variant (red, green, Bblue, pink, etc). Hex colors can be added. 
 5. Save step
 
-This step could be part of the standard workflow available to all or it could be linked as a conditional step by clicking the conditional button at the bottom of the step setting it to only appear when a particular variant in a previous step is selected. 
+_This step could be part of the standard workflow available to all or it could be linked as a conditional step by clicking the conditional button at the bottom of the step setting it to only appear when a particular variant in a previous step is selected._
 
 ### Customization or Personalization?
 
