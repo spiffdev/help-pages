@@ -9,9 +9,9 @@ Product overlays are a kind of image that is placed over a design to give inform
 
 [](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/10.product-overlay/Screen%20Shot%202020-10-05%20at%2011.24.53%20am.png)
 
-#### Information that is added to a workflow based on a product id that the user cannot edit 
+### More Info
 
-This is an image or SVG that is placed into the artwork that cannot be edited by the consumer in anyway. Unlike the Silent Step, the product overlay is linked to a product and appears above all content and must be printed as part of the user submitted art. Usually used for mandatory information on a product label. 
+Information that is added to a workflow based on a product id that the user cannot edit. This is an image or SVG that is placed into the artwork that cannot be edited by the consumer in anyway. Unlike the Silent Step, the product overlay is linked to a product and appears above all content and must be printed as part of the user submitted art. Usually used for mandatory information on a product label. 
 
 Workflows can be used for multilpe products where they all share the same panels and sizes. For example Beer and Cider where the bottles are the same size but where the alcohol content and standard drinks are different for each product. 
 
@@ -22,7 +22,7 @@ _Complexity = Intermediate_
 - **Personalisd Beer Label**  - This would be mandatory specific to a product that this workflow is being used for. For example, %alcohol, number of standard drinks, distributer information.
 - **Barcode Placement** - For use in the retail environment where a barcode is required to be printed that is specific to the product. 
 
-![](Screen%20Shot%202020-10-29%20at%2012.13.53%20pm.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/10.product-overlay/Screen%20Shot%202020-10-29%20at%2012.13.53%20pm.png)
 
 _Note: The product overlay step should only be used where you require the content in this step to be printed. _
 
