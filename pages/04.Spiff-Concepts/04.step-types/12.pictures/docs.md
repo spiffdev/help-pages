@@ -36,5 +36,4 @@ Build options using the following option types (illustrations, question step and
 
 ### Accepted Formats
 
-PNG's
-JPG's/JPEG's
+PNG's and JPG's/JPEG's
