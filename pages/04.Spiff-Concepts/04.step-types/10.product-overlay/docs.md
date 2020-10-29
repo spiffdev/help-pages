@@ -1,6 +1,13 @@
 ---
 title: 'Product Overlay'
+media_order: 'Screen Shot 2020-10-05 at 11.24.53 am.png'
 ---
+
+## Product Overlay
+
+Product overlays are a kind of image that is placed over a design to give information, such as ingredients, alcoholic content, a barcode, etc.
+
+
 
 #### Information that is added to a workflow based on a product id that the user cannot edit 
 This is an image or SVG that is placed into the artwork that cannot be edited by the consumer in anyway. Unlike the Silent Step, the product overlay is linked to a product and appears above all content and must be printed as part of the user submitted art. Usually used for mandatory information on a product label. 
