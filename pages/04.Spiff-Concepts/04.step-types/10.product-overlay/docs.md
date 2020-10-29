@@ -17,6 +17,8 @@ Workflows can be used for multilpe products where they all share the same panels
 
 _Complexity = Intermediate_
 
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/10.product-overlay/Screen%20Shot%202020-10-29%20at%2012.17.32%20pm.png)
+
 ### Examples
 
 - **Personalisd Beer Label**  - This would be mandatory specific to a product that this workflow is being used for. For example, %alcohol, number of standard drinks, distributer information.
