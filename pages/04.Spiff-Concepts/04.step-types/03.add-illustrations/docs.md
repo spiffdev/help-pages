@@ -27,6 +27,8 @@ Mostly used to either add clipart illustrations to augment a design or more crea
 - Color Picker - On/Off 
 - Set Custom Color Lists
 
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/03.add-illustrations/Screen%20Shot%202020-10-29%20at%2011.11.42%20am.png)
+
 ### How to Use
 
 1. Add the step type 
