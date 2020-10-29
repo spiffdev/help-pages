@@ -7,11 +7,16 @@ media_order: 'firework 8 (1).svg,dragon fly (1).svg,Happy Birthday 8 (1).svg,Scr
 
 Illustrations are vector graphics drawn in Adobe Illustrator or programs like it. Once the vector is ready to be used it is then exported into SVG's (scaleable vector graphic).
 
-![](Screen%20Shot%202020-09-24%20at%203.39.19%20pm.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/03.add-illustrations/Screen%20Shot%202020-09-24%20at%203.39.19%20pm.png)
 
-### Adding Illustrustions Step Type
-This step type is easy and powerful to use. Take options you have set up with a list of illustrations (SVGS) and give users the ability to add them to their designs and change all colors to suit their tastes. Some examples of illustrations are: 
+### Adding Illustrustions
+
+This step type is easy and powerful to use. Take options you have set up with a list of illustrations (SVGS) and give users the ability to add them to their designs and change all colors to suit their tastes.
+
+Some examples of illustrations are:
+
 ![](Happy%20Birthday%208.svg)![](dragon%20fly%20%281%29.svg)![](Happy%20Birthday%208%20%281%29.svg)
+
 Mostly used to either add clipart illustrations to augment a design or more creatively to add detail and vibrance to the product desgin. 
 
 [Test Link](https://help.spiff.com.au/spiff-concepts)
