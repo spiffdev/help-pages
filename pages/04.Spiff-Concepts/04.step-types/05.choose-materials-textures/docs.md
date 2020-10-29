@@ -41,7 +41,7 @@ _Complexity = Advanced_
 4. Add your option by either selecting a pre-made option or create a new one by clicking add variant (Velvet, Cotton, Snakeskin).
 5. Save Step
 
-_Important note: In the option you create for a material you need to set a texture file for each variant. A texture file (normal map) is a PNG image which is blueish purple in colour. It is an RGB representation of the texture which we can use to simulate a material or finish. More on Normal Maps.
+_Important note: In the option you create for a material you need to set a texture file for each variant. A texture file (normal map) is a PNG image which is blueish purple in colour. It is an RGB representation of the texture which we can use to simulate a material or finish. More on Normal Maps._
 
 This step could be part of the standard workflow available to all or it could be linked as a conditional step by clicking the conditional button at the bottom of the step setting it to only appear when a particular variant in a previous step is selected. 
 
