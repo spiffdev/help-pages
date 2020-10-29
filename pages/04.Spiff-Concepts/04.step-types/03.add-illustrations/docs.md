@@ -37,4 +37,5 @@ Mostly used to either add clipart illustrations to augment a design or more crea
 4. Set your attributes. It's simple. 
 5. Don't forget to save the workflow when you are finished.
 
+
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/03.add-illustrations/dragon%20fly%20(1).svg)
