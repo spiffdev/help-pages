@@ -11,26 +11,28 @@ Illustrations are vector graphics drawn in Adobe Illustrator or programs like it
 
 ### Adding Illustrustions
 
-This step type is easy and powerful to use. Take options you have set up with a list of illustrations (SVGS) and give users the ability to add them to their designs and change all colors to suit their tastes.
+This step type is easy and powerful to use. Take options you have set up with a list of illustrations ([SVG'S](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)) and give users the ability to add them to their designs and change all colors to suit their tastes.
 
 Some examples of illustrations are:
 
-![](Happy%20Birthday%208.svg)![](dragon%20fly%20%281%29.svg)![](Happy%20Birthday%208%20%281%29.svg)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/03.add-illustrations/Screen%20Shot%202020-10-29%20at%2011.08.21%20am.png)
 
 Mostly used to either add clipart illustrations to augment a design or more creatively to add detail and vibrance to the product desgin. 
 
-[Test Link](https://help.spiff.com.au/spiff-concepts)
+### Illustration Attributes
 
-##### Illustration Attributes
-- Set size
+- Set Size
 - Set Default Illustration
 - Size
-- Color Picker On/Off 
-- Set Custom Colour Lists
+- Color Picker - On/Off 
+- Set Custom Color Lists
 
-##### How to use the add illustration type. 
-- First add the step type 
-- Then fill out the Step Name and Help Text 
-- Then either select and option from the drop down (see options help for how to create an option) , Start adding variants to create a new list of Illustrations or set a default illustration if you dont want to offer the user choice. 
-- Then set your Attributes. Its simple 
-- Dont forget to save the workflow when you are finished 
+### How to Use
+
+1. Add the step type 
+2. Fill out the **Step Name** and **Help Text**
+3. Either select and option from the drop down (see options help for how to create an option), start adding variants to create a new list of illustrations or set a default illustration if you dont want to offer the user choice. 
+4. Set your attributes. It's simple. 
+5. Don't forget to save the workflow when you are finished.
+
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/03.add-illustrations/dragon%20fly%20(1).svg)
