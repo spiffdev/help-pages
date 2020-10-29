@@ -7,7 +7,7 @@ media_order: 'Screen Shot 2020-10-05 at 11.24.53 am.png'
 
 Product overlays are a kind of image that is placed over a design to give information, such as ingredients, alcoholic content, a barcode, etc.
 
-[](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/10.product-overlay/Screen%20Shot%202020-10-05%20at%2011.24.53%20am.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/10.product-overlay/Screen%20Shot%202020-10-05%20at%2011.24.53%20am.png)
 
 ### More Info
 
