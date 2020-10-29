@@ -33,4 +33,4 @@ This step could be part of the standard workflow available to all or it could be
 
 The color step can be used as either. For choosing stocked material colors it is a customization, when choosing the color of a background to a greeting card it is a personalization as the color will need to be printed. 
 
-![](Screen%20Shot%202020-10-29%20at%2011.23.51%20am.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/04.choose-color/Screen%20Shot%202020-10-29%20at%2011.23.51%20am.png)
