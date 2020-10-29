@@ -37,3 +37,5 @@ _Take a look at some examples of the finished product._
 3. Then either select and option from the drop down (see options help for how to create an option), start adding variants to create a new option or set a default option if you dont want to offer the user choice. 
 4. Set your attributes. It's simple.
 5. Don't forget to save the workflow when you are finished.
+
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/01.add-text/Screen%20Shot%202020-09-25%20at%204.55.47%20pm.png)
