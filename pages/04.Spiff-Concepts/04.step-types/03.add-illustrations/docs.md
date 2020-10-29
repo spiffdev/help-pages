@@ -1,7 +1,13 @@
 ---
 title: Illustrations
-media_order: 'firework 8 (1).svg,dragon fly (1).svg,Happy Birthday 8 (1).svg'
+media_order: 'firework 8 (1).svg,dragon fly (1).svg,Happy Birthday 8 (1).svg,Screen Shot 2020-09-24 at 3.39.19 pm.png,Screen Shot 2020-09-24 at 11.28.46 am.png'
 ---
+
+## Illustrations
+
+Illustrations are vector graphics drawn in Adobe Illustrator or programs like it. Once the vector is ready to be used it is then exported into SVG's (scaleable vector graphic).
+
+![](Screen%20Shot%202020-09-24%20at%203.39.19%20pm.png)
 
 ### Adding Illustrustions Step Type
 This step type is easy and powerful to use. Take options you have set up with a list of illustrations (SVGS) and give users the ability to add them to their designs and change all colors to suit their tastes. Some examples of illustrations are: 
