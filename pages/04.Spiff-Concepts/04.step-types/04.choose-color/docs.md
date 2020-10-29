@@ -1,19 +1,21 @@
 ---
 title: Color
+media_order: 'Screen Shot 2020-10-30 at 9.25.29 am.png,Screen Shot 2020-10-30 at 9.28.21 am.png,Screen Shot 2020-10-30 at 9.27.20 am.png'
 ---
 
 ## Color Step
 
 Color steps are used to give your consumer a choice over the colors of your product or a portion (region) of your product. 
 
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/04.choose-color/Screen%20Shot%202020-10-30%20at%209.25.29%20am.png)
 
+### Examples
 
-#### Examples: 
-- Garment Color - what is the color of your jumper, shorts, bottle, phone etc ?
-- Material Color - What Color is the material color of your chair? 
-- Laces Color - Choose the color of the laces on your shoes ? 
+**Garment Color** - The color of your jumper, shorts, bottle, phone, etc.
+**Material Color** - What color is the material color of your chair, watch, etc? 
 
-#### How to Create
+### How to Create
+
 - Click on Add color within a workflow. 
 - Add your Title (E.g. Laces)
 - Add your Help Text (Choose the color of the laces of your shoes)
