@@ -18,7 +18,7 @@ Before you begin building any [integration](/developer/integrations) you will ne
 2. A [product](/spiff-concepts/product). A product in Spiff should form a 1 to 1 relationship with the products you have set up in your existing platform. Note here there is no explicit link between your platform and Spiff and that you will only need to create Spiff products for your platform products that you intend to make available for customisation.
 3. A [Workflow](/spiff-concepts/workflows). This can be set up in the Spiff Hub which is accessed after signing up. Spiff workflows are a detailed topic and more information can be found on their documentation page.
 4. An Integration. To integrate with Spiff you will need to create an integration. The integration will provide you with the key and secret necessary to place a secure order. For more information on this process please see your integrations page which is linked above.
-5. An Integration Product.  An integration product provides the link between a product and an integration. This can be created from either the integration page in the Spiff Hub or  the product page itself.
+5. An [Integration Product](/spiff-concepts/product/integration-product).  An integration product provides the link between a product and an integration. This can be created from either the integration page in the Spiff Hub or  the product page itself. You copy the integration product id from the vertical ellipsis to the right of the integration product you want to link. 
 
 ## Integration Overview
 
