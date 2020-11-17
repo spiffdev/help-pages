@@ -10,7 +10,7 @@ Your spiff partner account can be integrated with many different sites (webistes
 
 This gives you the ability to control a group of products in coherent manner for the purposes of experience and fulfilment, whilst maintaining the marketing independance required to expose those products to as many customers as possible across a range of online stores and instore traffic. 
 
-You will first need to [create an integration](/integration) before you can do this. 
+You will first need to [create an integration](/spiffconcepts/integration) before you can do this. 
 
 _Note: For shopify users this process is automatically created through the install process and integration products are automatically linked so no action is required. _
 
