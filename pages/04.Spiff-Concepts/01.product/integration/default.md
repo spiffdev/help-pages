@@ -23,5 +23,7 @@ To find our about [creating an internal order](/internal orders)
 - Fill out the name of your integration (e.g. Yourstorename_wordpress)  
 - Save 
 - Now you will be presented with the integration details for you to copy into your store.  
-- See [](/developer) for information relating to your particular ecommerce platform
+- See [developer pages](/developer) for information relating to your particular ecommerce platform
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/01.product/integration/Screen%20Shot%202020-11-18%20at%208.03.44%20am.png)
+
+Now you are ready to link your products by [creating integration products](/spiff-concepts/product/integration-product)
