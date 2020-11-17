@@ -1,5 +1,6 @@
 ---
 title: Integrations
+media_order: 'Screen Shot 2020-11-18 at 8.03.44 am.png'
 visible: true
 ---
 
@@ -23,4 +24,3 @@ To find our about [creating an internal order](/internal orders)
 - Save 
 - Now you will be presented with the integration details for you to copy into your store.  
 - See [](/developer) for information relating to your particular ecommerce platform
-![](http://)
