@@ -24,3 +24,4 @@ To find our about [creating an internal order](/internal orders)
 - Save 
 - Now you will be presented with the integration details for you to copy into your store.  
 - See [](/developer) for information relating to your particular ecommerce platform
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/01.product/integration/Screen%20Shot%202020-11-18%20at%208.03.44%20am.png)
