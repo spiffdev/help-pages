@@ -18,3 +18,5 @@ An Integration Product is a link from the spiff hub to the location (website) yo
 
 The abililty to create an integration product is located inside the spiff product as seen below. 
 
+
+
