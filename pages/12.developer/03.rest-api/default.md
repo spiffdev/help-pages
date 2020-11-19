@@ -66,3 +66,10 @@ A [question step collects information from a user as part of the workflow proces
     ]
 }
 ```
+
+### Example Response
+```
+{
+	"transactionId": "<UUID>"
+}
+```
