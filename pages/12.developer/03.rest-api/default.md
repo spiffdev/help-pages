@@ -32,7 +32,7 @@ An [illustration step](/spiff-concepts/step-types/add-illustrations) places a gi
     	{
         	type: "text",
             data: {
-            	text: "Happy Birthday Phil",
+            	text: "Happy Birthday Steve",
                 font: "fonts/font.ttf"
             }
         },
