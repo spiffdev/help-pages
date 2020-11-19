@@ -13,7 +13,10 @@ When headless transactions are created a spiff workflow is instancited and all s
 ##Text
 The [text step](/spiff-concepts/step-types/add-text) places text on to a design in a preconfigured location. It requires the following data
 
-|field|type|
+|Name|Type|Required|Description|
 |----|----|
-|text|text|
+|text|text|Yes|The text that should appear on the design. Note that validation rules configured in the workflow will be applied here|
+|font|text|No|The asset URL of the font that should be applied. This is not required when a default font has been configured in the workflow|
 
+##IllustrationStep
+An illustration step places a given illustration in to a design. Note that a valid Spiff asset URL must be provided.
