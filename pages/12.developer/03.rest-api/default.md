@@ -11,5 +11,7 @@ When creating a headless design all step data for that design must be submitted 
 When headless transactions are created a spiff workflow is instancited and all submitted step data must be provided in order and must also be validted according to the configured workflows. As each step is different and configurable the step types will represent different data shaps. These shapes are described below.
 
 ##Text
-The [text step](/spiff-concepts/step-types/add-text) places text on to a design in a preconfigured location.
+The [text step](/spiff-concepts/step-types/add-text) places text on to a design in a preconfigured location. It requires the following data
+|field|type|
+|text|text|
 
