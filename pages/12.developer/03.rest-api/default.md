@@ -28,18 +28,18 @@ An [illustration step](/spiff-concepts/step-types/add-illustrations) places a gi
 ### Example Payload
 ```
 {
-	steps: [
+	"steps": [
     	{
-        	type: "text",
-            data: {
-            	text: "Happy Birthday Steve",
-                font: "fonts/font.ttf"
+        	"type": "text",
+            "data": {
+            	"text": "Happy Birthday Steve",
+                "font": "fonts/font.ttf"
             }
         },
         {
-        	type: "illustration",
-            data: {
-            	url: "illustrations/illustration.svg"
+        	"type": "illustration",
+            "data": {
+            	"url": "illustrations/illustration.svg"
             }
         }
     ]
