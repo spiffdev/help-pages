@@ -31,6 +31,12 @@ An [illustration step](/spiff-concepts/step-types/add-illustrations) places a gi
 	"integrationProductId": "<UUID>",
 	"steps": [
     	{
+        	"type": "question",
+            "data": {
+            	"answer": "True"
+            }
+        },
+    	{
         	"type": "text",
             "data": {
             	"text": "Happy Birthday Steve",
