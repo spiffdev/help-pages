@@ -41,23 +41,27 @@ A [question step collects information from a user as part of the workflow proces
     "integrationProductId": "<UUID>",
     "designs": [
         {
+        	"workflowSlug": "workflow-slug",
         	"productId": "<UUID>",
             "name": "A Logical name for the design",
             "steps": [
                 {
+                	"name": "<UUID>",
                     "type": "question",
                     "data": {
                         "answer": "True"
                     }
                 },
                 {
-                    "type": "text",
+                    "name": "<UUID>",
+					"type": "text",
                     "data": {
                         "text": "Happy Birthday Steve",
                         "font": "fonts/font.ttf"
                     }
                 },
                 {
+                	"name": "<UUID>",
                     "type": "illustration",
                     "data": {
                         "url": "illustrations/illustration.svg"
