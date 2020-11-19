@@ -28,6 +28,7 @@ An [illustration step](/spiff-concepts/step-types/add-illustrations) places a gi
 ### Example Payload
 ```
 {
+	"integrationProductId": "<UUID>",
 	"steps": [
     	{
         	"type": "text",
