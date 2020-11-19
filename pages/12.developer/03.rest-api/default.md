@@ -20,3 +20,7 @@ The [text step](/spiff-concepts/step-types/add-text) places text on to a design 
 
 ##IllustrationStep
 An illustration step places a given illustration in to a design. Note that a valid Spiff asset URL must be provided.
+
+|Name|Type|Required|Descripiton|
+|----|----|
+|url|SpiffAsset|Yes|The Spiff asset key for the illustration|
