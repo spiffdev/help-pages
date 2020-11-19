@@ -25,6 +25,14 @@ An [illustration step](/spiff-concepts/step-types/add-illustrations) places a gi
 |----|----|
 |url|SpiffAssetKey|Yes|The Spiff asset key for the illustration|
 
+##Question
+A [question step collects information from a user as part of the workflow process](/spiff-concepts/step-types/add-question). This information is then populated to metadata that can then be used by downstram applications to aid in order delivery.
+
+|Name|Type|Required|Descripiton|
+|----|----|
+|answer|text|Yes|The answer to the question in the workflow|
+
+
 ### Example Payload
 ```
 {
