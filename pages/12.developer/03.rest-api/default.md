@@ -4,7 +4,7 @@ title: 'Rest API'
 
 ## POST /transactions
 
-Spiff supports headless designs. A headless design allows a new transaciton resource to instruct the design stage of a typical spiff workflow allowing the user to bypass the spiff workflow experance entirley. Before starting with headless designs it would be best to first [understand how a typical spiff integration works](/developer/integrations) if you don't already. 
+Spiff supports headless designs a feature when creating transactions. A headless design allows a new transaciton resource to instruct the design stage of a typical spiff workflow allowing the user to bypass the spiff workflow experance entirley. Before starting with headless designs it would be best to first [understand how a typical spiff integration works](/developer/integrations) if you don't already. 
 
 When creating a headless design all step data for that design must be submitted with the transaction. The transaction will then be created with the corrsponding design in the spiff backend. The resulting transactionId can then be placed as an order to Spiff and the normal flow will be initiated there after. 
 
@@ -41,6 +41,8 @@ A [question step collects information from a user as part of the workflow proces
     "integrationProductId": "<UUID>",
     "designs": [
         {
+        	"productId": "<UUID>",
+            "name": "A Logical name for the design",
             "steps": [
                 {
                     "type": "question",
