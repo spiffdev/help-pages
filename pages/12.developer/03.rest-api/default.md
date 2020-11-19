@@ -13,5 +13,6 @@ When headless transactions are created a spiff workflow is instancited and all s
 ##Text
 The [text step](/spiff-concepts/step-types/add-text) places text on to a design in a preconfigured location. It requires the following data
 |field|type|
+|----|----|
 |text|text|
 
