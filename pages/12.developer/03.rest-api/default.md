@@ -16,11 +16,11 @@ The [text step](/spiff-concepts/step-types/add-text) places text on to a design 
 |Name|Type|Required|Description|
 |----|----|
 |text|text|Yes|The text that should appear on the design. Note that validation rules configured in the workflow will be applied here|
-|font|text|No|The asset URL of the font that should be applied. This is not required when a default font has been configured in the workflow|
+|font|SpiffAssetKey|No|The asset URL of the font that should be applied. This is not required when a default font has been configured in the workflow|
 
 ##IllustrationStep
 An illustration step places a given illustration in to a design. Note that a valid Spiff asset URL must be provided.
 
 |Name|Type|Required|Descripiton|
 |----|----|
-|url|SpiffAsset|Yes|The Spiff asset key for the illustration|
+|url|SpiffAssetKey|Yes|The Spiff asset key for the illustration|
