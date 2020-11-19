@@ -38,32 +38,31 @@ A [question step collects information from a user as part of the workflow proces
 ### Example Payload
 ```
 {
-	"integrationProductId": "<UUID>",
+    "integrationProductId": "<UUID>",
     "designs": [
-    	{
-    		"steps": [
-    			{
-        			"type": "question",
-            		"data": {
-            			"answer": "True"
-            		}
-        		},
-    			{
-        			"type": "text",
-            		"data": {
-            			"text": "Happy Birthday Steve",
-                		"font": "fonts/font.ttf"
-            		}
-        		},
-        		{
-        			"type": "illustration",
-            		"data": {
-            			"url": "illustrations/illustration.svg"
-            		}
-        		}
-    		]    
+        {
+            "steps": [
+                {
+                    "type": "question",
+                    "data": {
+                        "answer": "True"
+                    }
+                },
+                {
+                    "type": "text",
+                    "data": {
+                        "text": "Happy Birthday Steve",
+                        "font": "fonts/font.ttf"
+                    }
+                },
+                {
+                    "type": "illustration",
+                    "data": {
+                        "url": "illustrations/illustration.svg"
+                    }
+                }
+            ]
         }
     ]
-	
 }
 ```
