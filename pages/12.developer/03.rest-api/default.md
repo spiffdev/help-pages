@@ -2,7 +2,7 @@
 title: 'Rest API'
 ---
 
-# POST /transactions
+## POST /transactions
 
 Spiff supports headless designs. A headless design allows a new transaciton resource to instruct the design stage of a typical spiff workflow allowing the user to bypass the spiff workflow experance entirley. Before starting with headless designs it would be best to first [understand how a typical spiff integration works](/developer/integrations) if you don't already. 
 
@@ -25,7 +25,7 @@ An [illustration step]() places a given illustration in to a design. Note that a
 |----|----|
 |url|SpiffAssetKey|Yes|The Spiff asset key for the illustration|
 
-## Example Payload
+### Example Payload
 ```
 {}
 ```
