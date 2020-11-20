@@ -42,7 +42,7 @@ A [question step collects information from a user as part of the workflow proces
     "designs": [
         {
         	"workflowSlug": "workflow-slug",
-        	"productId": "<UUID>",
+        	"integrationProductId": "<UUID>",
             "name": "A Logical name for the design",
             "steps": [
                 {
