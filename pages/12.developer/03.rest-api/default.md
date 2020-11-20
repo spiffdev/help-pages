@@ -47,14 +47,12 @@ A [question step collects information from a user as part of the workflow proces
             "steps": [
                 {
                 	"name": "<UUID>",
-                    "type": "question",
                     "data": {
                         "answer": "True"
                     }
                 },
                 {
                     "name": "<UUID>",
-					"type": "text",
                     "data": {
                         "text": "Happy Birthday Steve",
                         "font": "fonts/font.ttf"
@@ -62,7 +60,6 @@ A [question step collects information from a user as part of the workflow proces
                 },
                 {
                 	"name": "<UUID>",
-                    "type": "illustration",
                     "data": {
                         "url": "illustrations/illustration.svg"
                     }
