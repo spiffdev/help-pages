@@ -55,13 +55,13 @@ A [question step collects information from a user as part of the workflow proces
                     "name": "<UUID>",
                     "data": {
                         "text": "Happy Birthday Steve",
-                        "font": "fonts/font.ttf"
+                        "variantId": "<UUID>"
                     }
                 },
                 {
                 	"name": "<UUID>",
                     "data": {
-                        "url": "illustrations/illustration.svg"
+                        "variantId": "<UUID>"
                     }
                 }
             ]
