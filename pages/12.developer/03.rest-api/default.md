@@ -4,9 +4,9 @@ title: 'Rest API'
 
 ## POST /api/batchtransactions
 
-Spiff supports building designs directly via an API call. This feature is known as a headless design. A headless design allows a new transaciton resource to instruct the design stage of a typical spiff workflow allowing the user to bypass the spiff workflow experance entirley. Before starting with headless designs it would be best to first [understand how a typical spiff integration works](/developer/integrations) if you don't already. It's also vital to this process to understand how Spiff transactions work.
+Spiff supports building designs directly via an API call. This feature is known as a headless design. A headless design allows a new transaciton resource to instruct the design stage of a typical spiff workflow. Doing this allows a merchant user to bypass the spiff workflow experance entirley. Before starting with headless designs it would be best to first [understand how a typical spiff integration works](/developer/integrations) if you don't already. It's also vital to this process to understand how Spiff transactions work.
 
-When creating a headless design all step data for that design must be submitted with the transaction. The transaction will then be created with the corrsponding design in the spiff backend. The resulting transactionId can then be placed as an order to Spiff and the normal flow will be initiated there after. Unlike the conventianl workflow for spiff, headless workflows allow for multipule workflows to be executed within a single design allowing fine grained control over design outputs.
+When creating a headless design all step data for that design must be submitted with the transaction. The transaction will then be created with the corrsponding design in the spiff backend. The resulting `transactionId` can then be placed as an order to Spiff and the normal flow will be initiated there after. Unlike the conventianl workflow for spiff, headless workflows allow for multipule workflows to be executed within a single design allowing fine grained control over design outputs.
 
 ##Text
 The [text step](/spiff-concepts/step-types/add-text) places text on to a design in a preconfigured location. It requires the following data
@@ -14,7 +14,7 @@ The [text step](/spiff-concepts/step-types/add-text) places text on to a design 
 |Name|Type|Required|Description|
 |----|----|
 |text|text|Yes|The text that should appear on the design. Note that validation rules configured in the workflow will be applied here|
-|fontVariantId|UUID|No|The asset variantId of the font that should be applied. This is not required when a default font has been configured in the workflow|
+|fontVariantId|UUID|No|The fontVariantId of the font that should be applied. This is not required when a default font has been configured in the workflow|
 
 ##Illustration
 An [illustration step](/spiff-concepts/step-types/add-illustrations) places a given illustration in to a design. Note that a valid Spiff asset URL must be provided.
@@ -37,25 +37,25 @@ A [question step collects information from a user as part of the workflow proces
     "transactions": [
         {
         	"workflowSlug": "workflow-slug",
-        	"integrationProductId": "<UUID>",
+        	"integrationProductId": "52e4d8c2-eb30-42e5-982a-c89c8c3d557d",
             "steps": [
                 {
-                	"name": "<UUID>",
+                	"name": "52e4d8c2-eb30-42e5-982a-c89c8c3d557d",
                     "data": {
                         "answerVariantId": "52e4d8c2-eb30-42e5-982a-c89c8c3d557d"
                     }
                 },
                 {
-                    "name": "<UUID>",
+                    "name": "52e4d8c2-eb30-42e5-982a-c89c8c3d557d",
                     "data": {
                         "text": "Happy Birthday Steve",
                         "fontVariantId": "52e4d8c2-eb30-42e5-982a-c89c8c3d557d"
                     }
                 },
                 {
-                	"name": "<UUID>",
+                	"name": "52e4d8c2-eb30-42e5-982a-c89c8c3d557d",
                     "data": {
-                        "illustrationVariantId": "<UUID>"
+                        "illustrationVariantId": "52e4d8c2-eb30-42e5-982a-c89c8c3d557d"
                     }
                 }
             ]
