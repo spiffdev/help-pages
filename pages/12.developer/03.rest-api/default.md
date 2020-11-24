@@ -16,50 +16,48 @@ The [text step](/spiff-concepts/step-types/add-text) places text on to a design 
 |Name|Type|Required|Description|
 |----|----|
 |text|text|Yes|The text that should appear on the design. Note that validation rules configured in the workflow will be applied here|
-|font|SpiffVariantId|No|The asset URL of the font that should be applied. This is not required when a default font has been configured in the workflow|
+|fontVariantId|UUID|No|The asset variantId of the font that should be applied. This is not required when a default font has been configured in the workflow|
 
 ##Illustration
 An [illustration step](/spiff-concepts/step-types/add-illustrations) places a given illustration in to a design. Note that a valid Spiff asset URL must be provided.
 
 |Name|Type|Required|Descripiton|
 |----|----|
-|url|SpiffVariantId|Yes|The Spiff asset key for the illustration|
+|illustrationVariantId|UUID|Yes|The Spiff variant for the illustration|
 
 ##Question
 A [question step collects information from a user as part of the workflow process](/spiff-concepts/step-types/add-question). This information is then populated to metadata that can then be used by downstram applications to aid in order delivery.
 
 |Name|Type|Required|Descripiton|
 |----|----|
-|answer|text|Yes|The answer to the question in the workflow|
+|answerVariantId|UUID|Yes|The answer to the question in the workflow|
 
 
 ### Example Payload
 ```
 {
-    "integrationProductId": "<UUID>",
-    "designs": [
+    "transactions": [
         {
         	"workflowSlug": "workflow-slug",
         	"integrationProductId": "<UUID>",
-            "name": "A Logical name for the design",
             "steps": [
                 {
                 	"name": "<UUID>",
                     "data": {
-                        "answer": "True"
+                        "answerVariantId": "52e4d8c2-eb30-42e5-982a-c89c8c3d557d"
                     }
                 },
                 {
                     "name": "<UUID>",
                     "data": {
                         "text": "Happy Birthday Steve",
-                        "variantId": "<UUID>"
+                        "fontVariantId": "52e4d8c2-eb30-42e5-982a-c89c8c3d557d"
                     }
                 },
                 {
                 	"name": "<UUID>",
                     "data": {
-                        "variantId": "<UUID>"
+                        "illustrationVariantId": "<UUID>"
                     }
                 }
             ]
