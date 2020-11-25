@@ -4,7 +4,12 @@ title: 'Rest API'
 
 ## POST /api/batchtransactions
 
-Spiff supports building designs directly via an API call. This feature is known as a headless design. A headless design allows a new transaction resource to instruct the design stage of a typical spiff workflow. Doing this allows a merchant user to bypass the spiff workflow experience entirely. Before starting with headless designs it would be best to first [understand how a typical spiff integration works](/developer/integrations) if you don't already. It's also vital to this process to understand how Spiff transactions work.
+Spiff supports building designs directly via an API call. This feature is known as a headless design. A headless design allows a new transaction resource to instruct the design stage of a typical spiff workflow. Doing this allows a merchants customer to bypass the spiff workflow experience entirely. 
+
+Note: Even for a headless design the workflow still needs to be built within the spiff hub as if it were being used in the conventional spiff experience.
+
+
+Before starting with headless designs it would be best to first [understand how a typical spiff integration works](/developer/integrations) if you don't already. It's also vital to this process to understand how Spiff transactions work.
 
 When creating a headless design all step data for that design must be submitted with the transaction. The transaction will then be created with the corresponding design in the spiff backend. The resulting `transactionId` can then be placed as an order to Spiff after which the normal flow will be initiated. Unlike the conventional workflow for spiff, headless workflows allow for multiple workflows to be executed within a single design allowing fine grained control over design outputs.
 
