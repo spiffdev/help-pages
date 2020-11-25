@@ -19,7 +19,7 @@ The [text step](/spiff-concepts/step-types/add-text) places text on to a design 
 |fontVariantId|UUID|No|The fontVariantId of the font that should be applied. This is not required when a default font has been configured in the workflow|
 
 ##Illustration
-An [illustration step](/spiff-concepts/step-types/add-illustrations) places a given illustration in to a design. Note that a valid Spiff asset URL must be provided.
+An [illustration step](/spiff-concepts/step-types/add-illustrations) places a given illustration in to a design. Note that a valid Spiff asset URL must be provided. To add assets to spiff, log into your account in the [spiff hub](https://app.spiff.com.au) and go to Store => Assets => Illustrations => Create Asset. 
 
 |Name|Type|Required|Descripiton|
 |----|----|
