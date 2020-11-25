@@ -6,7 +6,9 @@ title: 'Rest API'
 
 Spiff supports building designs directly via an API call. This feature is known as a headless design. A headless design allows a new transaction resource to instruct the design stage of a typical spiff workflow. Doing this allows a merchant user to bypass the spiff workflow experience entirely. Before starting with headless designs it would be best to first [understand how a typical spiff integration works](/developer/integrations) if you don't already. It's also vital to this process to understand how Spiff transactions work.
 
-When creating a headless design all step data for that design must be submitted with the transaction. The transaction will then be created with the corresponding design in the spiff backend. The resulting `transactionId` can then be placed as an order to Spiff and the normal flow will be initiated there after. Unlike the conventional workflow for spiff, headless workflows allow for multiple workflows to be executed within a single design allowing fine grained control over design outputs.
+When creating a headless design all step data for that design must be submitted with the transaction. The transaction will then be created with the corresponding design in the spiff backend. The resulting `transactionId` can then be placed as an order to Spiff after which the normal flow will be initiated. Unlike the conventional workflow for spiff, headless workflows allow for multiple workflows to be executed within a single design allowing fine grained control over design outputs.
+
+The spiff step types currently supported are outlined below. Please contact [spiff support](https://spiffassist.freshdesk.com/support/solutions) and submit a request for the relevant step type to be added. 
 
 ##Text
 The [text step](/spiff-concepts/step-types/add-text) places text on to a design in a preconfigured location. It requires the following data
