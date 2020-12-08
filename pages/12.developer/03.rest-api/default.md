@@ -55,7 +55,7 @@ A [question step collects information from a user as part of the workflow proces
                 {
                     "name": "52e4d8c2-eb30-42e5-982a-c89c8c3d557d",
                     "data": {
-                        "text": "Happy Birthday Steve",
+                        "text": "Steve",
                         "fontVariantId": "52e4d8c2-eb30-42e5-982a-c89c8c3d557d"
                     }
                 },
@@ -74,9 +74,42 @@ A [question step collects information from a user as part of the workflow proces
 ### Example Response
 ```
 {
-	"transactions": [
-    	{
-        	"id": "<UUID>" 
+    "content": [
+        {
+            "data": {
+                "id": "<uuid>",
+                "exportedData": {
+                    "<uuid>": {
+                        "stepTitle": "Name - Enter name up to 14 characters",
+                        "selections": [
+                            "You"
+                        ],
+                        "selectionPriceModifiers": [
+                            0
+                        ],
+                        "text": "Steve",
+                        "color": "#ffffff"
+                    },
+                    "<uuid>": {
+                        "stepTitle": "Add Share a Coke gift box - $4 each",
+                        "selections": [
+                            "Yes"
+                        ],
+                        "selectionPriceModifiers": [
+                            0
+                        ]
+                    },
+                    "<uuid>": {
+                        "stepTitle": "Personalise your Share a Coke Bottle",
+                        "selections": [
+                            "Coke Classic"
+                        ],
+                        "selectionPriceModifiers": [
+                            0
+                        ]
+                    }
+                }
+            }
         }
     ]
 }
