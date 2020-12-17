@@ -21,7 +21,8 @@ The [text step](/spiff-concepts/step-types/add-text) places text on to a design 
 |Name|Type|Required|Description|
 |----|----|
 |text|text|Yes|The text that should appear on the design. Note that validation rules configured in the workflow will be applied here|
-|fontVariantId|UUID|No|The fontVariantId of the font that should be applied. This is not required when a default font has been configured in the workflow|
+|color|hex code|No|The color of the text. Defaults to the step's default color.|
+|fontVariantId|UUID|Yes|The fontVariantId of the font that should be applied.|
 
 ##Illustration
 An [illustration step](/spiff-concepts/step-types/add-illustrations) places a given illustration in to a design. Note that a valid Spiff asset URL must be provided. To add assets to spiff, log into your account in the [spiff hub](https://app.spiff.com.au) and go to Store => Assets => Illustrations => Create Asset. 
@@ -56,6 +57,7 @@ A [question step collects information from a user as part of the workflow proces
                     "name": "52e4d8c2-eb30-42e5-982a-c89c8c3d557d",
                     "data": {
                         "text": "Steve",
+                        "color": "#ffffff",
                         "fontVariantId": "52e4d8c2-eb30-42e5-982a-c89c8c3d557d"
                     }
                 },
