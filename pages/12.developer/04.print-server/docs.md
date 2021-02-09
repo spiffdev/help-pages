@@ -32,6 +32,8 @@ Note ghost script is only required if prints need to be sent direclty to a print
 10. Verify the PDF is as expected.
 
 ## Configruation Settings
+The print server is configured with XML and is found in the App.config file. The following is an incomplete list of the configuration items that are avaiable.
+
 |name|value|notes|
 |----|----|----|
 |location|string|The id of the spiff location. This should be set from within the hub|
