@@ -37,4 +37,4 @@ Note ghost script is only required if prints need to be sent direclty to a print
 |location|string|The id of the spiff location. This should be set from within the hub|
 |doPrinting|boolean|True if the PDF needs to be sent to the preconfigured print device. You will need to make sure the printer name has been set correctly|
 |productionDownloadFolder${id}|string|The path to the folder of the product that has the ID within the tag. Note this will be moved to an attribute in the future|
-|printerCount|number|The number of attached printers to the current print server. These will be printed to using a round robin stragity to increase thoughput. Make sure each printier in the cluster is named ${printerName}\_1 etc etc|
+|printerCount|number|The number of attached printers to the current print server. These will be printed to using a round robin stragity to increase thoughput. Make sure each printier in the cluster is named ${printerName}\_1, ${printName}\_2 etc etc|
