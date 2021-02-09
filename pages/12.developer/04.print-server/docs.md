@@ -5,9 +5,10 @@ title: 'Print Server'
 # Installing The Spiff Print Server 
 
 ## Prerequisites
-* Windows 10 however earlier versions should also work.
-* 8GB Ram. 4GB might be passable.
-* ~10-20 GB Free Hard Drive Space
+Windows 10 however earlier versions should also work.
+8GB Ram. 4GB might be passable.
+10-20 GB Approx Free Hard Drive Space allowing for PDF downlaods.
+Optional: A printer that is installed with a working print driver.
 
 ## Steps To Install Ghost Script. 
 
