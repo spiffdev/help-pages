@@ -23,13 +23,13 @@ Note ghost script is only required if prints need to be sent direclty to a print
 
 1. Download the print server from https://s3-ap-southeast-2.amazonaws.com/local.code.spiff.com.au/spiff-print-server-releases/spiff-print-server-2.0.34.zip
 2. Unzip to `c:\Program Files\spiff-print-server`
-3. In the install folder edit the file called App.config. Make sure to set the correct locationId according to the location details of your partner. This can be discovered by logging in to the spiff hub.
+3. In the install folder edit the file called App.config. Make sure to set the correct locationId according to the location details of your partner. This can be discovered by logging in to the spiff hub by going to the Nav Bar and clicking on Partner => My Account and then scrolling down to the locations Card near the bottom. 
 
 ![](https://help.spiff.com.au/user/pages/12.developer/04.print-server/Screen%20Shot%202021-02-10%20at%2011.54.27%20am.png)
 
 
 4. Next install the print server as a windows service. Open a command prompt in administrator mode
-5. Change the directly to the install location of the print server. In this case execute the command `cd c:\Program Files\spiff-print-server`
+5. Change the directory to the install location of the print server. In this case execute the command `cd c:\Program Files\spiff-print-server`
 6. To install the service run the executable `.\spiff-print-server.exe install`. Note this step may say "complete" even if the service is not installed.
 7. Verify the install. Open windows services. Start -> Administration Tools -> Services
 8. Find the service "Spiff Printer Agent" in the service list and start it. Note if the service does not appear this is most likely due to an issue with step 6. Repeat step 6 and ensure that the command prompt is running in administraotr mode.
