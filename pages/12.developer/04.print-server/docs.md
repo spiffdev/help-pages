@@ -25,17 +25,16 @@ Note ghost script is only required if prints need to be sent direclty to a print
 2. Unzip to `c:\Program Files\spiff-print-server`
 3. In the install folder edit the file called App.config. Make sure to set the correct locationId according to the location details of your partner. This can be discovered by logging in to the spiff hub.
 
+![](https://help.spiff.com.au/user/pages/12.developer/04.print-server/Screen%20Shot%202021-02-10%20at%2011.54.27%20am.png)
 
 
-
-
-5. Next install the print server as a windows service. Open a command prompt in administrator mode
-6. Change the directly to the install location of the print server. In this case execute the command `cd c:\Program Files\spiff-print-server`
-7. To install the service run the executable `.\spiff-print-server.exe install`. Note this step may say "complete" even if the service is not installed.
-8. Verify the install. Open windows services. Start -> Administration Tools -> Services
-9. Find the service "Spiff Printer Agent" in the service list and start it. Note if the service does not appear this is most likely due to an issue with step 6. Repeat step 6 and ensure that the command prompt is running in administraotr mode.
-10. Verify everything works by sending a test print. Allow up to 30 seconds for the PDF file to land on your machine.
-11. Verify the PDF is as expected.
+4. Next install the print server as a windows service. Open a command prompt in administrator mode
+5. Change the directly to the install location of the print server. In this case execute the command `cd c:\Program Files\spiff-print-server`
+6. To install the service run the executable `.\spiff-print-server.exe install`. Note this step may say "complete" even if the service is not installed.
+7. Verify the install. Open windows services. Start -> Administration Tools -> Services
+8. Find the service "Spiff Printer Agent" in the service list and start it. Note if the service does not appear this is most likely due to an issue with step 6. Repeat step 6 and ensure that the command prompt is running in administraotr mode.
+9. Verify everything works by sending a test print. Allow up to 30 seconds for the PDF file to land on your machine.
+10. Verify the PDF is as expected.
 
 ## Configruation Settings
 The print server is configured with XML and is found in the App.config file. The following is an incomplete list of the configuration items that are avaiable.
