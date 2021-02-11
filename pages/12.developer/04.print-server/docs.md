@@ -45,3 +45,12 @@ The print server is configured with XML and is found in the App.config file. The
 |doPrinting|boolean|True if the PDF needs to be sent to the preconfigured print device. You will need to make sure the printer name has been set correctly|
 |productionDownloadFolder${id}|string|The path to the folder of the product that has the ID within the tag. Note this will be moved to an attribute in the future|
 |printerCount|number|The number of attached printers to the current print server. These will be printed to using a round robin stragity to increase thoughput. Make sure each printier in the cluster is named ${printerName}\_1, ${printName}\_2 etc etc|
+
+## Uninstalling The Print Server
+
+Step 1 - Open the Command Prompt in Administrator mode  
+Step 2 - Change Directory to the Current Spiff Print Server cd c:\ProgramFiles\Spiff-Print-Server-xx  
+Step 3 - type in `print-server.exe uninstall`  
+Step 4 - Ensure Spiff Print Server Agrent does not appear in the Services Window anymore.  
+Step 5 - Delete the Folder in program Files  
+
