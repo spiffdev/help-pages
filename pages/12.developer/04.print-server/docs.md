@@ -21,7 +21,7 @@ Note: Ghost script is only required if prints need to be sent direclty to a prin
 
 ## Steps To Install Print Server
 
-1. Download the print server from https://s3-ap-southeast-2.amazonaws.com/local.code.spiff.com.au/spiff-print-server-releases/spiff-print-server-2.0.34.zip
+1. Download the [print server](https://s3-ap-southeast-2.amazonaws.com/local.code.spiff.com.au/spiff-print-server-releases/spiff-print-server-2.0.35.zip)
 2. Unzip to `c:\Program Files\spiff-print-server`
 3. In the install folder edit the file called App.config. Make sure to set the correct locationId according to the location details of your partner. This can be discovered by logging in to the spiff hub by going to the Nav Bar and clicking on Partner => My Account and then scrolling down to the locations Card near the bottom. 
 
@@ -36,6 +36,16 @@ Note: Ghost script is only required if prints need to be sent direclty to a prin
 9. Verify everything works by sending a test print. Allow up to 30 seconds for the PDF file to land on your machine.
 10. Verify the PDF is as expected.
 
+## Steps To Create Individual Folders by Product
+
+Step 1 - Open the App.Config File for the print Server   
+Step 2 - add the following line `<productionDownloadFolder123-123-123-123>e:\some\location</productionDownloadFolder123-123-123-123>` where 123-123-123-123 = product Id from spiff and `e:\some\location` is the location of the folder on the hard drive of the computer  
+Step 3 - Repeat this process for each product   
+Step 4 - Save the File  
+Step 5 - Restart the Service  
+
+
+
 ## Configruation Settings
 The print server is configured with XML and is found in the App.config file. The following is an incomplete list of the configuration items that are avaiable.
 
@@ -49,7 +59,7 @@ The print server is configured with XML and is found in the App.config file. The
 ## Uninstalling The Print Server
 
 Step 1 - Open the Command Prompt in Administrator mode  
-Step 2 - Change Directory to the Current Spiff Print Server cd c:\ProgramFiles\Spiff-Print-Server-xx  
+Step 2 - Change Directory to the Current Spiff Print Server cd `c:\ProgramFiles\Spiff-Print-Server-xx`
 Step 3 - type in `print-server.exe uninstall`  
 Step 4 - Ensure Spiff Print Server Agrent does not appear in the Services Window anymore.  
 Step 5 - Delete the Folder in program Files  
