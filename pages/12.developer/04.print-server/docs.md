@@ -13,11 +13,11 @@ Optional: A printer that is installed with a working print driver.
 
 ## Steps To Install Ghost Script. 
 
-Note ghost script is only required if prints need to be sent direclty to a printer. If there is some other software device that handles printing from a hot folder these steps can be skipped.
+Note: Ghost script is only required if prints need to be sent direclty to a printer. If there is some other software device that handles printing from a hot folder these steps can be skipped.
 
-1. Download 9.23 of Ghostscript from https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs923/gs923w64.exe for the 64 bit version. You should not ever install the 32 bit version.
+1. Click the link to Download [Ghostscript 9.23](https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs923/gs923w64.exe) for the 64 bit version. You should not ever install the 32 bit version.
 2. Double click the installer 
-3. Hit the next button until the installer is done. There should be no reason to change any default settings.
+3. Hit the next button until the installer is done. Default settings are fine and nothing more needs to be done in GhostScript. 
 
 ## Steps To Install Print Server
 
