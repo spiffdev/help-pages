@@ -30,11 +30,14 @@ Note: Ghost script is only required if prints need to be sent direclty to a prin
 
 4. Next install the print server as a windows service. Open a command prompt in administrator mode
 5. Change the directory to the install location of the print server. In this case execute the command `cd c:\Program Files\spiff-print-server`
-6. To install the service run the executable `.\spiff-print-server.exe install`. Note this step may say "complete" even if the service is not installed.
+6. To install the service run the executable `print-server.exe install`. Note this step may say "complete" even if the service is not installed.
 7. Verify the install. Open windows services. Start -> Administration Tools -> Services
-8. Find the service "Spiff Printer Agent" in the service list and start it. Note if the service does not appear this is most likely due to an issue with step 6. Repeat step 6 and ensure that the command prompt is running in administraotr mode.
-9. Verify everything works by sending a test print. Allow up to 30 seconds for the PDF file to land on your machine.
-10. Verify the PDF is as expected.
+8. Find the service "Spiff Printer Agent" in the service list and start it. Note if the service does not appear this is most likely due to an issue with step 6. Repeat step 6 and ensure that the command prompt is running in administrator mode. 
+9. Double Click on the Spiff Print Server service and open the User TAB and enter the user credentials in the log in and password fields.
+10. Verify everything works by sending a test print. Allow up to 30 seconds for the PDF file to land on your machine.
+11. Verify the PDF is as expected.
+
+> Note: When the machine is attached to a domain, ensure that both Ghostscript and the Spiff Print Server are installed on the same domain account.
 
 ## Steps To Create Individual Folders by Product
 
