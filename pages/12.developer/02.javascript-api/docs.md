@@ -8,7 +8,7 @@ In order to open Spiff workflows and allow your customers to customise their own
 
 This event is fired on the window object when the Javascript API is ready to use. If the Javascript API is being loaded asynchronously then you can ensure that your code has access to the API by wrapping it in a callback that waits for this event to fire.
 
-Usage
+#### Usage
 
 ```
 window.addEventListener('SpiffApiReady', function() {
