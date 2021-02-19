@@ -4,6 +4,18 @@ title: 'Javascript API'
 
 In order to open Spiff workflows and allow your customers to customise their own versions of your products you must first interact with the Spiff Javascript API. The Spiff Javascript API becomes available to the pages of any shopfront that has the Spiff application installed. If you have not yet done this please [install one of our integrations](/integrations).
 
+## SpiffApiReady
+
+This event is fired on the window object when the Javascript API is ready to use. If the Javascript API is being loaded asynchronously then you can ensure that your code has access to the API by wrapping it in a callback that waits for this event to fire.
+
+Usage
+
+```
+window.addEventListener('SpiffApiReady', function() {
+  // Code using the API goes here.
+}
+```
+
 ## Spiff.IntegrationProduct
 
 ### Constructor
