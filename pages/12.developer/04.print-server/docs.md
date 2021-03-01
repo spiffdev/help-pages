@@ -21,7 +21,7 @@ Note: Ghost script is only required if prints need to be sent direclty to a prin
 
 ## Steps To Install Print Server
 
-1. Download the [print server](https://s3-ap-southeast-2.amazonaws.com/local.code.spiff.com.au/spiff-print-server-releases/spiff-print-server-2.0.35.zip)
+1. Download the [print server 2.0.36](https://s3-ap-southeast-2.amazonaws.com/local.code.spiff.com.au/spiff-print-server-releases/spiff-print-server-2.0.36.zip)
 2. Unzip to `c:\Program Files\spiff-print-server`
 3. In the install folder edit the file called App.config. Make sure to set the correct locationId according to the location details of your partner. This can be discovered by logging in to the spiff hub by going to the Nav Bar and clicking on Partner => My Account and then scrolling down to the locations Card near the bottom. 
 
