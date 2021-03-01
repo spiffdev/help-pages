@@ -22,7 +22,6 @@ https://help.spiff.com.au/user/pages/08.troubleshooting/spiff-displays-user-logi
 
 To watch a video on how this is done click below 
 [plugin:youtube](https://youtu.be/L4UNyWmcycU)
-[plugin:youtube](https://youtu.be/L4UNyWmcycU)
 If this does not solve your problem please contact support on the following link spiff3d.com/contact-us 
 
 
