@@ -20,6 +20,11 @@ https://help.spiff.com.au/user/pages/08.troubleshooting/spiff-displays-user-logi
 5. Close the inspector and reload the page and you will now be logged in correctly 
 ![](https://help.spiff.com.au/user/pages/08.troubleshooting/spiff-displays-user-login-in-shopify-admin/Screen%20Shot%202021-03-01%20at%2011.06.15%20am.png)
 
+To watch a video on how this is done click below 
+
+
+If this does not solve your problem please contact support on the following link spiff3d.com/contact-us 
+
 
 
 
