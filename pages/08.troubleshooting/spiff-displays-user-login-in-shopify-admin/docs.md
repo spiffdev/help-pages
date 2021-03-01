@@ -16,7 +16,7 @@ To Fix this issue, whilst you are on the login screen
 3. On the right hand side of the screen select Applications 
 ![](https://help.spiff.com.au/user/pages/08.troubleshooting/spiff-displays-user-login-in-shopify-admin/Screen%20Shot%202021-03-01%20at%2011.21.13%20am.png)
 4. Click on the local storage drop down, select the 'app.spiff.com.au' line then click the clear icon as highlighted below. Repeat this process for the session storage  
-https://help.spiff.com.au/user/pages/08.troubleshooting/spiff-displays-user-login-in-shopify-admin/Screen%20Shot%202021-03-01%20at%2011.23.48%20am.png
+![](https://help.spiff.com.au/user/pages/08.troubleshooting/spiff-displays-user-login-in-shopify-admin/Screen%20Shot%202021-03-01%20at%2011.23.48%20am.png)
 5. Close the inspector and reload the page and you will now be logged in correctly 
 ![](https://help.spiff.com.au/user/pages/08.troubleshooting/spiff-displays-user-login-in-shopify-admin/Screen%20Shot%202021-03-01%20at%2011.06.15%20am.png)
 
