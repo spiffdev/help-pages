@@ -1,5 +1,6 @@
 ---
 title: 'Spiff displays user login in shopify admin'
+media_order: 'Screen Shot 2021-03-01 at 11.06.15 am.png'
 visible: true
 ---
 
