@@ -21,8 +21,8 @@ https://help.spiff.com.au/user/pages/08.troubleshooting/spiff-displays-user-logi
 ![](https://help.spiff.com.au/user/pages/08.troubleshooting/spiff-displays-user-login-in-shopify-admin/Screen%20Shot%202021-03-01%20at%2011.06.15%20am.png)
 
 To watch a video on how this is done click below 
-
-
+[plugin:youtube](https://youtu.be/L4UNyWmcycU)
+[plugin:youtube](https://youtu.be/L4UNyWmcycU)
 If this does not solve your problem please contact support on the following link spiff3d.com/contact-us 
 
 
