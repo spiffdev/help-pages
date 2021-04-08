@@ -1,12 +1,13 @@
 ---
 title: 'Converting a 3D Model to GLB (Simplified)'
+media_order: 'bf783ba4-d348-47f2-a4cf-62e7d1a5b47c.png,d31557dc-6b2c-42e8-b71e-3d58814a7db5.png,f5f9a286-1b67-4f69-9ad6-bef572e497bb (1).png'
 published: true
 visible: true
 ---
 
 When converting your 3D model to work with the #SPIFF editor, we use the Blender 3d Toolset. Since the models used on our editor are going to appear across various devices, including mobile, there are some steps we need to take to ensure it all works as it should.  Understanding the Blender program; where everything is, can daunting without context, we’ll guide your through it. (See attached) 
 
-![image 1]()
+![](bf783ba4-d348-47f2-a4cf-62e7d1a5b47c.png)
 
 ## Getting to the right format
 note: sometimes a fresh blender file can include a cube object in the scene. removing this is as simple as left clicking it, and deleting it with the delete key.
@@ -15,9 +16,9 @@ For #SPIFF, the file format “.glb” is required, this format is quickly becom
 
 In order to import your model to Blender, to further convert, it's as simple as opening Blender, and then navigating to File>Import>, and then searching for your model file. This works like most other softwares' import feature. For this example we will import a .FBX file. 
 
-![image 2]()
+![](d31557dc-6b2c-42e8-b71e-3d58814a7db5.png)
 
-![image 3]()
+![](f5f9a286-1b67-4f69-9ad6-bef572e497bb%20%281%29.png)
 
 ## Collect for Export
 note: it’s really helpful at this point to save this blender file for later use. through File>Save> 
