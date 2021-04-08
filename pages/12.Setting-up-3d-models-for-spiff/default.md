@@ -1,5 +1,5 @@
 ---
-title: Creative
+title: 'Setting Up 3D Models for Spiff'
 ---
 
 This section is reserved for general information for creatives to use in preparing content for the spiff platform
