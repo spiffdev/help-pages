@@ -37,4 +37,4 @@ In the 3D Space, the sections of UV mapping that you take from the 3d object are
 
 ![image 4]()
 
-With the glass selected, as opposed to the label section, you can see that we have unwrapped it into fragmented pieces. This is necessary for large or complex sections of models where a simple unwrap will not work correctly. Seamless textures can be applied to these sorts of areas, follow the [Material setup](http://help.spiff.com.au//setting-up-3d-models-for-spiff/setting-up-materials-for-glb-file-exports-from-blender ) document for more info on connecting textures and creating materials. 
+With the glass selected, as opposed to the label section, you can see that we have unwrapped it into fragmented pieces. This is necessary for large or complex sections of models where a simple unwrap will not work correctly. Seamless textures can be applied to these sorts of areas, follow the [Material setup](https://help.spiff.com.au/setting-up-3d-models-for-spiff/setting-up-materials-for-glb-file-exports-from-blender ) document for more info on connecting textures and creating materials. 
