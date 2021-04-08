@@ -40,7 +40,7 @@ In the 3D Space, the sections of UV mapping that you take from the 3d object are
 
 With the glass selected, as opposed to the label section, you can see that we have unwrapped it into fragmented pieces. This is necessary for large or complex sections of models where a simple unwrap will not work correctly. Seamless textures can be applied to these sorts of areas, follow the [Material setup](https://help.spiff.com.au/setting-up-3d-models-for-spiff/setting-up-materials-for-glb-file-exports-from-blender ) document for more info on connecting textures and creating materials.
 
-## Exporting with UV maps
+## Exporting your model with UV maps
 In order to export the model with it’s UV map, we actually dont need to do any extra work. The UV Data is internal to the object so it will automatically export with your 3d model!
 
 Models can actually have multiple different UV maps attached, this is handy for baking certain textures into different shapes or layouts. When exporting to .GLB however, you need to only use one UV map **per object.** (For example, the label will have 1 UV map, not two. The glass will have 1 UV map, not two etc.)
