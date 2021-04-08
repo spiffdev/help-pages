@@ -8,6 +8,8 @@ On the #SPIFF editor, our 3D assets must be uploaded in the '.GLB' 3d model file
 
 1.Import your 3d model file(s), like an **.fbx** or **.obj** file to a 3D modelling program or 'toolset' (Like **"Blender"**, which we use primarily and what we reference heavily in our documentation)
 
+dsfghdfhdfbh
+
 [![image 1]()](https://help.spiff.com.au/setting-up-3d-models-for-spiff/converting-a-3d-model-to-glb )
 
 2. Create or adjust pre-existing materials (referred to as panels) to work in the GLB format.
