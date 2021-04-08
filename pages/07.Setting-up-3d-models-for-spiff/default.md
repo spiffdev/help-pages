@@ -9,15 +9,15 @@ On the #SPIFF editor, our 3D assets must be uploaded in the '.GLB' 3d model file
 
 1.Import your 3d model file(s), like an **.fbx** or **.obj** file to a 3D modelling program or 'toolset' (Like **"Blender"**, which we use primarily and what we reference heavily in our documentation)
 
-[![](orbbb (1).png)](https://help.spiff.com.au/setting-up-3d-models-for-spiff/converting-a-3d-model-to-glb )
+[![](orbbb%20%281%29.png)](https://help.spiff.com.au/setting-up-3d-models-for-spiff/converting-a-3d-model-to-glb )
 
 2.Create or adjust pre-existing materials (referred to as panels) to work in the GLB format.
 
-[![](buckittttt (1).png)](https://help.spiff.com.au/setting-up-3d-models-for-spiff/setting-up-materials-for-glb-file-exports-from-blender )
+[![](buckittttt%20%281%29.png)](https://help.spiff.com.au/setting-up-3d-models-for-spiff/setting-up-materials-for-glb-file-exports-from-blender )
 
 3.UV unwrap our model or section of model in a way that makes sense contextually (a label on a bottle will be UV unwrapped to a label image file, for example)
 
-[![](uv (1).png)](https://help.spiff.com.au/setting-up-3d-models-for-spiff/uv-mapping-unwrapping-mesh-in-blender  )
+[![](uv%20%281%29.png)](https://help.spiff.com.au/setting-up-3d-models-for-spiff/uv-mapping-unwrapping-mesh-in-blender  )
 
 
 For more information or to speak with a #SPIFF representative, don't hesitate to [contact us](https://spiff3d.com/contact-us/) and we'll be happy to help you along your 3D configuration journey!
