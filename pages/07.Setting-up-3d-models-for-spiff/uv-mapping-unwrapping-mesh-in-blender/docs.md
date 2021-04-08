@@ -16,7 +16,7 @@ In Blender, with your model imported, you can access the UV Editing workspace by
 ![](04c70c81-b3c6-4311-9641-53aaa92285be.jpg)
 
 ## Getting to Edit mode and selecting your label area
-In the right hand side of the UV Editing workspace, using the 3D Viewport, you can right click the object you wish to UV Unwrap, then verify its selected in the top right **outliner.** (See below) 
+In the right hand side of the UV Editing workspace, using the 3D Viewport, you can left click the object you wish to UV Unwrap, then verify its selected in the top right **outliner.** (See below) 
 
 From here, you can press **TAB** to change context in the 3D viewport, and change to **'Edit Mode'**
 
