@@ -1,6 +1,6 @@
 ---
 title: 'Converting a 3D Model to GLB (Simplified)'
-media_order: 'bf783ba4-d348-47f2-a4cf-62e7d1a5b47c.png,d31557dc-6b2c-42e8-b71e-3d58814a7db5.png,f5f9a286-1b67-4f69-9ad6-bef572e497bb (1).png'
+media_order: 'bf783ba4-d348-47f2-a4cf-62e7d1a5b47c.png,d31557dc-6b2c-42e8-b71e-3d58814a7db5.png,9bcf8ab5-7109-4f70-851c-68fa189d6aac.jpg,7e4fca5f-b0d7-46db-8a01-22cd9cf95bc3.jpg,c0222420-13ef-4806-9671-b768a6188c5c.jpg'
 published: true
 visible: true
 ---
@@ -26,15 +26,15 @@ note: it’s really helpful at this point to save this blender file for later us
 Now that you’ve imported your model, we can easily get an overview on the imported model and continue to export it in the .GLB Format. 
 All we need to do is select all of the objects we would like to include in our GLB. (The object itself, lights etc.) and then proceed to export it. That simple! 
 
-![image 4]()
+![](9bcf8ab5-7109-4f70-851c-68fa189d6aac.jpg)
 
-![image 5]()
+![](7e4fca5f-b0d7-46db-8a01-22cd9cf95bc3.jpg)
 
 ## Check it out!
 Now that we have exported our model to the .GLB Format, we can quickly and easily view it in an 
 to make sure it all works correctly before uploading to spiff.  We use the Babylon.js Viewer.
 
-![image 6]()
+![](c0222420-13ef-4806-9671-b768a6188c5c.jpg)
 
 ## Finalisation
 Now that we’re all converted we are ready to upload to #SPIFF and gain some serious traction on our personalisation adventure! Of course there are a variety of other things to look through with our 3D Model before exporting, but this is basic first step to set things up. **Next we will cover how to attach textures & setup materials for the GLB platform.**
