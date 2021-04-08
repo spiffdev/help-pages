@@ -18,13 +18,13 @@ Now that we have found the materials tab, we can create, remove, and edit any ma
 ## Understanding The Node Editor
 Blender is shipped with a powerful and versatile **node editor** by default. Any **materials** you want to create can be manipulated with ease in this area and set up correctly for the .GLB platform. The easiest way to access the node editor is by click the **“Shading”** layout. in the top toolbar of the blender window (See below)
 
+![](168af754-1ce4-43b5-a8e1-17320ff51ede.jpg)
+
 Take your time after changing the layout, assess where everything is etc.
 
 Though there is a magnitude of options within this area, we will just keep the default “Principled BSDF” node that is created by default with each new material.
 
 An important thing to keep in mind, is that you will only be able to access the nodes of a **material** you have **selected**, attached to a **model** you have selected (Referring again to that material tab in the bottom right panel, in properties). If no model is selected, you cannot see its attached materials etc.
-
-![](168af754-1ce4-43b5-a8e1-17320ff51ede.jpg)
 
 New nodes can be added with ‘SHIFT+A' when in the node editor. Or alternatively, press 'add’ in the top toolbar of that node editor frame/window. In these examples we will only be using “Image textures”. Which will be accessed via **SHIFT+A(or add)>Texture>Image Texture.** This type of node, and any other, can be connected, or linked to other nodes, by clicking and dragging from the small points/dots on each node, where it makes sense.
 
