@@ -1,5 +1,5 @@
 ---
-title: '3D Model export to glb'
+title: 'Converting a 3D Model to GLB (Simplified)'
 published: true
 visible: true
 ---
