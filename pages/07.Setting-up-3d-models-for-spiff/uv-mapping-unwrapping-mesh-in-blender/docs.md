@@ -22,7 +22,7 @@ From here, you can press **TAB** to change context in the 3D viewport, and chang
 
 ![](35972a85-e3c0-4352-95ff-7d153cb4733d.jpg)
 
-## Selecting and options to unwrap mesh
+## Selecting mesh and techniques for UV mapping
 In edit mode (use TAB in the 3d viewport) , you can select all of your meshed section with the ‘A' key. double tap the ‘A’ key if it doesn’t select everything first shot or if a face of the mesh was already selected. prior. (Because ‘A' in this case will deselect all). You will know if something is selected if it is highlighted orange.
 
 After you’ve done this, you can now access the **UV Mapping menu.** Simply hit the ‘U' Key and then you can choose a specific UV unwrapping option. Theres a range of options that are really handy for certain types of models.  If you have a chest, or a box for example, a Cube Projection will be the most useful since it will automatically unwrap your selected mesh with that in mind. 
