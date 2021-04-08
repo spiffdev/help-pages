@@ -32,7 +32,7 @@ All we need to do is select all of the objects we would like to include in our G
 
 ## Check it out!
 Now that we have exported our model to the .GLB Format, we can quickly and easily view it in an 
-to make sure it all works correctly before uploading to spiff.  We use the Babylon.js Viewer.
+to make sure it all works correctly before uploading to spiff.  We use the [Babylon.js](https://sandbox.babylonjs.com/) Viewer.
 
 ![](c0222420-13ef-4806-9671-b768a6188c5c.jpg)
 
