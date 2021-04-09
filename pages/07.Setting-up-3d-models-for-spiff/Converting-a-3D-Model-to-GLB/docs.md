@@ -37,4 +37,4 @@ to make sure it all works correctly before uploading to spiff.  We use the [Baby
 ![](c0222420-13ef-4806-9671-b768a6188c5c.jpg)
 
 ## Finalisation
-Now that we’re all converted we are ready to upload to #SPIFF and gain some serious traction on our personalisation adventure! Of course there are a variety of other things to look through with our 3D Model before exporting, but this is basic first step to set things up. [**Next we will cover how to attach textures & setup materials for the GLB platform.**](https://help.spiff.com.au//setting-up-3d-models-for-spiff/setting-up-materials-for-glb-file-exports-from-blender)
+Now that we’re all converted we are ready to upload to #SPIFF and gain some serious traction on our personalisation adventure! Of course there are a variety of other things to look through with our 3D Model before exporting, but this is basic first step to set things up. [**Next we will cover how to attach textures & setup materials for the GLB platform.**](https://help.spiff.com.au/setting-up-3d-models-for-spiff/setting-up-materials-for-glb-file-exports-from-blender)
