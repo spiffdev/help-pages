@@ -195,3 +195,28 @@ transaction.execute({
   workflowId: "b8e12640-c5b0-4f1c-b8ed-6eb025b930ea"
 });
 ```
+
+## Spiff.Analytics
+
+When beginning the process of analytics on Spiff you first need to access the API that gets placed on the window called **Analytics**. You can now access the ```createPageSession()``` method. This method should be called within the ```SpiffApiReady``` event listener which will then fire a pageSessionCreate event when the user is on the product page with the rendered customise me button.
+
+#### Usage
+
+```javascript
+window.addEventListener('SpiffApiReady', function() {
+      const pageSessionId = window.Spiff.Analytics.createPageSession();
+})
+```
+
+You then must pass the pageSessionId into the transaction options to fire off the transactionCreate event which will be called when the user presses the customise me button.
+
+#### Usage
+
+```javascript
+const transactionOptions = {
+       presentmentCurrency: '{{cart.currency.iso_code}}',
+       product: product,
+       shouldCreateDesignProduct: true,
+       pageSessionId
+};
+```
