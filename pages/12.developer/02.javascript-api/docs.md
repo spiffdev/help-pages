@@ -199,7 +199,7 @@ transaction.execute({
 
 ## Spiff.Analytics
 
-When beginning the process of analytics on Spiff you first need to access the API that gets placed on the window called **Analytics**. You can now access the ```createPageSession()``` method. First delcare ```pageSessionId``` within the ```SpiffApiReady``` event listener. 
+When beginning the process of analytics on Spiff you first need to access the API that gets placed on the window called **Analytics**. This allows you to now access the ```createPageSession()``` method. First delcare ```pageSessionId``` within the ```SpiffApiReady``` event listener. 
 
 #### Usage
 
