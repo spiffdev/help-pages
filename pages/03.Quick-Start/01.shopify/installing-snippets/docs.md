@@ -57,28 +57,6 @@ A design product is a product that is created in your store when a customer comp
 
 For a button that creates design products, follow the instructions for "To create a new button" but substitute "spiff-button-standard" with "spiff-button-design-product".
 
-# To modify an existing button
-
-If you want an existing button to launch workflows and you don't yet need the complexity of the API, this solution may be suitable. Additionally, this solution is required to enable specific behaviours that depend upon Shopify prouduct tags as detailed later on.
-
-Find your add to cart button, which will look something like this:
-
-```<button>Add To Cart</button>```
-
-Augment the button like so:
-
-```
-<button
-    data-spiff-personalise-button
-    data-product-handle="{{product.handle}}"
-    data-product-id="{{product.id}}"
-    data-external-integration-id="{{shop.permanent_domain}}"
-    data-presentment-currency="{{cart.currency.iso_code}}"
->
-Add To Cart
-</button>
-```
-
 # Optional Steps
 
 ## Hiding existing elements
