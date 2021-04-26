@@ -1,6 +1,6 @@
 ---
 title: 'Create an SVG'
-media_order: 'Screen Shot 2020-05-18 at 5.31.30 pm.png,Screen Shot 2020-05-18 at 5.31.43 pm.png,Screen Shot 2020-05-18 at 5.31.57 pm.png,Screen Shot 2020-05-18 at 5.32.13 pm.png,Screen Shot 2020-05-21 at 3.31.00 pm.png,Screen Shot 2020-05-21 at 3.33.53 pm.png,Screen Shot 2020-05-21 at 3.36.22 pm.png,Screen Shot 2021-04-26 at 3.12.17 pm.png,Screen Shot 2021-04-26 at 3.20.59 pm.png,Clipping-Mask-step-5.png'
+media_order: 'Screen Shot 2020-05-18 at 5.31.30 pm.png,Screen Shot 2020-05-18 at 5.31.43 pm.png,Screen Shot 2020-05-18 at 5.31.57 pm.png,Screen Shot 2020-05-18 at 5.32.13 pm.png,Screen Shot 2020-05-21 at 3.31.00 pm.png,Screen Shot 2020-05-21 at 3.33.53 pm.png,Screen Shot 2020-05-21 at 3.36.22 pm.png,Screen Shot 2021-04-26 at 3.12.17 pm.png,Screen Shot 2021-04-26 at 3.20.59 pm.png,Clipping-Mask-step-5.png,Screen Shot 2021-04-26 at 3.34.27 pm.png'
 ---
 
 SVG stands for Scalable Vector Graphics, SVG's are a file format that is used on spiff to create illustrations. On Spiff SVG’s are powerful tool as they allow the user to place on an object in any size whilst being being to amend all of the colors easily using an illustration step. 
