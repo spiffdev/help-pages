@@ -58,3 +58,9 @@ Clipping masks do not work, if you have clipping masks in your designs you will 
 If you look below you can see the SVG on the left has two white circles both with opacity. These cannot be used. Open your design in Illustrator and change your opacity to 100%.
 
 ![](Screen%20Shot%202021-04-26%20at%203.20.59%20pm.png)
+
+####Drop Shadows
+
+Remember to remove all drop shadows from your SVG's. They will not work. 
+
+![](Screen%20Shot%202021-04-26%20at%203.34.27%20pm.png)
