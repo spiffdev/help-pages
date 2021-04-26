@@ -29,5 +29,14 @@ And viola. It’s now ready to add to a workflow.
 _Here is an example of the created SVG being used in a workflow._
 ![](Screen%20Shot%202020-05-21%20at%203.36.22%20pm.png)
 
+### Remember
 
+For SVG's to work properly in Spiff they cannot contain:
 
+	- Gradients
+	- Clipping Masks
+	- Opacities
+	- Drop Shadows
+	- Blurs & Other Effects
+
+The reason these can't work is because the colour picker does not recognise them. If you want to use these things use a rasterised image instead.
