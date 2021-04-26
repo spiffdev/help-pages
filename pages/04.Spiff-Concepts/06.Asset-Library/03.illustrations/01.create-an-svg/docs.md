@@ -43,9 +43,12 @@ The reason these can't work is because the colour picker does not recognise them
 
 ####Gradients
 
-Below is an example of two SVG's. The one on the right cannot be used because of the gradient in the background. However the one on the left is fine. To remove a gradient open your SVG in Illustrator and change it to a solid colour.
+Below is an example of two SVG's. The one on the left cannot be used because of the gradient in the background. However the one on the right is fine. To remove a gradient open your SVG in Illustrator and change it to a solid colour.
 
 ![](Screen%20Shot%202021-04-26%20at%203.12.17%20pm.png) 
 
 ####Opacities
 
+If you look below you can see the SVG on the left has two white circles both with opacity. These cannot be used. Open your design in Illustrator and change your opacity to 100%.
+
+![](Screen%20Shot%202021-04-26%20at%203.20.59%20pm.png)
