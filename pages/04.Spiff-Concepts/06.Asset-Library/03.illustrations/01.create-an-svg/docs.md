@@ -68,4 +68,10 @@ Remember to remove all drop shadows from your SVG's. The design on the left belo
 
 The most exciting thing about using SVG's is that customers get to change the color of them! However we highly reccomend you don't have more than **six** colors in your design because it makes the page look crowded and confuing.
 
-**How it looks with sic colours -**
+**How it looks with six colours -**
+
+![](Screen%20Shot%202021-04-26%20at%203.41.26%20pm.png)
+
+**How it looks with more -**
+
+![](Screen%20Shot%202021-04-26%20at%203.41.51%20pm.png)
