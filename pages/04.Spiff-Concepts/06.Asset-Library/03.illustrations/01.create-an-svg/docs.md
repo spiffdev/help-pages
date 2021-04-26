@@ -39,4 +39,4 @@ For SVG's to work properly in Spiff they cannot contain:
 	- Drop Shadows
 	- Blurs & Other Effects
 
-The reason these can't work is because the colour picker does not recognise them. If you want to use these things use a rasterised image instead.
+The reason these can't work is because the colour picker does not recognise them. If you want your design to contain these things, you will need to use a rasterised image instead (however rasters cannot change colour).
