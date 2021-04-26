@@ -75,3 +75,5 @@ The most exciting thing about using SVG's is that customers get to change the co
 **How it looks with more -**
 
 ![](Screen%20Shot%202021-04-26%20at%203.41.51%20pm.png)
+
+Removing colors from an SVG can be very time consuming, so keep this in mind when creating or choosing your designs.
