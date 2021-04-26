@@ -40,3 +40,9 @@ For SVG's to work properly in Spiff they cannot contain:
 	- Blurs & Other Effects
 
 The reason these can't work is because the colour picker does not recognise them. If you want your design to contain these things, you will need to use a rasterised image instead (however rasters cannot change colour).
+
+##Gradients
+
+Below is an example of two SVG's. The one on the right cannot be used because of the gradient in the background. However the one on the left is fine. To remove a gradient open your SVG in Illustrator and change it to a solid colour.
+
+![](http://![](Screen%20Shot%202021-04-26%20at%203.12.17%20pm.png) 
