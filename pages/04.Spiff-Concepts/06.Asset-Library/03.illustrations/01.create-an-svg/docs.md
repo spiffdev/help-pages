@@ -61,6 +61,6 @@ If you look below you can see the SVG on the left has two white circles both wit
 
 ####Drop Shadows
 
-Remember to remove all drop shadows from your SVG's. They will not work. 
+Remember to remove all drop shadows from your SVG's. The design on the left below would not work because of it, however the right design will.
 
 ![](Screen%20Shot%202021-04-26%20at%203.34.27%20pm.png)
