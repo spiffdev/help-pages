@@ -31,7 +31,7 @@ _Here is an example of the created SVG being used in a workflow._
 
 ### Remember
 
-For SVG's to work properly in Spiff they cannot contain:
+For SVG's to work properly in Spiff they **can not** contain:
 
 	- Gradients
 	- Clipping Masks
