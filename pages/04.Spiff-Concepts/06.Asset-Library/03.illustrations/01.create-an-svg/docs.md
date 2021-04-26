@@ -43,7 +43,9 @@ The reason these can't work is because the colour picker does not recognise them
 
 ####Clipping Masks
 
+Clipping masks do not work, if you have clipping masks in your designs you will need to release the mask and delete everything you don't want.
 
+![](Clipping-Mask-step-5.png)
 
 ####Gradients
 
