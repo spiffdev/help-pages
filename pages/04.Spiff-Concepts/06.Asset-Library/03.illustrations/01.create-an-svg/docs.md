@@ -41,17 +41,17 @@ For SVG's to work properly in Spiff they cannot contain:
 
 The reason these can't work is because the colour picker does not recognise them. If you want your design to contain these things, you will need to use a rasterised image instead (however rasters cannot change colour).
 
-####Clipping Masks
-
-Clipping masks do not work, if you have clipping masks in your designs you will need to release the mask and delete everything you don't want.
-
-![](Clipping-Mask-step-5.png)
-
 ####Gradients
 
 Below is an example of two SVG's. The one on the left cannot be used because of the gradient in the background. However the one on the right is fine. To remove a gradient open your SVG in Illustrator and change it to a solid colour.
 
 ![](Screen%20Shot%202021-04-26%20at%203.12.17%20pm.png) 
+
+####Clipping Masks
+
+Clipping masks do not work, if you have clipping masks in your designs you will need to release the mask and delete everything you don't want.
+
+![](Clipping-Mask-step-5.png)
 
 ####Opacities
 
