@@ -199,13 +199,14 @@ transaction.execute({
 
 ## Spiff.Analytics
 
-When beginning the process of analytics on Spiff you first need to access the API that gets placed on the window called **Analytics**. This allows you to now access the ```createPageSession()``` method. First delcare your ```pageSessionId```. 
+When beginning the process of analytics on Spiff you first need to access the API that gets placed on the window called **Analytics**. This allows you to now access the ```createPageSession()``` method. First delcare your ```pageSessionId`` outside of the event listener`. 
 
 #### Usage
 
 ```javascript
+var pageSessionId;
 window.addEventListener('SpiffApiReady', function() {
-        var pageSessionId;
+    // snippet code
 });
 ```
 
@@ -215,7 +216,9 @@ The ```createPageSession()``` method should be called within the ```ready``` eve
 
 ```javascript
 product.on('ready', () => {
-    pageSessionId = window.Spiff.Analytics.createPageSession();
+    if (pageSessionId === undefined) {
+        pageSessionId = window.Spiff.Analytics.createPageSession();
+    }
 });
 ```
 
