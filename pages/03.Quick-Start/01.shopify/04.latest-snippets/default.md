@@ -22,8 +22,8 @@ If your snippets are outdated, you can update them by overwriting them with the 
    </style>
    <script>
      var openDisplayProductWorkflowForProduct{{product_object.id}};
-     window.addEventListener('SpiffApiReady', function() {
      var pageSessionId;
+     window.addEventListener('SpiffApiReady', function() {
        const product = new window.Spiff.Product({
            integrationId: '{{shop.permanent_domain}}',
            productId: '{{product_object.id}}'
@@ -40,7 +40,9 @@ If your snippets are outdated, you can update them by overwriting them with the 
        product.on('ready', () => {
              hideElements();
              const buttons = document.querySelectorAll('.spiff-api-button[data-product-id="{{product_object.id}}"]');
-             pageSessionId = window.Spiff.Analytics.createPageSession();
+             if (pageSessionId === undefined) {
+              	pageSessionId = window.Spiff.Analytics.createPageSession();
+             }
              for (button of buttons) {
                  button.style.display = 'block';
              }
@@ -145,9 +147,9 @@ If your snippets are outdated, you can update them by overwriting them with the 
      }
    </style>
    <script>
+   	 var pageSessionId;
      var openStandardWorkflowForProduct{{product_object.id}};
      window.addEventListener('SpiffApiReady', function() {
-     var pageSessionId;
        const product = new window.Spiff.Product({
            integrationId: '{{shop.permanent_domain}}',
            productId: '{{product_object.id}}'
@@ -163,7 +165,9 @@ If your snippets are outdated, you can update them by overwriting them with the 
        }
        product.on('ready', () => {
              hideElements();
-             pageSessionId = window.Spiff.Analytics.createPageSession();
+            if (pageSessionId === undefined) {
+              	pageSessionId = window.Spiff.Analytics.createPageSession();
+             }
              const buttons = document.querySelectorAll('.spiff-api-button[data-product-id="{{product_object.id}}"]');
              for (button of buttons) {
                  button.style.display = 'block';
