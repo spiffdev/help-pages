@@ -16,7 +16,7 @@ ${RequestMethod}\n${MD5(RequestBody)}\n${RequestContentType}\n${RequestDate}\n${
 
 See this [example implementation of this operation](https://github.com/spiffdev/woocommerce-plugin/blob/master/spiff-connect/includes/spiff-connect-requests.php).
 
-## POST /api/orders
+## POST /api/v2/orders
 
 An order consists of a set of items which each have a transaction ID, along with a quantity of each to order.
 
