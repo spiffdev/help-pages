@@ -2,7 +2,22 @@
 title: 'Rest API'
 ---
 
-The Spiff REST API can be interacted with via an HTTPS request that has been signed with a client key and secret. Signing a request must be done by appending a base64 encoded signature string to an auth header with the client key. See below for an example of what this header should look like.
+The Spiff REST API can be interacted with via an HTTPS request that has been signed with a client key and secret. A request to the Spiff API might look like the following:
+
+```
+POST /api/v2/orders HTTP/1.1
+Host: api.spiff.com.au
+Date: Mon, 23 Apr 2012 12:45:19 GMT
+Authorization: SOA df8d23140eb443505c0661c5b58294ef472baf64:jHX6oLeqTXpynyqcvVC2MSHarhU
+Content-Type: application/json
+{
+    "orderItems":[
+        {"amountToOrder":1,"transactionId":"e3ac7f3a-a117-46d7-a5f0-232fbc7cfe38"}
+    ]
+}
+```
+
+Signing a request must be done by appending a base64 encoded signature string to an auth header with the client key. See below for an example of what this header should look like.
 
 ```
 Authorization: SOA  ${ClientKey}:${Base64EncodedRequestSignature}
@@ -20,14 +35,9 @@ See this [example implementation of this operation](https://github.com/spiffdev/
 
 An order consists of a set of items which each have a transaction ID, along with a quantity of each to order.
 
-### Example
+### Example payload
 
 ```
-POST /api/v2/orders HTTP/1.1
-Host: api.spiff.com.au
-Date: Mon, 23 Apr 2012 12:45:19 GMT
-Authorization: SOA df8d23140eb443505c0661c5b58294ef472baf64:jHX6oLeqTXpynyqcvVC2MSHarhU
-Content-Type: application/json
 {
     "orderItems":[
         {"amountToOrder":1,"transactionId":"e3ac7f3a-a117-46d7-a5f0-232fbc7cfe38"}
