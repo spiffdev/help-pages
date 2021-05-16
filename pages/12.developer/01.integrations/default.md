@@ -50,4 +50,4 @@ The request signature is computed from a hmac hash value of the following appene
 ${RequestMethod}\n${MD5(RequestBody)}\n${RequestContentType}\n${RequestDate}\n${RequestPath}
 ```
 
-See this [example implementation of this operation](https://github.com/spiffdev/DeveloperPortal/blob/master/clients/php/woocommerce/spiff-connect/spiff-connect.php).
+See this [example implementation of this operation](https://github.com/spiffdev/woocommerce-plugin/blob/master/spiff-connect/includes/spiff-connect-requests.php).
