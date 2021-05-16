@@ -21,6 +21,7 @@ See this [example implementation of this operation](https://github.com/spiffdev/
 An order consists of a set of items which each have a transaction ID, along with a quantity of each to order.
 
 ### Example
+
 ```
 POST /api/v2/orders HTTP/1.1
 Host: api.spiff.com.au
