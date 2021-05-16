@@ -16,6 +16,24 @@ ${RequestMethod}\n${MD5(RequestBody)}\n${RequestContentType}\n${RequestDate}\n${
 
 See this [example implementation of this operation](https://github.com/spiffdev/woocommerce-plugin/blob/master/spiff-connect/includes/spiff-connect-requests.php).
 
+## POST /api/orders
+
+An order consists of a set of items which each have a transaction ID, along with a quantity of each to order.
+
+### Example
+```
+POST /api/v2/orders HTTP/1.1
+Host: api.spiff.com.au
+Date: Mon, 23 Apr 2012 12:45:19 GMT
+Authorization: SOA df8d23140eb443505c0661c5b58294ef472baf64:jHX6oLeqTXpynyqcvVC2MSHarhU
+Content-Type: application/json
+{
+    "orderItems":[
+        {"amountToOrder":1,"transactionId":"e3ac7f3a-a117-46d7-a5f0-232fbc7cfe38"}
+    ]
+}
+```
+
 ## POST /api/batchtransactions
 
 Spiff supports building designs directly via an API call. This feature is known as a headless design. A headless design allows a new transaction resource to instruct the design stage of a typical spiff workflow. Doing this allows a merchants customer to bypass the spiff workflow experience entirely. 
