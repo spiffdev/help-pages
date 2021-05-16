@@ -2,7 +2,7 @@
 title: 'Rest API'
 ---
 
-The Spiff REST API can be interacted with via an HTTPS request that has been signed with a client key and secret. A request to the Spiff API might look like the following:
+The Spiff REST API can be interacted with via an HTTPS request that has been signed with a client key and secret. A request to the API might look like the following:
 
 ```
 POST /api/v2/orders HTTP/1.1
