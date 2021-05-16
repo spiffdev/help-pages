@@ -2,6 +2,20 @@
 title: 'Rest API'
 ---
 
+The Spiff REST API can be interacted with via an HTTPS request that has been signed with a client key and secret. Signing a request must be done by appending a base64 encoded signature string to an auth header with the client key. See below for an example of what this header should look like.
+
+```
+Authorization: SOA  ${ClientKey}:${Base64EncodedRequestSignature}
+```
+
+The request signature is computed from a hmac hash value of the following appeneded strings. To generate this hash the client secret should be used as the hash key.
+
+```
+${RequestMethod}\n${MD5(RequestBody)}\n${RequestContentType}\n${RequestDate}\n${RequestPath}
+```
+
+See this [example implementation of this operation](https://github.com/spiffdev/woocommerce-plugin/blob/master/spiff-connect/includes/spiff-connect-requests.php).
+
 ## POST /api/batchtransactions
 
 Spiff supports building designs directly via an API call. This feature is known as a headless design. A headless design allows a new transaction resource to instruct the design stage of a typical spiff workflow. Doing this allows a merchants customer to bypass the spiff workflow experience entirely. 
