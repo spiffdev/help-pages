@@ -2,7 +2,7 @@
 title: 'Rest API'
 ---
 
-The Spiff REST API can be interacted with via an HTTPS request that has been signed with a client key and secret. A request to the API might look like the following:
+The Spiff REST API at api.spiff.com.au can be interacted with via an HTTPS request that has been signed with a client key and secret. A request to the API might look like the following:
 
 ```
 POST /api/v2/orders HTTP/1.1
@@ -19,8 +19,8 @@ Content-Type: application/json
 
 To compute the value for the Authorization header, you will need:
 
-* The access and secret keys for your integration, found in the hub
-* Methods to perform MD5 hashing, HMAC hashing and base 64 encoding
+1. The access and secret keys for your integration, found in the hub
+2. Methods to perform MD5 hashing, HMAC hashing and base 64 encoding
 
 Computing the value for the Authorization header is done with the following pseudocode:
 
