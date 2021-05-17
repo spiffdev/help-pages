@@ -29,7 +29,35 @@ The request signature is computed from a hmac hash value of the following appene
 ${RequestMethod}\n${MD5(RequestBody)}\n${RequestContentType}\n${RequestDate}\n${RequestPath}
 ```
 
-See this [example implementation of this operation](https://github.com/spiffdev/woocommerce-plugin/blob/master/spiff-connect/includes/spiff-connect-requests.php).
+In the following PHP example, spiff_request_headers is a function that generates the expected headers:
+
+```php
+function spiff_hex_to_base64($hex) {
+    $return = "";
+    foreach (str_split($hex, 2) as $pair) {
+        $return .= chr(hexdec($pair));
+    }
+    return base64_encode($return);
+}
+
+function spiff_auth_header($access_key, $secret_key, $method, $body, $content_type, $date_string, $path) {
+    $md5 = md5($body, false);
+    $string_to_sign = $method . "\n" . $md5 . "\n" . $content_type . "\n" . $date_string . "\n" . $path;
+    $signature = spiff_hex_to_base64(hash_hmac("sha1", $string_to_sign, $secret_key));
+    return 'SOA '  . $access_key . ':' . $signature;
+}
+
+function spiff_request_headers($access_key, $secret_key, $body, $path) {
+    $content_type = 'application/json';
+    $date = new DateTime("now", new DateTimeZone("GMT"));
+    $date_string = $date->format("D, d M Y H:i:s") . " GMT";
+    return array(
+        'Authorization' => spiff_auth_header($access_key, $secret_key, 'POST', $body, $content_type, $date_string, $path),
+        'Content-Type' => $content_type,
+        'Date' => $date_string,
+    );
+}
+```
 
 ## POST /api/v2/orders
 
@@ -37,7 +65,7 @@ An order consists of a set of items which each have a transaction ID, along with
 
 ### Example Payload
 
-```
+```json
 {
     "orderItems":[
         {"amountToOrder":1,"transactionId":"e3ac7f3a-a117-46d7-a5f0-232fbc7cfe38"}
@@ -83,7 +111,7 @@ A [question step collects information from a user as part of the workflow proces
 
 
 ### Example Payload
-```
+```json
 {
     "transactions": [
         {
@@ -117,7 +145,7 @@ A [question step collects information from a user as part of the workflow proces
 ```
 
 ### Example Response
-```
+```json
 {
     "content": [
         {
