@@ -17,16 +17,12 @@ Content-Type: application/json
 }
 ```
 
-Signing a request must be done by appending a base64 encoded signature string to an auth header with the client key. See below for an example of what this header should look like.
+Computing the value for the Authorization header is done with the following pseudocode:
 
 ```
-Authorization: SOA  ${ClientKey}:${Base64EncodedRequestSignature}
-```
-
-The request signature is computed from a hmac hash value of the following appeneded strings. To generate this hash the client secret should be used as the hash key.
-
-```
-${RequestMethod}\n${MD5(RequestBody)}\n${RequestContentType}\n${RequestDate}\n${RequestPath}
+UnsignedString := "${RequestMethod}\n${MD5(RequestBody)}\n${RequestContentType}\n${RequestDate}\n${RequestPath}"
+Signature := HMAC("sha1", UnsignedString, SecretKey)
+Authorization := "SOA  ${AccessKey}:${Base64(Signature)}"
 ```
 
 In the following PHP example, spiff_request_headers is a function that generates the expected headers:
