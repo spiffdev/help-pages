@@ -1,5 +1,5 @@
 ---
-title: 'Rest API'
+title: 'REST API'
 ---
 
 The Spiff REST API at api.spiff.com.au can be interacted with via an HTTPS request that has been signed with an integration's access and secret keys. A request to the API might look like the following:
