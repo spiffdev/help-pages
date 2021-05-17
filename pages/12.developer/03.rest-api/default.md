@@ -17,6 +17,9 @@ Content-Type: application/json
 }
 ```
 
+To compute the value for the Authorization header, you will need;
+* The access and secret keys for your integration, found in the hub
+* Methods to perform MD5 hashing, HMAC hashing and base 64 encoding
 Computing the value for the Authorization header is done with the following pseudocode:
 
 ```
