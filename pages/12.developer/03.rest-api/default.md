@@ -1,8 +1,8 @@
 ---
-title: 'Rest API'
+title: 'n Rest API'
 ---
 
-The Spiff REST API at api.spiff.com.au can be interacted with via an HTTPS request that has been signed with a client key and secret. A request to the API might look like the following:
+The Spiff REST API at api.spiff.com.au can be interacted with via an HTTPS request that has been signed with an integration's access and secret keys. A request to the API might look like the following:
 
 ```
 POST /api/v2/orders HTTP/1.1
