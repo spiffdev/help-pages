@@ -16,7 +16,7 @@ window.addEventListener('SpiffApiReady', function() {
 }
 ```
 
-## Spiff.IntegrationProduct
+## IntegrationProduct
 
 ### Constructor
 
@@ -45,7 +45,7 @@ Register a callback method on the product object. There are different kinds of c
 
 Confirm that the configured product exists and is enabled. Calling this method and waiting for the "ready" event to fire is required before a transaction may be created.
 
-## Spiff.Product
+## Product
 
 ### Constructor
 
@@ -81,7 +81,7 @@ Register a callback method on the product object. There are different kinds of c
 
 Confirm that the configured product exists and is enabled. Calling this method and waiting for the "ready" event to fire is required before a transaction may be created.
 
-## Spiff.Transaction
+## Transaction
 
 When ordering product on spiff a client needs to first create a transaction. A transaction represents all of the the customer's personalisation data for a given item in a given order order. Once created the transaction is saved in the spiff platform and ready for order. If your using the Spiff shopify application this ordering process happens by attaching the spiff transactionId to a line item. Spiff will then listen for orders with spiff transaction Id's and route the order to the approate store / location. The Spiff platfrom also has solutions for many advanced [routing options](/spiff-concepts/routing).
 
@@ -197,7 +197,7 @@ transaction.execute({
 });
 ```
 
-## Spiff.Analytics
+## Analytics
 
 When beginning the process of analytics on Spiff you first need to access the API that gets placed on the window called **Analytics**. This allows you to now access the ```createPageSession()``` method. First delcare your ```pageSessionId`` outside of the event listener`. 
 
