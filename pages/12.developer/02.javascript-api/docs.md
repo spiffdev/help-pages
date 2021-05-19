@@ -20,7 +20,7 @@ window.addEventListener('SpiffApiReady', function() {
 
 ### Constructor
 
-```new Spiff.IntegrationProduct(integrationProductId)```
+```new window.Spiff.IntegrationProduct(integrationProductId)```
 
 |Argument|Type|Description|
 | ------ | --- |
@@ -49,7 +49,7 @@ Confirm that the configured product exists and is enabled. Calling this method a
 
 ### Constructor
 
-```new Spiff.Product(productOptions)```
+```new window.Spiff.Product(productOptions)```
 
 ### ProductOptions
 
@@ -87,7 +87,7 @@ When ordering product on spiff a client needs to first create a transaction. A t
 
 #### Constructor
 
-```new Transaction(transactionOptions: object)```
+```new window.Spiff.Transaction(transactionOptions: object)```
 
 ##### Parameter: Transaction Options
 
