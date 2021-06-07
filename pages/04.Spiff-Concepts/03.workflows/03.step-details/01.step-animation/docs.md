@@ -2,7 +2,10 @@
 title: 'Step Animation'
 ---
 
-### Control the view of your 3D model on each step
+## 3D Model View
+
+This step allowed you to control the angle and zoom of the 3D model on each step.
+
 
 Control over the angle in 3D space that your model should load to give customers an experience that makes it undisputably obvious what section on the model they are customising. 
 
