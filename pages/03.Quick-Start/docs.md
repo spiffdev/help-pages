@@ -4,7 +4,7 @@ title: 'Quick Start'
 
 Spiff as a plugin integrates with almost any ecommerce platform. 
 
-## Onboarding
+## Onboardings
 
 For Shopify: Merchants will find spiff in the [Shopify app store ](https://apps.shopify.com/spiff-connect?surface_detail=product+customiser&surface_inter_position=1&surface_intra_position=4&surface_type=search).
 ![](Screen%20Shot%202020-04-29%20at%205.47.30%20am.png)
