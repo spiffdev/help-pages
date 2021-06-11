@@ -11,4 +11,3 @@ An option is a list of assets that are grouped together by their type to be disp
 
 These can be lots of different types of steps such as fonts, illustrations, images, models, patchworks, materials. For example, an 'Add Text' step which allows the consumer to type a message on a product could an an option that lists a number of font options for the user to choose from. 
 
-![](http://)
