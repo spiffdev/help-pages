@@ -7,7 +7,7 @@ media_order: 'Screen Shot 2021-06-11 at 9.57.38 am.png,Screen Shot 2021-06-11 at
 
 This step allowed you to control the angle and zoom of the 3D model on each step.
 
-![](Screen%20Shot%202021-06-11%20at%209.57.38%20am.png)
+![](http://https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/01.step-animation/Screen%20Shot%202021-06-11%20at%209.57.38%20am.png)
 
 Control the angle in 3D space so that your model gives customers an experience that makes it undisputably obvious what section on the model they are customising.
 
