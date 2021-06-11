@@ -11,7 +11,7 @@ This step allowed you to control the angle and zoom of the 3D model on each step
 
 Control the angle in 3D space so that your model gives customers an experience that makes it undisputably obvious what section on the model they are customising.
 
-![](Screen%20Shot%202021-06-11%20at%209.58.13%20am.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/01.step-animation/Screen%20Shot%202021-06-11%20at%209.58.13%20am.png)
 
 ### Remember
 
