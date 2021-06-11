@@ -27,4 +27,4 @@ _Note: it is also advisable for 3D models to be made roughly life size or smalle
 
 ### How To Use
 
-To use this feature rotate the 3D model to your desired position and zoom and then click **CAPTURE** this will save it. You can also use the right click of your mouse to pan.
+To use this feature rotate the 3D model to your desired position and zoom and then click **CAPTURE** this will enter in what you have chosen. You can also type in the exact angles you want. You can also use the right click of your mouse to pan.
