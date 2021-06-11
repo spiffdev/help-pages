@@ -24,3 +24,7 @@ Control the angle in 3D space so that your model gives customers an experience t
 Radius is the zoom of the model. What this should be set too is entirely dependant on how your model is set up. A safe place to start is at 0° and then you can go minus (-0.5° for example) if your model is too zoomed in or go up to (3° for example) 10 to zoom out your model further. 
 
 _Note: it is also advisable for 3D models to be made roughly life size or smaller. It is also advisable to set up all your models in the same rough sizes in 3D space so that the radius is a consistent number between models._
+
+### How To Use
+
+To use this feature rotate the 3D model to your desired position and zoom and then click **CAPTURE** this will save it. You can also use the right click of your mouse to pan.
