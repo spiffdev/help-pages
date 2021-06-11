@@ -3,7 +3,7 @@ title: 'Step Animation'
 media_order: 'Screen Shot 2021-06-11 at 9.57.38 am.png,Screen Shot 2021-06-11 at 9.58.13 am.png'
 ---
 
-## 3D Model View
+## Camera Animation
 
 This step allowed you to control the angle and zoom of the 3D model on each step.
 
