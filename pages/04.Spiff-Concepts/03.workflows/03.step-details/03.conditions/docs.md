@@ -2,7 +2,7 @@
 title: Conditions
 ---
 
-### Make steps only appear if you want them to
+## Conditions
 
 Conditions allow you to **show additional steps** in your workflow **depending** on the **user's selection** for an **earlier step**. 
 They are set in the actual step you want to appear conditionally. 
