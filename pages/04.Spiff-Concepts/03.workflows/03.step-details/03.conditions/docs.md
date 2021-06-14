@@ -10,7 +10,7 @@ They are set in the actual step you want to appear conditionally.
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/03.conditions/Screen%20Shot%202021-06-15%20at%209.50.12%20am.png)
 
-**How To Use**
+### **How To Use**
 
 1. Create your steps 
 2. Go to a step you want to appear condtionally
