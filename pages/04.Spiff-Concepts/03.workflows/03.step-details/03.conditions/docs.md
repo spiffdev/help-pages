@@ -20,4 +20,4 @@ They are set in the actual step you want to appear conditionally.
 
 Commonly used to offer extra personalisation options. You set a question step with a YES/NO answer to the extra you want to offer. Then you create a step with the extra personalisation component and set it to only render if the user selects YES to the question step.
 
-
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/03.conditions/Screen%20Shot%202021-06-15%20at%209.47.16%20am.png)
