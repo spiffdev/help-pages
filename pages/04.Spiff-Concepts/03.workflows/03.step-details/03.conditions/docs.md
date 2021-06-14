@@ -17,7 +17,8 @@ They are set in the actual step you want to appear conditionally.
 3. Toggle enable conditions (bottom of step form) 
 4. Select the step you are referencing (reference step)
 5. Select the variant/asset the user needs to select to show the step (expected variant)
-6. Save workflow
+6. Add as many varients as you require
+7. Save workflow
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/03.conditions/Screen%20Shot%202021-06-15%20at%209.48.19%20am.png)
 
