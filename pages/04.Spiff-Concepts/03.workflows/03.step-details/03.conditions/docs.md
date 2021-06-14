@@ -7,7 +7,8 @@ title: Conditions
 Conditions allow you to **show additional steps** in your workflow **depending** on the **user's selection** for an **earlier step**. 
 They are set in the actual step you want to appear conditionally. 
 
-**How to use**
+**How To Use**
+
 1. Create your steps 
 2. Go to a step you want to appear condtionally
 3. Toggle Enable conditions (bottom of step form) 
