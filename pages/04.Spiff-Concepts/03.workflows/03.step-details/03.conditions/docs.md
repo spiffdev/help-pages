@@ -8,7 +8,7 @@ media_order: 'Screen Shot 2021-06-15 at 9.48.19 am.png,Screen Shot 2021-06-15 at
 Conditions allow you to **show additional steps** in your workflow **depending** on the **user's selection** for an **earlier step**. 
 They are set in the actual step you want to appear conditionally. 
 
-![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/03.conditions/Screen%20Shot%202021-06-15%20at%209.48.46%20am.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/03.conditions/Screen%20Shot%202021-06-15%20at%209.50.12%20am.png)
 
 **How To Use**
 
