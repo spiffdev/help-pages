@@ -9,6 +9,21 @@ This step gives your customers the option to embed **QR codes** that play videos
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/14.upload-digital-content/Screen%20Shot%202021-06-15%20at%2011.27.22%20am.png)
 
+### Setting up in Workflow
+
+In the workflow builder you need to add a digital content step to a [scene](https://help.spiff.com.au/spiff-concepts/workflows/step-groups).
+
+Select the Config tab.
+
+In the Base URL box, type in the URL of the page that will play the video content.
+
+Done!
+
+#Fin
+Once you're done building your Experience, your customers will be able to upload video, which will then create a QR code.
+
+When scanned, this QR code will link to the the URL you provided and play the video.
+
 ### Creating Web Page
 
 First, let's prepare the web page that'll have the embedded video.
@@ -99,17 +114,3 @@ Then in your HTML page where you have the video tag, add a reference to this new
 ```
 
 **Done!** Now the web page is ready, we'll set things up on Spiff's side.
-
-#Digital Content Step
-In the Experience Builder, add a Digital Content Step to a Scene.
-
-Select the Config tab.
-
-In the Base URL box, type in the URL of the page that will play the video content.
-
-Done!
-
-#Fin
-Once you're done building your Experience, your customers will be able to upload video, which will then create a QR code.
-
-When scanned, this QR code will link to the the URL you provided and play the video.
