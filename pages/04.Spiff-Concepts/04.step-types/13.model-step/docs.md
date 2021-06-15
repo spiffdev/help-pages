@@ -1,6 +1,6 @@
 ---
 title: 'Model Step'
-media_order: '9wndxe3a-900.jpg,Screen Shot 2021-06-15 at 12.00.45 pm.png,Screen Shot 2021-06-15 at 12.08.30 pm.png'
+media_order: '9wndxe3a-900.jpg,Screen Shot 2021-06-15 at 12.00.45 pm.png,Screen Shot 2021-06-15 at 12.08.30 pm.png,Screen Shot 2021-06-15 at 12.12.18 pm.png,Screen Shot 2021-06-15 at 12.12.57 pm.png'
 ---
 
 ## Model Step
