@@ -21,3 +21,6 @@ You can use this step to customize any kind of model you like. You can also add 
 
 To set up your model step ensure that you have uploaded any of the [glb's](https://help.spiff.com.au/spiff-concepts/asset-library/3d-models) you wish to use into our [assets](https://help.spiff.com.au/spiff-concepts/asset-library). Go to your workflow and add your model step.
 
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/13.model-step/Screen%20Shot%202021-06-15%20at%2012.08.30%20pm.png)
+
+You now set this up like any other step. Fill in your general information and add your desired glb's to the [options](https://help.spiff.com.au/spiff-concepts/options).
