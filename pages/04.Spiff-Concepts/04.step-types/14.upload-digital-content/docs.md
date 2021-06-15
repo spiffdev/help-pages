@@ -17,7 +17,7 @@ In the workflow builder you need to add a digital content step to a [scene](http
 
 Once you have done this, select the **CONFIG** tab an enter the base URL in there.
 
-![](http://)
+
 
 #Fin
 Once you're done building your Experience, your customers will be able to upload video, which will then create a QR code.
