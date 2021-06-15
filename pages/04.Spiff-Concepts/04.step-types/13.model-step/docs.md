@@ -1,5 +1,6 @@
 ---
 title: 'Model Step'
+media_order: '9wndxe3a-900.jpg,Screen Shot 2021-06-15 at 12.00.45 pm.png,Screen Shot 2021-06-15 at 12.08.30 pm.png'
 ---
 
 ## Model Step
@@ -18,4 +19,5 @@ You can use this step to customize any kind of model you like. You can also add 
 
 ### Setting Up
 
-To set up your model step ensure that you have uploaded any of the [glb's](https://help.spiff.com.au/spiff-concepts/asset-library/3d-models) you wish to use into our [assets](https://help.spiff.com.au/spiff-concepts/asset-library).
+To set up your model step ensure that you have uploaded any of the [glb's](https://help.spiff.com.au/spiff-concepts/asset-library/3d-models) you wish to use into our [assets](https://help.spiff.com.au/spiff-concepts/asset-library). Go to your workflow and add your model step.
+
