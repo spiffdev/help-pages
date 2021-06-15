@@ -14,3 +14,5 @@ The final scene is where you set the configeration to control what shows on the 
 In this section you choose if you would like a **Confirm Design Display** page or not. This just means if there is a check box on the final page that users need to click to agree that they are happy with their design. The other option here controls if you want a **2D Preview** or not.
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/04.final-scene/Screen%20Shot%202021-06-15%20at%204.24.17%20pm.png)
+
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/04.final-scene/Screen%20Shot%202021-06-16%20at%209.06.10%20am.png) ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/04.final-scene/Screen%20Shot%202021-06-16%20at%209.08.29%20am.png)
