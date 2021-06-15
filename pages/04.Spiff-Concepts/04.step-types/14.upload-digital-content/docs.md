@@ -1,8 +1,11 @@
 ---
 title: 'Upload Digital Content'
+media_order: 'Screen Shot 2021-06-15 at 11.27.22 am.png'
 ---
 
-Giving your customers the option to embed QR codes that play videos on a web page of your choosing couldn't be easier.
+## Digital Content Step
+
+This step gives your customers the option to embed **QR codes** that play videos on a web page of your choosing couldn't be easier.
 
 #Web Page
 First, let's prepare the web page that'll have the embedded video.
