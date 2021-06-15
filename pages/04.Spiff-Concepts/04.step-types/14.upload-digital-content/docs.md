@@ -1,6 +1,6 @@
 ---
 title: 'Upload Digital Content'
-media_order: 'Screen Shot 2021-06-15 at 11.27.22 am.png,Screen Shot 2021-06-15 at 11.35.46 am.png,Screen Shot 2021-06-15 at 11.36.53 am.png'
+media_order: 'Screen Shot 2021-06-15 at 11.27.22 am.png,Screen Shot 2021-06-15 at 11.35.46 am.png,Screen Shot 2021-06-15 at 11.36.53 am.png,a-guide-to-qr-codes-and-how-to-scan-qr-codes-1.jpg'
 ---
 
 ## Digital Content Step
@@ -23,6 +23,8 @@ After this all you need to do is enter your [regions](https://help.spiff.com.au/
 
 Once you're done building your Experience, your customers will be able to upload video, which will then create a QR code.
 When scanned, this QR code will link to the the URL you provided and play the video.
+
+![](http://)
 
 ### Creating Web Page
 
