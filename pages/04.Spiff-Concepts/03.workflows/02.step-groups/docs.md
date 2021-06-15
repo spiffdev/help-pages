@@ -27,10 +27,7 @@ It doesn't matter if your steps are in a group or not they will still do the exa
 
 It's very easy to add a scenes. Simply press the **Add Scene** button. You can name it anything you like.
 
-![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/02.step-groups/Screen%20Shot%202020-10-26%20at%2011.42.22%20am.png)
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/02.step-groups/Screen%20Shot%202021-06-16%20at%209.17.33%20am.png)
 
-Once you have created and named your Step Group, go into the step you'd like to add it too using the downwards arrow and scroll till you see the **Step Group** section. Click the arrow and select your chosen step group. Save workflow.
+Once you have created a scene you can now add as many steps to it as you like!
 
-_Note: You need at least 2 steps to create a step group._
-
-![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/02.step-groups/Screen%20Shot%202020-10-26%20at%2011.43.18%20am.png)
