@@ -9,23 +9,6 @@ This step gives your customers the option to embed **QR codes** that play videos
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/14.upload-digital-content/Screen%20Shot%202021-06-15%20at%2011.27.22%20am.png)
 
-### Setting up in Workflow
-
-In the workflow builder you need to add a digital content step to a [scene](https://help.spiff.com.au/spiff-concepts/workflows/step-groups).
-
-![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/14.upload-digital-content/Screen%20Shot%202021-06-15%20at%2011.35.46%20am.png)
-
-Once you have done this, select the **CONFIG** tab an enter the base URL in there.
-
-![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/14.upload-digital-content/Screen%20Shot%202021-06-15%20at%2011.36.53%20am.png)
-
-After this all you need to do is enter your [regions](https://help.spiff.com.au/spiff-concepts/workflows/step-details/regions), and you are done!
-
-Once you're done building your Experience, your customers will be able to upload video, which will then create a QR code.
-When scanned, this QR code will link to the the URL you provided and play the video.
-
-![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/14.upload-digital-content/a-guide-to-qr-codes-and-how-to-scan-qr-codes-1.jpg)
-
 ### Creating Web Page
 
 First, let's prepare the web page that'll have the embedded video.
@@ -115,4 +98,21 @@ Then in your HTML page where you have the video tag, add a reference to this new
 </html>
 ```
 
-**Done!** Now the web page is ready, we'll set things up on Spiff's side.
+**Done! Now the web page is ready, we'll set things up on Spiff's side!** 
+
+### Setting up in Workflow
+
+In the workflow builder you need to add a digital content step to a [scene](https://help.spiff.com.au/spiff-concepts/workflows/step-groups).
+
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/14.upload-digital-content/Screen%20Shot%202021-06-15%20at%2011.35.46%20am.png)
+
+Once you have done this, select the **CONFIG** tab an enter the base URL in there.
+
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/14.upload-digital-content/Screen%20Shot%202021-06-15%20at%2011.36.53%20am.png)
+
+After this all you need to do is enter your [regions](https://help.spiff.com.au/spiff-concepts/workflows/step-details/regions), and you are done!
+
+Once you're done building your experience, your customers will be able to upload video, which will then create a QR code.
+When scanned, this QR code will link to the the URL you provided and play the video.
+
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/14.upload-digital-content/a-guide-to-qr-codes-and-how-to-scan-qr-codes-1.jpg)
