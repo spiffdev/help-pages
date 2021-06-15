@@ -9,6 +9,8 @@ This step gives your customers the option to embed **QR codes** that play videos
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/14.upload-digital-content/Screen%20Shot%202021-06-15%20at%2011.27.22%20am.png)
 
+### How To Create
+
 #Web Page
 First, let's prepare the web page that'll have the embedded video.
 
@@ -92,11 +94,7 @@ Then in your HTML page where you have the video tag, add a reference to this new
 </html>
 ```
 
-
-
-Done!
-
-Now the web page is ready, we'll set things up on Spiff's side.
+**Done!** Now the web page is ready, we'll set things up on Spiff's side.
 
 #Digital Content Step
 In the Experience Builder, add a Digital Content Step to a Scene.
