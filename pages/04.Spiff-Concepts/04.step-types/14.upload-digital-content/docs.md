@@ -24,7 +24,7 @@ After this all you need to do is enter your [regions](https://help.spiff.com.au/
 Once you're done building your Experience, your customers will be able to upload video, which will then create a QR code.
 When scanned, this QR code will link to the the URL you provided and play the video.
 
-
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/14.upload-digital-content/a-guide-to-qr-codes-and-how-to-scan-qr-codes-1.jpg)
 
 ### Creating Web Page
 
