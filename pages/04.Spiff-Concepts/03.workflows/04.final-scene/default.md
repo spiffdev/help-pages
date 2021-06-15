@@ -16,3 +16,13 @@ In this section you choose if you would like a **Confirm Design Display** page o
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/04.final-scene/Screen%20Shot%202021-06-15%20at%204.24.17%20pm.png)
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/04.final-scene/Screen%20Shot%202021-06-16%20at%209.06.10%20am.png) ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/04.final-scene/Screen%20Shot%202021-06-16%20at%209.08.29%20am.png)
+
+#### Camera Animation
+
+This is where you set you camera animation. Read more [here](https://help.spiff.com.au/spiff-concepts/workflows/step-details/step-animation).
+
+#### Model Animation
+
+This is where you can set an animation to play on your step. For example you could have a jar and you could make the lid come off and sit next to it. You could do this by enterting 1 - 10 for example. The loop button makes the animation play on repeat.
+
+See an exmaple [here](https://demo.spiff.com.au/collections/demo-products/products/the-egg).
