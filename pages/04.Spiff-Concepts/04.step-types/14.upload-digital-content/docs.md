@@ -7,6 +7,8 @@ media_order: 'Screen Shot 2021-06-15 at 11.27.22 am.png'
 
 This step gives your customers the option to embed **QR codes** that play videos on a web page of your choosing couldn't be easier.
 
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/14.upload-digital-content/Screen%20Shot%202021-06-15%20at%2011.27.22%20am.png)
+
 #Web Page
 First, let's prepare the web page that'll have the embedded video.
 
