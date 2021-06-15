@@ -28,5 +28,5 @@ Commonly used to offer extra personalisation options. You set a question step wi
 
 ### Example
 
-An example of conditions in use is on this knife workflow. At the start of the workflow a question is asked if they want to customize the knifes together or seperare. Depending what the user chooses, all steps that follow are conditional depending on their choice.
+An example of conditions in use is on this knife workflow. At the start of the workflow a [question](https://help.spiff.com.au/spiff-concepts/step-types/add-question) is asked if they want to customize the knifes together or seperare. Depending what the user chooses, all steps that follow are conditional depending on their choice.
 
