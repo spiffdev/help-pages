@@ -9,13 +9,14 @@ This step gives your customers the option to embed **QR codes** that play videos
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/14.upload-digital-content/Screen%20Shot%202021-06-15%20at%2011.27.22%20am.png)
 
-### How To Create
+### Creating Web Page
 
-#Web Page
 First, let's prepare the web page that'll have the embedded video.
 
-##HTML
+#### HTML
+
 On the HTML side of things, you only need a HTML video tag with the id 'spiffEmbeddedVideo'.
+
 ```
 <video controls id="spiffEmbeddedVideo" >
   Sorry, your browser doesn't support embedded videos.
@@ -23,10 +24,12 @@ On the HTML side of things, you only need a HTML video tag with the id 'spiffEmb
 ```
 In our example, we added a little message for browsers that don't support this feature. Most do, so this is just a message for the few people of very small number of devices.
 
-##JavaScript
+#### JavaScript
+
 The last thing to do is add our JavaScript snippet either to the page or as a reference JS file.
 
 Here's what the JavaScript looks like:
+
 ```
 window.addEventListener('load', (event) => {
   const urlParams = new URLSearchParams(window.location.search);
@@ -75,6 +78,7 @@ One tidy approach is to create a new JavaScript file, calling it what you like, 
 Lets say we call it `spiffEmbeddedVideo.js`.
 
 Then in your HTML page where you have the video tag, add a reference to this new file:
+
 ```
 <!doctype html>
 <html lang="en">
