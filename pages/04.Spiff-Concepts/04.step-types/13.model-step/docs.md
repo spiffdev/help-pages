@@ -21,7 +21,15 @@ You can use this step to customize any kind of model you like. You can also add 
 
 In this example we have a wine bottle, the customer can choose to add a wine box for extra cost. The model step is used to update the scene and show their updated selection.
 
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/13.model-step/Screen%20Shot%202021-06-15%20at%2012.14.46%20pm.png)
 
+Witout -
+
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/13.model-step/Screen%20Shot%202021-06-15%20at%2012.12.18%20pm.png)
+
+With -
+
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/13.model-step/Screen%20Shot%202021-06-15%20at%2012.12.57%20pm.png)
 
 ### Setting Up
 
