@@ -30,3 +30,4 @@ Commonly used to offer extra personalisation options. You set a question step wi
 
 An example of conditions in use is on this knife workflow. At the start of the workflow a [question](https://help.spiff.com.au/spiff-concepts/step-types/add-question) is asked if they want to customize the knifes together or seperare. Depending what the user chooses, all steps that follow are conditional depending on their choice.
 
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/03.step-details/03.conditions/Screen%20Shot%202021-06-15%20at%2010.42.59%20am.png)
