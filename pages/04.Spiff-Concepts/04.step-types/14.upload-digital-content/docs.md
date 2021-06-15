@@ -1,6 +1,6 @@
 ---
 title: 'Upload Digital Content'
-media_order: 'Screen Shot 2021-06-15 at 11.27.22 am.png'
+media_order: 'Screen Shot 2021-06-15 at 11.27.22 am.png,Screen Shot 2021-06-15 at 11.35.46 am.png,Screen Shot 2021-06-15 at 11.36.53 am.png'
 ---
 
 ## Digital Content Step
@@ -13,11 +13,11 @@ This step gives your customers the option to embed **QR codes** that play videos
 
 In the workflow builder you need to add a digital content step to a [scene](https://help.spiff.com.au/spiff-concepts/workflows/step-groups).
 
-Select the Config tab.
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/14.upload-digital-content/Screen%20Shot%202021-06-15%20at%2011.35.46%20am.png)
 
-In the Base URL box, type in the URL of the page that will play the video content.
+Once you have done this, select the **CONFIG** tab an enter the base URL in there.
 
-Done!
+![](http://)
 
 #Fin
 Once you're done building your Experience, your customers will be able to upload video, which will then create a QR code.
