@@ -17,11 +17,11 @@ In the workflow builder you need to add a digital content step to a [scene](http
 
 Once you have done this, select the **CONFIG** tab an enter the base URL in there.
 
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/14.upload-digital-content/Screen%20Shot%202021-06-15%20at%2011.36.53%20am.png)
 
+After this all you need to do is enter your [regions](https://help.spiff.com.au/spiff-concepts/workflows/step-details/regions), and you are done!
 
-#Fin
 Once you're done building your Experience, your customers will be able to upload video, which will then create a QR code.
-
 When scanned, this QR code will link to the the URL you provided and play the video.
 
 ### Creating Web Page
