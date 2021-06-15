@@ -4,6 +4,6 @@ title: 'Model Step'
 
 ## Model Step
 
-Model steps are used to show different areas/kinds of models within a workflow.
+Model steps are used to show different models or areas of models in a workflow.
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/13.model-step/9wndxe3a-900.jpg)
