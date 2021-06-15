@@ -17,3 +17,5 @@ The [shirt configurator](https://demo.spiff.com.au/collections/demo-products/pro
 You can use this step to customize any kind of model you like. You can also add new models to the scene when used with a [condition step](https://help.spiff.com.au/spiff-concepts/workflows/step-details/conditions).
 
 ### Setting Up
+
+To set up your model step ensure that you have uploaded any of the [glb's](https://help.spiff.com.au/spiff-concepts/asset-library/3d-models) you wish to use into our [assets](https://help.spiff.com.au/spiff-concepts/asset-library).
