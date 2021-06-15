@@ -31,3 +31,4 @@ It's very easy to add a scenes. Simply press the **Add Scene** button. You can n
 
 Once you have created a scene you can now add as many steps to it as you like!
 
+![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/03.workflows/02.step-groups/Screen%20Shot%202021-06-16%20at%209.18.48%20am.png)
