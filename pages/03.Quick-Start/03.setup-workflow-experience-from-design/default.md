@@ -1,6 +1,6 @@
 ---
 title: 'Setup Workflow Experience from Design'
-media_order: 'Screen Shot 2021-06-29 at 10.19.38 am.png,Screen Shot 2021-06-29 at 10.19.56 am.png,Screen Shot 2021-06-29 at 10.20.12 am.png,Screen Shot 2021-06-29 at 10.21.33 am.png,Screen Shot 2021-06-29 at 10.29.42 am.png,Screen Shot 2021-06-29 at 10.34.07 am.png,Screen Shot 2021-06-29 at 10.37.28 am.png,Screen Shot 2021-06-29 at 10.41.37 am.png,Screen Shot 2021-06-29 at 10.44.51 am.png,Screen Shot 2021-06-29 at 10.46.51 am.png,Screen Shot 2021-06-29 at 10.50.18 am.png,Screen Shot 2021-06-29 at 10.52.30 am.png,Screen Shot 2021-06-29 at 11.07.19 am.png'
+media_order: 'Screen Shot 2021-06-29 at 10.19.38 am.png,Screen Shot 2021-06-29 at 10.19.56 am.png,Screen Shot 2021-06-29 at 10.20.12 am.png,Screen Shot 2021-06-29 at 10.21.33 am.png,Screen Shot 2021-06-29 at 10.29.42 am.png,Screen Shot 2021-06-29 at 10.34.07 am.png,Screen Shot 2021-06-29 at 10.37.28 am.png,Screen Shot 2021-06-29 at 10.41.37 am.png,Screen Shot 2021-06-29 at 10.44.51 am.png,Screen Shot 2021-06-29 at 10.46.51 am.png,Screen Shot 2021-06-29 at 10.50.18 am.png,Screen Shot 2021-06-29 at 11.07.19 am.png,Screen Shot 2021-06-29 at 11.09.44 am.png,Screen Shot 2021-06-29 at 11.10.41 am.png'
 ---
 
 ## Setup Workflow Experince from your Design
@@ -53,10 +53,12 @@ This exmaple will show you how to set up a simple design from a PSD (Photoshop) 
 
 10. Now it's time to add your text. Do this by adding a [Text](https://help.spiff.com.au/spiff-concepts/step-types/add-text) step. Fill in your desired information and in the bottom tab enter in your regions from Illustrator. We round up the pixels to make the process cleaner. Make sure the layer is higher then what you set your Silent Illustration to.
 
+![](https://help.spiff.com.au/user/pages/03.Quick-Start/03.setup-workflow-experience-from-design/Screen%20Shot%202021-06-29%20at%2011.07.19%20am.png)
+
 ![](https://help.spiff.com.au/user/pages/03.Quick-Start/03.setup-workflow-experience-from-design/Screen%20Shot%202021-06-29%20at%2010.37.28%20am.png)
 
 8. Do the same with your second text step. 
 
 ![](https://help.spiff.com.au/user/pages/03.Quick-Start/03.setup-workflow-experience-from-design/Screen%20Shot%202021-06-29%20at%2010.41.37%20am.png)
 
-9. Now your workflow should be set up.
+9. This should be a basic set up of your workflow. You can now go to the product you created, attach your workflow and preview the magic!
