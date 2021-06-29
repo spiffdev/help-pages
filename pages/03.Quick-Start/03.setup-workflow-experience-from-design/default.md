@@ -71,10 +71,10 @@ This exmaple will show you how to set up a simple design from a PSD (Photoshop) 
 
 ### Remember
 
-- Get all your [regions](https://help.spiff.com.au/spiff-concepts/workflows/step-details/regions) from Illustrator in pixels
-- In Illustrator your x and y need to be on 0, 0
+* Get all your [regions](https://help.spiff.com.au/spiff-concepts/workflows/step-details/regions) from Illustrator in pixels
+* In Illustrator your x and y need to be on 0, 0
 
 ### Troubleshooting
 
-- If you can't see something you have put into the workflow, check your layers. Often you have put it behind something and it is hiding.
-- If you have multiple [Options](https://help.spiff.com.au/spiff-concepts/options) on a [Text](https://help.spiff.com.au/spiff-concepts/step-types/add-text) step, make sure you have one set as a default.
+* If you can't see something you have put into the workflow, check your layers. Often you have put it behind something and it is hiding.
+* If you have multiple [Options](https://help.spiff.com.au/spiff-concepts/options) on a [Text](https://help.spiff.com.au/spiff-concepts/step-types/add-text) step, make sure you have one set as a default.
