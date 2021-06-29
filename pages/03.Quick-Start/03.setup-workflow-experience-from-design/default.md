@@ -51,7 +51,7 @@ This exmaple will show you how to set up a simple design from a PSD (Photoshop) 
 
 ![](https://help.spiff.com.au/user/pages/03.Quick-Start/03.setup-workflow-experience-from-design/Screen%20Shot%202021-06-29%20at%2010.50.18%20am.png)
 
-11. Now it's time to add your text. Do this by adding a [Text](https://help.spiff.com.au/spiff-concepts/step-types/add-text) step. Fill in your desired information and in the bottom tab enter in your regions from Illustrator. We round up the pixels to make the process cleaner. Make sure the layer is higher then what you set your Silent Illustration to.
+11. Now it's time to add your text. Do this by adding a [Text](https://help.spiff.com.au/spiff-concepts/step-types/add-text) step. Fill in your desired information and in the bottom tab enter in your regions from Illustrator. We round up the pixels to make the process cleaner. Make sure the layer is higher then what you set your Silent Illustration to. In your [Options](https://help.spiff.com.au/spiff-concepts/options) tab you can choose as many [fonts](https://help.spiff.com.au/spiff-concepts/step-types/add-text) as you like to be used.
 
 ![](https://help.spiff.com.au/user/pages/03.Quick-Start/03.setup-workflow-experience-from-design/Screen%20Shot%202021-06-29%20at%2011.07.19%20am.png)
 
@@ -68,3 +68,13 @@ This exmaple will show you how to set up a simple design from a PSD (Photoshop) 
 14. You can now test out your magic!
 
 ![](https://help.spiff.com.au/user/pages/03.Quick-Start/03.setup-workflow-experience-from-design/Screen%20Shot%202021-06-29%20at%2011.09.44%20am.png)
+
+### Remember
+
+- Get all your [regions](https://help.spiff.com.au/spiff-concepts/workflows/step-details/regions) from Illustrator in pixels
+- In Illustrator your x and y need to be on 0, 0
+
+### Troubleshooting
+
+- If you can't see something you have put into the workflow, check your layers. Often you have put it behind something and it is hiding.
+- If you have multiple [Options](https://help.spiff.com.au/spiff-concepts/options) on a [Text](https://help.spiff.com.au/spiff-concepts/step-types/add-text) step, make sure you have one set as a default.
