@@ -1,6 +1,6 @@
 ---
 title: 'Setup Workflow Experience from Design'
-media_order: 'Screen Shot 2021-06-29 at 10.19.38 am.png,Screen Shot 2021-06-29 at 10.19.56 am.png,Screen Shot 2021-06-29 at 10.20.12 am.png,Screen Shot 2021-06-29 at 10.21.33 am.png,Screen Shot 2021-06-29 at 10.29.42 am.png,Screen Shot 2021-06-29 at 10.34.07 am.png,Screen Shot 2021-06-29 at 10.37.28 am.png,Screen Shot 2021-06-29 at 10.41.37 am.png,Screen Shot 2021-06-29 at 10.44.51 am.png,Screen Shot 2021-06-29 at 10.46.51 am.png,Screen Shot 2021-06-29 at 10.50.18 am.png'
+media_order: 'Screen Shot 2021-06-29 at 10.19.38 am.png,Screen Shot 2021-06-29 at 10.19.56 am.png,Screen Shot 2021-06-29 at 10.20.12 am.png,Screen Shot 2021-06-29 at 10.21.33 am.png,Screen Shot 2021-06-29 at 10.29.42 am.png,Screen Shot 2021-06-29 at 10.34.07 am.png,Screen Shot 2021-06-29 at 10.37.28 am.png,Screen Shot 2021-06-29 at 10.41.37 am.png,Screen Shot 2021-06-29 at 10.44.51 am.png,Screen Shot 2021-06-29 at 10.46.51 am.png,Screen Shot 2021-06-29 at 10.50.18 am.png,Screen Shot 2021-06-29 at 10.52.30 am.png'
 ---
 
 ## Setup Workflow Experince from your Design
