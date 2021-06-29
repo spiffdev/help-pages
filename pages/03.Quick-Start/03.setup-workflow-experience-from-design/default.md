@@ -1,6 +1,6 @@
 ---
 title: 'Setup Workflow Experience from Design'
-media_order: 'Screen Shot 2021-06-29 at 10.19.38 am.png,Screen Shot 2021-06-29 at 10.19.56 am.png,Screen Shot 2021-06-29 at 10.20.12 am.png,Screen Shot 2021-06-29 at 10.21.33 am.png,Screen Shot 2021-06-29 at 10.29.42 am.png,Screen Shot 2021-06-29 at 10.34.07 am.png,Screen Shot 2021-06-29 at 10.37.28 am.png,Screen Shot 2021-06-29 at 10.41.37 am.png,Screen Shot 2021-06-29 at 10.44.51 am.png'
+media_order: 'Screen Shot 2021-06-29 at 10.19.38 am.png,Screen Shot 2021-06-29 at 10.19.56 am.png,Screen Shot 2021-06-29 at 10.20.12 am.png,Screen Shot 2021-06-29 at 10.21.33 am.png,Screen Shot 2021-06-29 at 10.29.42 am.png,Screen Shot 2021-06-29 at 10.34.07 am.png,Screen Shot 2021-06-29 at 10.37.28 am.png,Screen Shot 2021-06-29 at 10.41.37 am.png,Screen Shot 2021-06-29 at 10.44.51 am.png,Screen Shot 2021-06-29 at 10.46.51 am.png,Screen Shot 2021-06-29 at 10.50.18 am.png'
 ---
 
 ## Setup Workflow Experince from your Design
@@ -37,6 +37,13 @@ This exmaple will show you how to set up a simple design from a PSD (Photoshop) 
 
 7. Now, go to [Spiff Asstes](https://help.spiff.com.au/spiff-concepts/asset-library) and upload your png/jpg you exported from PSD into the [Images](https://help.spiff.com.au/spiff-concepts/asset-library/images) tab.
 
+![](https://help.spiff.com.au/user/pages/03.Quick-Start/03.setup-workflow-experience-from-design/Screen%20Shot%202021-06-29%20at%2010.44.51%20am.png)
+
+8. Create your workflow. Select the model you want to use.
+
+9. Enter in the workflow details, and [panel](https://help.spiff.com.au/spiff-concepts/workflows/workflow-details/panels) size.
+
+10. Start by creating a [Silent Illustration](https://help.spiff.com.au/spiff-concepts/step-types/silent-step) step to put your jpg/png on. Select your asset and put in your [regions](https://help.spiff.com.au/spiff-concepts/workflows/step-details/regions) and keep your layer low as possible because you want this image to sit behind the text. 0 works best.
 
 9. Now go into your workflow and add a [Text](https://help.spiff.com.au/spiff-concepts/step-types/add-text) step. Fill in your desired information and in the bottom tab enter in your regions from Illustrator. We round up the pixels to make the process cleaner.
 
