@@ -51,14 +51,20 @@ This exmaple will show you how to set up a simple design from a PSD (Photoshop) 
 
 ![](https://help.spiff.com.au/user/pages/03.Quick-Start/03.setup-workflow-experience-from-design/Screen%20Shot%202021-06-29%20at%2010.50.18%20am.png)
 
-10. Now it's time to add your text. Do this by adding a [Text](https://help.spiff.com.au/spiff-concepts/step-types/add-text) step. Fill in your desired information and in the bottom tab enter in your regions from Illustrator. We round up the pixels to make the process cleaner. Make sure the layer is higher then what you set your Silent Illustration to.
+11. Now it's time to add your text. Do this by adding a [Text](https://help.spiff.com.au/spiff-concepts/step-types/add-text) step. Fill in your desired information and in the bottom tab enter in your regions from Illustrator. We round up the pixels to make the process cleaner. Make sure the layer is higher then what you set your Silent Illustration to.
 
 ![](https://help.spiff.com.au/user/pages/03.Quick-Start/03.setup-workflow-experience-from-design/Screen%20Shot%202021-06-29%20at%2011.07.19%20am.png)
 
 ![](https://help.spiff.com.au/user/pages/03.Quick-Start/03.setup-workflow-experience-from-design/Screen%20Shot%202021-06-29%20at%2010.37.28%20am.png)
 
-8. Do the same with your second text step. 
+12. Do the same with your second text step. 
 
 ![](https://help.spiff.com.au/user/pages/03.Quick-Start/03.setup-workflow-experience-from-design/Screen%20Shot%202021-06-29%20at%2010.41.37%20am.png)
 
-9. This should be a basic set up of your workflow. You can now go to the product you created, attach your workflow and preview the magic!
+13. This should be a basic set up of your workflow. You can now go to the product you created, attach your workflow. This is really easy you just need to search for the name of your workflow, select it and save.
+
+![](https://help.spiff.com.au/user/pages/03.Quick-Start/03.setup-workflow-experience-from-design/Screen%20Shot%202021-06-29%20at%2011.10.41%20am.png)
+
+14. You can now test out your magic!
+
+![](https://help.spiff.com.au/user/pages/03.Quick-Start/03.setup-workflow-experience-from-design/Screen%20Shot%202021-06-29%20at%2011.09.44%20am.png)
