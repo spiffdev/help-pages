@@ -31,10 +31,10 @@ This exmaple will show you how to set up a simple design from a PSD (Photoshop) 
 
 ![](https://help.spiff.com.au/user/pages/03.Quick-Start/03.setup-workflow-experience-from-design/Screen%20Shot%202021-06-29%20at%2010.29.42%20am.png)
 
-6. Now you have your design in Illustrator you can draw a box around the areas you want to add text. This will be your [regions](https://help.spiff.com.au/spiff-concepts/workflows/step-details/regions). Select one of the boxes you have drawn and in the Properties tab you can see the measurements you will need to put in your region.
+6. Now you have your design in Illustrator you can draw a box around the areas you want to add text. This will be your [regions](https://help.spiff.com.au/spiff-concepts/workflows/step-details/regions). Select one of the boxes you have drawn and in the Properties tab you can see the measurements you will need to put in your region. Make sure these meaurements are in pixels.
 
 ![](https://help.spiff.com.au/user/pages/03.Quick-Start/03.setup-workflow-experience-from-design/Screen%20Shot%202021-06-29%20at%2010.34.07%20am.png)
 
 7. Now go into your workflow and add a [Text](https://help.spiff.com.au/spiff-concepts/step-types/add-text) step. Fill in your desired information and in the bottom tab enter in your regions from Illustrator. We round up the pixels to make the process cleaner.
 
-
+![](https://help.spiff.com.au/user/pages/03.Quick-Start/03.setup-workflow-experience-from-design/Screen%20Shot%202021-06-29%20at%2010.37.28%20am.png)
