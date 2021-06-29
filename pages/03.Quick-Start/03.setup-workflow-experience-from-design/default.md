@@ -41,9 +41,13 @@ This exmaple will show you how to set up a simple design from a PSD (Photoshop) 
 
 8. Create your workflow. Select the model you want to use.
 
+![](https://help.spiff.com.au/user/pages/03.Quick-Start/03.setup-workflow-experience-from-design/Screen%20Shot%202021-06-29%20at%2010.46.51%20am.png)
+
 9. Enter in the workflow details, and [panel](https://help.spiff.com.au/spiff-concepts/workflows/workflow-details/panels) size.
 
 10. Start by creating a [Silent Illustration](https://help.spiff.com.au/spiff-concepts/step-types/silent-step) step to put your jpg/png on. Select your asset and put in your [regions](https://help.spiff.com.au/spiff-concepts/workflows/step-details/regions) and keep your layer low as possible because you want this image to sit behind the text. 0 works best.
+
+![](https://help.spiff.com.au/user/pages/03.Quick-Start/03.setup-workflow-experience-from-design/Screen%20Shot%202021-06-29%20at%2010.50.18%20am.png)
 
 9. Now go into your workflow and add a [Text](https://help.spiff.com.au/spiff-concepts/step-types/add-text) step. Fill in your desired information and in the bottom tab enter in your regions from Illustrator. We round up the pixels to make the process cleaner.
 
