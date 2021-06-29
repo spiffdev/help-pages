@@ -12,5 +12,17 @@ You are able to set up any design you like in Spiff from any Photoshop or Illust
 This exmaple will show you how to set up a simple design from a PSD (Photoshop) file.
 
 1. Open your PSD file 
+
+![](https://help.spiff.com.au/user/pages/03.Quick-Start/03.setup-workflow-experience-from-design/Screen%20Shot%202021-06-29%20at%2010.21.33%20am.png)
+
 2. Turn off the visibilty on any layers you don't want to export
-3. 
+
+![](https://help.spiff.com.au/user/pages/03.Quick-Start/03.setup-workflow-experience-from-design/Screen%20Shot%202021-06-29%20at%2010.19.38%20am.png)
+
+3. Go to File > Export As > and export your design
+
+![](https://help.spiff.com.au/user/pages/03.Quick-Start/03.setup-workflow-experience-from-design/Screen%20Shot%202021-06-29%20at%2010.19.56%20am.png)
+
+4. Make sure your png/jpg is not super large. Try to keep everything under 1mb otherwise things can load slowly. 
+
+![](https://help.spiff.com.au/user/pages/03.Quick-Start/03.setup-workflow-experience-from-design/Screen%20Shot%202021-06-29%20at%2010.20.12%20am.png)
