@@ -1,6 +1,6 @@
 ---
 title: 'Setup Workflow Experience from Design'
-media_order: 'Screen Shot 2021-06-29 at 10.19.38 am.png,Screen Shot 2021-06-29 at 10.19.56 am.png,Screen Shot 2021-06-29 at 10.20.12 am.png,Screen Shot 2021-06-29 at 10.21.33 am.png,Screen Shot 2021-06-29 at 10.29.42 am.png,Screen Shot 2021-06-29 at 10.34.07 am.png,Screen Shot 2021-06-29 at 10.37.28 am.png,Screen Shot 2021-06-29 at 10.41.37 am.png,Screen Shot 2021-06-29 at 10.44.51 am.png,Screen Shot 2021-06-29 at 10.46.51 am.png,Screen Shot 2021-06-29 at 10.50.18 am.png,Screen Shot 2021-06-29 at 11.07.19 am.png,Screen Shot 2021-06-29 at 11.09.44 am.png,Screen Shot 2021-06-29 at 11.10.41 am.png'
+media_order: 'Screen Shot 2021-06-29 at 10.19.38 am.png,Screen Shot 2021-06-29 at 10.19.56 am.png,Screen Shot 2021-06-29 at 10.20.12 am.png,Screen Shot 2021-06-29 at 10.21.33 am.png,Screen Shot 2021-06-29 at 10.29.42 am.png,Screen Shot 2021-06-29 at 10.34.07 am.png,Screen Shot 2021-06-29 at 10.37.28 am.png,Screen Shot 2021-06-29 at 10.41.37 am.png,Screen Shot 2021-06-29 at 10.44.51 am.png,Screen Shot 2021-06-29 at 10.46.51 am.png,Screen Shot 2021-06-29 at 10.50.18 am.png,Screen Shot 2021-06-29 at 11.07.19 am.png,Screen Shot 2021-06-29 at 11.09.44 am.png,Screen Shot 2021-06-29 at 11.10.41 am.png,Screen Shot 2021-06-29 at 10.52.30 am.png'
 ---
 
 ## Setup Workflow Experince from your Design
@@ -39,7 +39,7 @@ This exmaple will show you how to set up a simple design from a PSD (Photoshop) 
 
 ![](https://help.spiff.com.au/user/pages/03.Quick-Start/03.setup-workflow-experience-from-design/Screen%20Shot%202021-06-29%20at%2010.44.51%20am.png)
 
-8. Now go to Workflows in the Content tab and create your workflow. Select the model you want to use.
+8. Now go to Workflows in the Content tab and create your workflow. Select the [model](https://help.spiff.com.au/spiff-concepts/asset-library/3d-models) you want to use.
 
 ![](https://help.spiff.com.au/user/pages/03.Quick-Start/03.setup-workflow-experience-from-design/Screen%20Shot%202021-06-29%20at%2010.46.51%20am.png)
 
