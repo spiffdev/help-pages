@@ -75,40 +75,8 @@ Step 5 - Delete the Folder in program Files
     <logFilePath>C:/spiff-print/print-server.log</logFilePath>
     <logLevel>Error</logLevel>
  <!--Main products-->
-    <productDownloadFoldercbf29963-3eb6-444a-8f09-d6fb191c18f4>E:\Koko Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\9 Praline Sleeve - ONLINE</productDownloadFoldercbf29963-3eb6-444a-8f09-d6fb191c18f4>
-    <productDownloadFolderebde6100-2a99-44b8-ae6f-86c513a5ab23>E:\Koko Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\16 Praline Sleeve - ONLINE</productDownloadFolderebde6100-2a99-44b8-ae6f-86c513a5ab23>
-    <productDownloadFolder06b350b8-3082-403c-ba65-e3d82c620ad7>E:\Koko Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\25 Praline Sleeve - ONLINE</productDownloadFolder06b350b8-3082-403c-ba65-e3d82c620ad7>
-    <productDownloadFoldera548aa85-9ff4-4081-bbaf-23379ba17e05>E:\Koko Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\Sleeve for  Allround GIFT CUBE - ONLINE</productDownloadFoldera548aa85-9ff4-4081-bbaf-23379ba17e05>
-    <productDownloadFolder0b588238-826b-4309-b950-5f6791834d2b>E:\Koko Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\49 SLEEVE - ONLINE</productDownloadFolder0b588238-826b-4309-b950-5f6791834d2b>   
-    <productDownloadFolder7f9827a8-c84d-404e-b93f-4e789b8c9c45>E:\Koko Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\36 SLEEVE - ONLINE</productDownloadFolder7f9827a8-c84d-404e-b93f-4e789b8c9c45> 
-    <productDownloadFolder59b6951e-ba95-4588-b5c9-a3694497fe64>E:\Koko Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\Gift Cards</productDownloadFolder59b6951e-ba95-4588-b5c9-a3694497fe64>
-    <productDownloadFoldera13f5c0b-34a9-42f5-b86e-b89b86ee45be>E:\Koko Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\Gift Cards</productDownloadFoldera13f5c0b-34a9-42f5-b86e-b89b86ee45be>
-    <productDownloadFolder89b6298f-3c17-466b-9e69-29fe20175a22>E:\Koko Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\Gift Cards</productDownloadFolder89b6298f-3c17-466b-9e69-29fe20175a22>
-    <productDownloadFolder4d2ee17e-e3ff-401b-a03a-c249141e2724>E:\Koko Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\Gift Cards</productDownloadFolder4d2ee17e-e3ff-401b-a03a-c249141e2724>
-   <!--Teachers Poem Products-->
-    <productDownloadFolder0ed022dc-5dcd-4b65-8c25-f5bbc9bf0f98>E:\Koko Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\16 Praline Sleeve - ONLINE</productDownloadFolder0ed022dc-5dcd-4b65-8c25-f5bbc9bf0f98>
-    <productDownloadFolder40e3c9b7-398e-4da1-b3e4-611906301d05>E:\Koko Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\25 Praline Sleeve - ONLINE</productDownloadFolder40e3c9b7-398e-4da1-b3e4-611906301d05>
-     <!--Christmas Poem Products-->
-    <productDownloadFoldera359863e-72e4-41d1-9210-cb0378ebae44>E:\Koko Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\16 Praline Sleeve - ONLINE</productDownloadFoldera359863e-72e4-41d1-9210-cb0378ebae44>
-    <productDownloadFolder73295adb-0c08-4065-99e5-0e1e3be85512>E:\Koko Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\25 Praline Sleeve - ONLINE</productDownloadFolder73295adb-0c08-4065-99e5-0e1e3be85512>
-    <!--Internal Products-->
-    <productDownloadFolder7538c0ed-eb7f-694f-e03f-e7356bfc0a66>E:\Koko Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\9 Praline Sleeve - ONLINE</productDownloadFolder7538c0ed-eb7f-694f-e03f-e7356bfc0a66>
-    <productDownloadFolder841d3b9b-5d81-fd5d-e86f-809e7b813468>E:\Koko Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\16 Praline Sleeve - ONLINE</productDownloadFolder841d3b9b-5d81-fd5d-e86f-809e7b813468>
-    <productDownloadFolder51abfe1c-7cdb-f49c-bb5e-3676bcfaca7d>E:\Koko Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\25 Praline Sleeve - ONLINE</productDownloadFolder51abfe1c-7cdb-f49c-bb5e-3676bcfaca7d>
-    <productDownloadFoldera24adc2a-6a04-2c17-af2d-c1639b20ec89>E:\Koko Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\Sleeve for  Allround GIFT CUBE - ONLINE</productDownloadFoldera24adc2a-6a04-2c17-af2d-c1639b20ec89>
-    <productDownloadFolder7449fe85-9b61-e217-2b5e-fc5e79b96a05>E:\Koko Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\49 SLEEVE - ONLINE</productDownloadFolder7449fe85-9b61-e217-2b5e-fc5e79b96a05>   
-    <productDownloadFolder7f9827a8-c84d-404e-b93f-4e789b8c9c45>E:\Koko Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\36 SLEEVE - ONLINE</productDownloadFolder3a8d35a5-b14a-7b01-08fb-3ddb49d72557> 
-    <!--Gift Cards Internal-->
-    <productDownloadFolderd073c56a-aa65-a266-f0f7-0707aa750339>E:\Koko Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\Gift Cards</productDownloadFolderd073c56a-aa65-a266-f0f7-0707aa750339>
-    <productDownloadFolderbb07d81a-2f7b-f171-223e-9d5357b8aa3a>E:\Koko Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\Gift Cards</productDownloadFolderbb07d81a-2f7b-f171-223e-9d5357b8aa3a>
-    <productDownloadFolder73f54a2b-e9e5-ef71-9902-eca145c51548>E:\Koko Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\Gift Cards</productDownloadFolder73f54a2b-e9e5-ef71-9902-eca145c51548>
-    <!--Easter Bunny Range-->
-    <productDownloadFolder5857ca2e-cd40-4568-ab8b-5889cdf79238>E:\Koko Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\Easter - Sleeve - Littlest Bunny</productDownloadFolder5857ca2e-cd40-4568-ab8b-5889cdf79238>
-    <productDownloadFolder43e3c645-0aed-4319-ba05-ce1692e428aa>E:\Koko Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\Easter - Sleeve - Double Trouble</productDownloadFolder43e3c645-0aed-4319-ba05-ce1692e428aa>
-    <productDownloadFolder1ccb6e3e-9e18-456e-ab19-4206d2bbb909>E:\Koko Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\Easter - Sleeve - Three of a kind</productDownloadFolder1ccb6e3e-9e18-456e-ab19-4206d2bbb909>
-    <productDownloadFolder0b5503e4-23b2-4c5f-a80e-9e4b8259b0b1>E:\Koko Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\Easter - Sleeve - Mightiest Bunny</productDownloadFolder0b5503e4-23b2-4c5f-a80e-9e4b8259b0b1>
-    <productDownloadFolder55de74b6-60c2-4546-993c-2fd539c46400>E:\Koko Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\Easter - Sleeve - Dozen Praline Eggs</productDownloadFolder55de74b6-60c2-4546-993c-2fd539c46400>
-
+    <productDownloadFolder**cbf29963-3eb6-444a-8f09-d6fb191c18f4**>C:\File Location\FoklderName</productDownloadFolder**cbf29963-3eb6-444a-8f09-d6fb191c18f4**>
+    <productDownloadFolder**ebde6100-2a99-44b8-ae6f-86c513a5ab23**>E:\Koko Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\16 Praline Sleeve - ONLINE</productDownloadFolder**ebde6100-2a99-44b8-ae6f-86c513a5ab23**>
      <writeCopies>true</writeCopies>
     <printerCount>1</printerCount>
 </configuration>
