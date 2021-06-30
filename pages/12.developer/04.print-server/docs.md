@@ -39,6 +39,31 @@ Step 3 - Repeat this process for each product
 Step 4 - Save the File  
 Step 5 - Restart the Service  
 
+## Sample App Config File
+ ```
+ <?xml version="1.0" encoding="utf-8"?>
+
+<configuration>
+<commandLineArgs>-sDEVICE=mswinpr2 -dORIENT1=false -dNOPROMPT -dPrinted -dBATCH -dNOPAUSE -dNOSAFER -q </commandLineArgs>
+<configUrl>https://services.spiff.com.au/agents/credentials</configUrl>
+<defaultPaperHeight>0.0</defaultPaperHeight>
+<defaultPaperWidth>0.0</defaultPaperWidth>
+<defaultPrinterName>Brother DCP-1510 series</defaultPrinterName>
+<deleteFileAfterPrinting>false</deleteFileAfterPrinting>
+<doPrinting>false</doPrinting>
+<downloadFolder>C:\File Location\Downloads</downloadFolder>
+<gsPrintExecutable>C:\Program Files\gs\gs9.23\bin\gswin64c.exe</gsPrintExecutable>
+<location>3f39351474974d9590c78203e9c0841d</location>
+<logFilePath>C:\spiff-print\print-server.log</logFilePath>
+<logLevel>Error</logLevel>
+<!--Main products-->
+<productDownloadFoldercbf29963-3eb6-444a-8f09-d6fb191c18f4>C:\File Location\FoklderName</productDownloadFoldercbf29963-3eb6-444a-8f09-d6fb191c18f4>
+<productDownloadFolderebde6100-2a99-44b8-ae6f-86c513a5ab23>C:\File Location\FoklderName</productDownloadFolder**ebde6100-2a99-44b8-ae6f-86c513a5ab23>
+<writeCopies>true</writeCopies>
+<printerCount>1</printerCount>
+</configuration>
+ ```
+
 
 ## Configruation Settings
 The print server is configured with XML and is found in the App.config file. The following is an incomplete list of the configuration items that are avaiable.
@@ -58,29 +83,7 @@ Step 3 - type in `print-server.exe uninstall`
 Step 4 - Ensure Spiff Print Server Agrent does not appear in the Services Window anymore.  
 Step 5 - Delete the Folder in program Files  
 
-```
-<?xml version="1.0" encoding="utf-8"?>
 
-<configuration>
-    <commandLineArgs>-sDEVICE=mswinpr2 -dORIENT1=false -dNOPROMPT -dPrinted -dBATCH -dNOPAUSE -dNOSAFER -q </commandLineArgs>
-    <configUrl>https://services.spiff.com.au/agents/credentials</configUrl>
-    <defaultPaperHeight>0.0</defaultPaperHeight>
-    <defaultPaperWidth>0.0</defaultPaperWidth>
-    <defaultPrinterName>Brother DCP-1510 series</defaultPrinterName>
-    <deleteFileAfterPrinting>false</deleteFileAfterPrinting>
-    <doPrinting>false</doPrinting>
-    <downloadFolder>E:\KOKO Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\Gift Cards</downloadFolder>
-    <gsPrintExecutable>C:\Program Files\gs\gs9.23\bin\gswin64c.exe</gsPrintExecutable>
-    <location>3f39351474974d9590c78203e9c0841d</location>
-    <logFilePath>C:/spiff-print/print-server.log</logFilePath>
-    <logLevel>Error</logLevel>
- <!--Main products-->
-    <productDownloadFolder**cbf29963-3eb6-444a-8f09-d6fb191c18f4**>C:\File Location\FoklderName</productDownloadFolder**cbf29963-3eb6-444a-8f09-d6fb191c18f4**>
-    <productDownloadFolder**ebde6100-2a99-44b8-ae6f-86c513a5ab23**>E:\Koko Common\RICOH PRINTER\WORKFLOWS\Fiery JobFlow\JobFlow_KOKOVM001\16 Praline Sleeve - ONLINE</productDownloadFolder**ebde6100-2a99-44b8-ae6f-86c513a5ab23**>
-     <writeCopies>true</writeCopies>
-    <printerCount>1</printerCount>
-</configuration>
-```
 
 ## Steps To Install Ghost Script. 
 
