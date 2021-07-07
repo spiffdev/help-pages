@@ -5,7 +5,7 @@ media_order: 'patchworkimage1.png,patchwork2.png,patchwork3.png,Screen Shot 2020
 
 ## Patchworks
 
-Patchworks allows users to create a unique background or region from a predefined set of SVG's or PNG's. Patchworks randomly extract a unique portion of your chosen deisgn by scaling and rotating around the object to display different perpectives of the same art.
+Patchworks allows users to create a unique background or region from a predefined set of SVG's. Patchworks randomly extract a unique portion of your chosen deisgn by scaling and rotating around the object to display different perpectives of the same art.
 
 ![](https://help.spiff.com.au/user/pages/04.Spiff-Concepts/04.step-types/06.patchworks/Screen%20Shot%202020-10-05%20at%203.55.58%20pm.png)
 
