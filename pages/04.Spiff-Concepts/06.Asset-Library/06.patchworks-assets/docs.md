@@ -21,8 +21,8 @@ Popular examples of this technology in use were when diet Coke and Nutella used 
 
 ### Remember
 
-* - Must be an SVG
-* - The more detail the better
+- Must be an SVG
+- The more detail the better
 
 ### How to Use
 
