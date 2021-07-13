@@ -55,8 +55,8 @@ Confirm that the configured product exists and is enabled. Calling this method a
 
 |Option|Type|Description|
 | ------ | --- |
-|integrationId|string|The integration for the given store front. If you don't know your integration ID login in to the spiff hub. It will be listed there. In the case of shopify it will be the URL to your store e.g. "store.myshopify.com"|
-|productId|string|The spiff product id for the current product. If you don't know your product ID loign to your eCommerce integration and check it from that control panel. In the case of shopify it will be a number like "3584328925261"|
+|integrationId|string|The unique identifier for your integration as known by your ecommerce platform. If you're not sure what this value is you can check it in the Spiff Hub. In the case of Shopify it will be the URL to your store e.g. "store.myshopify.com"|
+|productId|string|The ID of your product displayed within your ecommerce platform. In the case of shopify it will be a number like "3584328925261"|
 
 #### Usage
 
