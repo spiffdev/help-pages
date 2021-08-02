@@ -6,9 +6,9 @@ The spiff platform integrates seamlessly with any ecommerce infrastruce via our 
 
 Currently spiff has built specific plugins for the following Eccomerce Systems 
 
-* Shopify 
+* [Shopify](https://help.spiff.com.au/integrations/shopify) 
 * Bigcommerce
-* WooCommerce/Wordpress
+* [WooCommerce/Wordpress](https://help.spiff.com.au/integrations/wordpress)
 * [Neto](https://help.spiff.com.au/integrations/neto-plugin)
 
 Click on the relevant integration for installation instructions for each system. 
