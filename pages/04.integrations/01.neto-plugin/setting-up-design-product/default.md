@@ -1,5 +1,6 @@
 ---
 title: 'Setting Up Design Product'
+media_order: 'neto_product_page_img7.png,neto_products_add_img8.png,neto_product_config_img9.png'
 visible: true
 ---
 
