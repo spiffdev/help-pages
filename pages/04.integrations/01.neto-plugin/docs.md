@@ -8,4 +8,5 @@ For Neto customers, components of the setup will need to be created by the spiff
 
 ## Installation Process
 The merchant will install the spiff plugin app from the Neto add-on store which will redirect them to a page asking them to sign into their store account for verification. **Image reference  below.**
+
 ![](neto_signin_img.png)
