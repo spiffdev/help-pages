@@ -1,6 +1,6 @@
 ---
 title: 'Neto Plugin'
-media_order: 'neto_signin_img.png,hub_page_img2.png,hub_account_page_img3.png,neto_settings_sidebar_img4.png,neto_settings_page_img5.png,nto_api_page_img6.png,neto_product_page_img7.png,neto_products_add_img8.png,neto_product_config_img9.png'
+media_order: 'neto_signin_img.png,hub_page_img2.png,hub_account_page_img3.png,neto_settings_sidebar_img4.png,neto_settings_page_img5.png,nto_api_page_img6.png,neto_product_page_img7.png,neto_products_add_img8.png,neto_product_config_img9.png,neto_product_config_img10.png,neto_webstore_templates_page_img11.png,neto_webstore_templates_img12.png'
 ---
 
 ## Install Setup Instructions
@@ -57,3 +57,33 @@ Any other details that need to be added feel free to do so. To set up the design
 ![](neto_product_config_img9.png)
 
 ![](neto_product_config_img10.png)
+
+### Setting Up Custom Script
+At this point we have successfully created a new parent product but how do we get the spiff button to render on our page so we can click on it and initialise the experience? To do this we need to add some custom code in our Neto Custom Script section. But before we proceed to add our custom code we need to navigate to the **Webstore Templates** section in our Neto c-panel via the **Settings & Tools**. 
+
+Upon clicking into this section we are greeted with the stores template code. We specifically want to edit the product templates. Navigate to Web **Themes → storefront → templates → products → includes → buying_options.template.html**. If successful you should see this page down below.
+
+![](neto_webstore_templates_page_img11.png)
+
+Press onto any line in the code so we can start editing. If you are on a Mac press **Command + F** and if you are on Windows press **Ctrl + F** to bring up a search bar in the top right hand side of the code. Enter into the search bar **add to cart** to direct you to the correct area of the code we want to edit. **Image reference below.**
+
+![](neto_webstore_templates_img12.png)
+
+Add the block of code below to create a space where we can place our spiff button via the custom script. 
+
+```
+<div id='spiff-product'></div>
+```
+
+We then want to add the next block of code into the add to cart button tag so we can hide the cart button once our spiff button renders. (If this functionality is unwanted then feel free to skip this step)
+
+```
+data-spiff-hide data-product-id="[@SKU@]"
+```
+
+Your code should look something like this:
+
+![](neto_webstore_templates_img12.png)
+
+Once we have finished editing this template we want to **save** and navigate back to the template page we were on before. This time navigate to **Web Themes → storefront → templates → products → includes → child_products.template.html**. If successful you should see this page down below.
+
