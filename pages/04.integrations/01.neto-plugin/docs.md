@@ -51,7 +51,7 @@ Otherwise if you have products already created in your store you want to then cl
 * Add a **price** for your product (This price must be the same price of the spiff product created in hub under Base price) under **Pricing**
 * Add a **Image(s)** for the product under **Images**
 * Add a **SKU** for your product under **Inventory** (eg. spiff3d)
-* 
+
 Any other details that need to be added feel free to do so. To set up the design products this is all the information we are gonna need. Proceed to click **Continue setup** button on the bottom right hand side of the page. **Image reference below.**
 
 ![](neto_product_config_img9.png)
@@ -105,3 +105,106 @@ We have finished editing the template files. Now we need to navigate to the **Cu
 
 ![](neto_custom_scripts_img_16.png)
 
+#### Steps To Add Custom Code
+* Press on the **Add New** button to add a new custom script into our store. 
+* Name the custom script something like **Spiff-Button-Design-Product**.
+* At the bottom of the page press on **Product page (under description)**
+* Add this block of code in the field and press **Save** in the bottom right hand side of the page (Follow instructions by Neto to save the script and always double check to see if your changes have been saved)
+
+```
+<script type="text/javascript" async src="https://hub.spiff.com.au/cdn/api.js"></script>
+
+<script>
+var pageSessionId;
+var openDisplayProductWorkflowForProduct[@SKU@];
+window.addEventListener('SpiffApiReady', function() {
+const product = new window.Spiff.Product({
+  integrationId: '[@config:host_name@]',
+  productId: '[@sku@]'
+});
+
+const hideElements = () => {
+           const elements = document.querySelectorAll('[data-spiff-hide]');
+           elements.forEach(el => {
+               const externalProductId = el.getAttribute('data-product-id');
+               if (externalProductId === '[@sku@]') {
+                   el.style.display = 'none';
+               }
+           });
+       }
+
+ product.on('ready', () => {
+             hideElements();
+             const buttons = document.querySelectorAll('.spiff-api-button[data-product-id="[@sku@]"]');
+console.log(buttons);
+             if (pageSessionId === undefined){
+                pageSessionId = window.Spiff.Analytics.createPageSession();
+             }
+             for (button of buttons) {
+                 button.style.display = 'block';
+             }
+       });
+       product.confirmActive();
+
+openDisplayProductWorkflowForProduct[@sku@] = (event) => {
+           event.target.disabled = true;
+           event.preventDefault();
+           event.stopPropagation();
+
+            const spinnerSvg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+            spinnerSvg.setAttribute('height', event.target.clientHeight * 0.4);
+            spinnerSvg.setAttribute('width', event.target.clientHeight * 0.4);
+            spinnerSvg.setAttribute('viewBox', '0 0 66 66');
+            spinnerSvg.animate([{transform: 'rotate(0deg)'},{transform: 'rotate(360deg)'}], {duration: 1000, iterations: Infinity});
+            const spinnerCircle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+            spinnerCircle.setAttribute('cx', 33);
+            spinnerCircle.setAttribute('cy', 33);
+            spinnerCircle.setAttribute('fill', 'none');
+            spinnerCircle.setAttribute('r', 30);
+            spinnerCircle.setAttribute('stroke', 'black');
+            spinnerCircle.setAttribute('stroke-width', 6);
+            spinnerCircle.style = 'stroke-dasharray:45 180;';
+            spinnerSvg.appendChild(spinnerCircle);
+            event.target.appendChild(spinnerSvg);
+
+           const transactionOptions = {
+               presentmentCurrency: '[@config:defaultcurrency@]',
+               product: product,
+               shouldCreateDesignProduct: true,
+               pageSessionId
+           };
+           const transaction = new window.Spiff.Transaction(transactionOptions);
+           transaction.on('quit', () => {
+               event.target.removeChild(spinnerSvg);
+               event.target.disabled = false;
+               console.log("The user exited before completing their design");
+           });
+           transaction.on('complete', async (result) => {
+           document.getElementById("spiff-product").innerHTML = `
+                    <input type="hidden" id="spiff_sku" value='${result.designProductId}' />
+                     <input type="hidden" id="spiff_qty" value='1' />
+              `;
+             $.addCartItem('spiff_sku','spiff_qty');
+             event.target.removeChild(spinnerSvg);
+             event.target.disabled = false;
+           });
+           transaction.execute();
+       };
+});
+</script>
+    <script>
+        document.getElementById("spiff-product").innerHTML = `
+            <button
+                    class='spiff-api-button'
+                    id='spiff-product'
+                    data-product-id='[@sku@]'
+                    onclick="openDisplayProductWorkflowForProduct[@sku@](event)"
+                    style="display: none;color:#ffffff;background-color:#e12929;border-radius:4px;height:46px;width:100%;font-size:16px;font-family:Barlow,Arial,Helvetica;font-weight:600;"
+                >
+                Customise Now
+               </button>
+        `;
+    </script>
+```
+
+## Syncing Spiff Product with Neto Product
