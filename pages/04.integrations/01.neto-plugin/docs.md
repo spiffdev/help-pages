@@ -1,6 +1,6 @@
 ---
 title: 'Neto Plugin'
-media_order: 'neto_signin_img.png,hub_page_img2.png,hub_account_page_img3.png,neto_settings_sidebar_img4.png,neto_settings_page_img5.png,nto_api_page_img6.png,neto_product_page_img7.png,neto_products_add_img8.png,neto_product_config_img9.png,neto_product_config_img10.png,neto_webstore_templates_page_img11.png,neto_webstore_templates_img12.png'
+media_order: 'neto_signin_img.png,hub_page_img2.png,hub_account_page_img3.png,neto_settings_sidebar_img4.png,neto_settings_page_img5.png,nto_api_page_img6.png,neto_product_page_img7.png,neto_products_add_img8.png,neto_product_config_img9.png,neto_product_config_img10.png,neto_webstore_templates_page_img11.png,neto_webstore_templates_img12.png,neto_spiff_code_template_img13.png,neto_template_2_img14.png,neto_template_img_15.png,neto_custom_scripts_img_16.png'
 ---
 
 ## Install Setup Instructions
@@ -86,4 +86,22 @@ Your code should look something like this:
 ![](neto_webstore_templates_img12.png)
 
 Once we have finished editing this template we want to **save** and navigate back to the template page we were on before. This time navigate to **Web Themes → storefront → templates → products → includes → child_products.template.html**. If successful you should see this page down below.
+
+![](neto_template_2_img14.png)
+
+You want to then add this block of code on line 2. 
+
+```
+ <div id='spiff-product'></div>
+```
+
+Remember to **save and quit **once you have edited the code.
+
+Your code should look something like this.
+
+![](neto_template_img_15.png)
+
+We have finished editing the template files. Now we need to navigate to the **Custom Scripts** section via **Settings & Tools** from the left side bar. Then search for **Custom Scripts** and click onto it. If successful you should see the page below.
+
+![](neto_custom_scripts_img_16.png)
 
