@@ -4,7 +4,7 @@ title: 'Wordpress Plugin'
 
 Connect your WooCommerce store to the Spiff Editor and allow customers access to Spiff Workflows to personalise their products.
 
-== Description ==
+### Description
 
 The Spiff Connect plugin allows you to use Spiff with WooCommerce.
 
@@ -20,7 +20,7 @@ This is especially useful if your store offers products which have customization
 
 A further extension to this capability is the AR functionality of the Spiff app where the personalised product can activate an AR experience using the Spiff native mobile phone app.
 
-== Installation ==
+### Installation
 
 Prior to installing the Spiff Connect plugin you will have contacted Spiff to have an account assigned to you.
 
