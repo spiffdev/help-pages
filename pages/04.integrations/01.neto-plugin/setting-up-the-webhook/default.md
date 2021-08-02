@@ -1,5 +1,6 @@
 ---
 title: 'Setting Up The Webhook'
+media_order: 'neto_settings_sidebar_img4.png,neto_settings_page_img5.png'
 visible: true
 ---
 
