@@ -1,5 +1,6 @@
 ---
 title: 'Syncing Spiff Product With Neto Product'
+media_order: 'hub_product_page_img17.png,hub_product_page_img18.png'
 visible: true
 ---
 
