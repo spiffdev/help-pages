@@ -4,7 +4,6 @@ media_order: 'neto_settings_sidebar_img4.png,neto_settings_page_img5.png'
 visible: true
 ---
 
-## Setting up the Webhook
 To make sure your Neto store is connected to the Spiff webhook you need to navigate back to your Neto store. Once in the store on your left side panel navigate to **All Settings & Tools**. **Image reference below.**
 
 ![](neto_settings_sidebar_img4.png)
