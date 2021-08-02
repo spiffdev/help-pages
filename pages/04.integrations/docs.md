@@ -9,7 +9,7 @@ Currently spiff has built specific plugins for the following Eccomerce Systems
 * Shopify 
 * Bigcommerce
 * WooCommerce/Wordpress
-*[Neto](https://help.spiff.com.au/integrations/neto-plugin)
+[Neto](https://help.spiff.com.au/integrations/neto-plugin)
 
 Click on the relevant integration for installation instructions for each system. 
 
