@@ -2,8 +2,7 @@
 title: 'Neto Plugin'
 ---
 
-Install Setup Instructions
-
+## Install Setup Instructions
 For Neto customers, components of the setup will need to be created by the spiff3D integrations team.
 
 ## Installation Process
