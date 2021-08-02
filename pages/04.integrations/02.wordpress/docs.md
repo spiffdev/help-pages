@@ -1,5 +1,5 @@
 ---
-title: Wordpress
+title: 'Wordpress Plugin'
 ---
 
 Connect your WooCommerce store to the Spiff Editor and allow customers access to Spiff Workflows to personalise their products.
