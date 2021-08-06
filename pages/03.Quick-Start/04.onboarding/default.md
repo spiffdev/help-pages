@@ -106,4 +106,4 @@ Step groups are the ability to display more than one step on the same page for t
 Next step:
 
 #### Shopify
-### [Installing the snippet](https://help.spiff.com.au/ecommerce-plugins/shopify/installing-snippets)
+### [Installing the snippet](https://help.spiff.com.au/integrations/shopify/installing-snippets)
