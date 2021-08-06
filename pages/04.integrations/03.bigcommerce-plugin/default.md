@@ -27,6 +27,4 @@ Having succesfully installed, you will be automatically directed via an iframe t
 
 ![](spiff_hub_page.png)
 
-Next Step:
-
-[Onboarding](https://help.spiff.com.au/quick-start/onboarding)
+To onboard click [here](https://help.spiff.com.au/quick-start/onboarding)
