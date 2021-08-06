@@ -8,7 +8,7 @@ title: Onboarding
 - You have any design assets ready for upload. E.g fonts, illustrations (SVG's) and images (PNG's and JPG's) 
 - You have products already installed on your ecommerce site. 
 
-*** Note: If your store is live and you want to test without affecting live products set up a test theme by duplicating your live theme. Then re-name the copy of your live theme to spiff_yourstorename and install the snippet explained below on this theme and not on your live site. 
+**Note: If your store is live and you want to test without affecting live products set up a test theme by duplicating your live theme. Then re-name the copy of your live theme to spiff_yourstorename and install the snippet explained below on this theme and not on your live site. **
 
 ### Key Concepts 
 Spiff Architecture - It doesnt matter in which order you start, but in order to get your first product up and running you need to do three things:
