@@ -30,7 +30,7 @@ To find out more, click on the relevant platform for a detailed step by step
 
 - [Shopify](https://help.spiff.com.au/integrations/shopify)  
 - [WooCommerce/Wordpress](https://help.spiff.com.au/integrations/wordpress)
-- [Bigcommerce](https://help.spiff.com.au/integrations/bigcommerce-plugin)
+- [BigCommerce](https://help.spiff.com.au/integrations/bigcommerce-plugin)
 - [Neto](https://help.spiff.com.au/integrations/neto-plugin)
 
 Onboarding complete!
