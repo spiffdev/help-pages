@@ -16,7 +16,7 @@ Spiff contniues is journey towards allowing merchants full control over their wo
 - Vertical Text - Text appears top to bottom instead of left to right
 - Text Justification - Centre, Left and Right  
 
-![](https://help.spiff.com.au/user/pages/06.recent-updates/Screen%20Shot%202020-05-14%20at%206.32.34%20am.png)  
+![](Screen%20Shot%202020-05-14%20at%206.32.34%20am.png)
 
 #### How to get to the Add text step
 - Log into spiff hub
