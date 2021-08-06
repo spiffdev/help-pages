@@ -17,7 +17,15 @@ You will then need to confirm to give Spiff access to your BigCommerce store. Al
 
 ![](Screen%20Shot%202021-08-06%20at%2011.07.47%20am.png)
 
-You will then be authenticated and an iframe will load the Spiff Hub within your sandbox store. Here you can **Create Products**, **Create Workflows**, **Upload assets** and many more. **Image reference below**.
+Having succesfully installed, you will be automatically directed via an iframe to the Spiff Hub where you will create your first product onboarding. The primary goal of this process is to have you:
+
+* Select a **product** from your store that you want to **Personalize/Customize**
+* **Create a workflow** - Configurable steps that build the customer journey
+* Order content required to execute this experience or link to existing public asset.
+* Render Personalise Now Button
+* **Choose a Plan** (You can start on the teaser with free trial)
+* Test - Display a 3D product with steps using spiff in your store
+
 
 ![](spiff_hub_page.png)
 
