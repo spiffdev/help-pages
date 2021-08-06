@@ -18,11 +18,11 @@ No credit cards required upfront. Free trial period of 14 days applies so instal
 
 Having succesfully installed, you will be automatically directed through the spiff create your first product onboarding. 
 The primary goal of this process is to have you: 
-- Name your partner account (automatic for Shopify and Neto) 
-- Create a product from your store that you want to Personalize/Customize (For Shopify this links directly to your store products)
+- Name your partner account (automatic for **Shopify** and **Neto**) 
+- Create a product from your store that you want to Personalize/Customize (For **Shopify** this links directly to your store products)
 - Create a workflow - Configurable steps that build the customer journey
 - Order content required to execute this experience or link to an existing public asset.
-- Render Personalise Now Button (For shopify via snippet, worpress no snippet is required, neto via custom script, bigcommerce no snippet required) 
+- Render Personalise Now Button (For **shopify** via snippet, **worpress** no snippet is required, **neto** via custom script, **bigcommerce** no snippet required) 
 - Choose a Plan (You can start on the teaser with free trial) 
 - Test - Display a 3D product with steps using spiff in your store
 
