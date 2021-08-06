@@ -78,12 +78,27 @@ Step groups are the ability to display more than one step on the same page for t
 - Steps will play in order that they appear and can be moved around by selecting the step and moving it to your preferred position in the workflow. 
 - Click **Save Workflow**
 
-### Complete Product Setup 
+### Complete Product Setup
+
+#### **Shopify, BigCommerce and WooCommerce**
 - Click on the relevant product in the products tab in the spiff toolbar
 - Open the product
 - Click **edit**
 - Click **exisiting** next to the 3D model upload
 - Link the relevant uploaded 3D model
 - Below the save button click on **workflows**
-- Type in the name of the workflow you created and select it 
+- Type in the name of the workflow you created and select it
+- **Save product**
+
+#### **Neto**
+ Click on the relevant product in the products tab in the spiff toolbar
+- Open the product
+- Click **edit**
+- Click **exisiting** next to the 3D model upload
+- Link the relevant uploaded 3D model
+- Below the save button click on **workflows**
+- Type in the name of the workflow you created and select it
+- Scroll down to the **add a integration** section and add your current integration you wish to sync this spiff product too
+- Press on the three dots on the right and click **edit**
+- Add the sku id of the neto product you wish to sync this spiff product too
 - **Save product**
