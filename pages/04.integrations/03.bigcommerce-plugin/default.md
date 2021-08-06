@@ -22,11 +22,8 @@ Having succesfully installed, you will be automatically directed via an iframe t
 * Select a **product** from your store that you want to **Personalize/Customize**
 * **Create a workflow** - Configurable steps that build the customer journey
 * Order content required to execute this experience or link to existing public asset.
-* Render Personalise Now Button
 * **Choose a Plan** (You can start on the teaser with free trial)
 * Test - Display a 3D product with steps using spiff in your store
 
-
 ![](spiff_hub_page.png)
-
 
