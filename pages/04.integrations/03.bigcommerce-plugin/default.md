@@ -29,4 +29,4 @@ Having succesfully installed, you will be automatically directed via an iframe t
 
 Next Step:
 
-[Onboarding](https://help.spiff.com.au//quick-start/onboarding)
+[Onboarding](https://help.spiff.com.au/quick-start/onboarding)
