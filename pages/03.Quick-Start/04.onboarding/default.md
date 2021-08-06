@@ -102,3 +102,8 @@ Step groups are the ability to display more than one step on the same page for t
 - Press on the three dots on the right and click **edit**
 - Add the **SKU** of the neto product you wish to sync this spiff product too
 - **Save product**
+
+Next step:
+
+#### Shopify
+### [Installing the snippet](https://help.spiff.com.au/quick-start/shopify/installing-snippets)
