@@ -27,7 +27,7 @@ The primary goal of this process is to have you:
 - Choose a Plan (You can start on the teaser with free trial) 
 - Test - Display a 3D product with steps using spiff in your store
 
-### Render the Personalise Now Button 
+## Render the Personalise Now Button 
 ![](Screen%20Shot%202020-05-05%20at%206.32.01%20am.png?lightbox=1200,600&resize=600,400)![](Screen%20Shot%202020-05-05%20at%206.32.58%20am.png?lightbox=1200,800&resize=600,400)
 
 In the 2 examples above you can see that the **spiff button can either augment or replace the add-to-cart button**.
@@ -62,6 +62,3 @@ If you wish to customise the look of the button, you can supply arguments for te
 ```
 
 Once you have installed the snippet, created a workflow and linked a 3D model, your product should display in the live store. 
-
-Onboarding complete!
-
