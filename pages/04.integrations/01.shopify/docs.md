@@ -19,13 +19,7 @@ Next, you are presented with the standard pre-install page from Shopify which ma
 ![](Screen%20Shot%202020-04-29%20at%206.22.55%20am.png)
 
 Having succesfully installed, you will be automatically directed through the spiff create your first product onboarding. 
-The primary goal of this process is to have you: 
-- Select a product from your store that you want to Personalize/Customize
-- Create a workflow - Configurable steps that build the customer journey
-- Order content required to execute this experience or link to existing public asset.
-- Render Personalise Now Button 
-- Choose a Plan (You can start on the teaser with free trial) 
-- Test - Display a 3D product with steps using spiff in your store
+Click [here](https://help.spiff.com.au/admin/pages/quick-start/onboarding) to start your onbaording process.
 
 ## Render the Personalise Now Button 
 ![](Screen%20Shot%202020-05-05%20at%206.32.01%20am.png?lightbox=1200,600&resize=600,400)![](Screen%20Shot%202020-05-05%20at%206.32.58%20am.png?lightbox=1200,800&resize=600,400)
