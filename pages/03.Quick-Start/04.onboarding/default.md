@@ -18,13 +18,13 @@ Spiff Architecture - It doesnt matter in which order you start, but in order to 
 
 ### Create your product
 
-#### **Shopify, BigCommerce and WooCommerce**
+#### **Shopify and BigCommerce**
 - Click on the create products button on the home page in the spiff hub accessable through the app button in your ecommerce store
 - Your products will begin to load from your store. Depending on how many products you have in your store, this could take up to 1 minute
 - Search for your product in the search bar at the top of the page
 - Click the select product button in the top right corner of the page
 
-#### **Neto**
+#### **Neto and WooCommerce**
 - Click on the create products button on the home page in the spiff hub accessable through the app button in your ecommerce store. 
 - Fill in the required information to create your new product such as **name**, **price** etc.
 - Click **create product** in the top right hand side of the page once you are done
@@ -80,7 +80,7 @@ Step groups are the ability to display more than one step on the same page for t
 
 ### Complete Product Setup
 
-#### **Shopify, BigCommerce and WooCommerce**
+#### **Shopify and BigCommerce**
 - Click on the relevant product in the products tab in the spiff toolbar
 - Open the product
 - Click **edit**
@@ -90,7 +90,7 @@ Step groups are the ability to display more than one step on the same page for t
 - Type in the name of the workflow you created and select it
 - **Save product**
 
-#### **Neto**
+#### **Neto and WooCommerce**
  Click on the relevant product in the products tab in the spiff toolbar
 - Open the product
 - Click **edit**
