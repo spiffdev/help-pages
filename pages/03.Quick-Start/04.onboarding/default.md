@@ -100,5 +100,5 @@ Step groups are the ability to display more than one step on the same page for t
 - Type in the name of the workflow you created and select it
 - Scroll down to the **add a integration** section and add your current integration you wish to sync this spiff product too
 - Press on the three dots on the right and click **edit**
-- Add the sku id of the neto product you wish to sync this spiff product too
+- Add the **SKU** of the neto product you wish to sync this spiff product too
 - **Save product**
