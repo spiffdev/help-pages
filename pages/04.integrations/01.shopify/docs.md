@@ -18,7 +18,8 @@ Next, you are presented with the standard pre-install page from Shopify which ma
 
 ![](Screen%20Shot%202020-04-29%20at%206.22.55%20am.png)
 
-Having succesfully installed, you will be automatically directed through the spiff create your first product onboarding. 
+Having succesfully installed, you will be automatically directed through the spiff create your first product onboarding.
+
 Click [here](https://help.spiff.com.au/admin/pages/quick-start/onboarding) to start your onbaording process.
 
 ## Render the Personalise Now Button 
