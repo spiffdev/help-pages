@@ -8,7 +8,7 @@ Spiff as a plugin integrates with almost any ecommerce platform.
 
 For **Shopify**: Merchants will find spiff in the [Shopify app store ](https://apps.shopify.com/spiff-connect?surface_detail=product+customiser&surface_inter_position=1&surface_intra_position=4&surface_type=search).
 
-For **Wordpress**: Simply go to [](https://app.spiff.com.au) and sign up for a free account to create a partner. A Partner is the name of your online store. Follow the onboarding processs to create your partner account, first product and first workflow and then book a meeting with a spiff specialist to help install the app on your store.
+For **Wordpress**: Simply go to [https://app.spiff.com.au](https://app.spiff.com.au) and sign up for a free account to create a partner. A Partner is the name of your online store. Follow the onboarding processs to create your partner account, first product and first workflow and then book a meeting with a spiff specialist to help install the app on your store.
 
 For **BigCommerce**: Merchants will find Spiff in the [BigCommerce marketplace](https://www.bigcommerce.com/apps/spiff-3d-product-customizer/?search=spiff).
 
