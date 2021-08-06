@@ -2,9 +2,9 @@
 title: 'Ecommerce Plugins'
 ---
 
-The spiff platform integrates seamlessly with any ecommerce infrastruce via our [Javascript API](https://help.spiff.com.au/developer/javascript-api).  
+The spiff platform integrates seamlessly with any ecommerce infrastructure via our [Javascript API](https://help.spiff.com.au/developer/javascript-api).  
 
-Currently spiff has built specific plugins for the following Eccomerce Systems 
+Currently spiff has built specific plugins for the following Ecommerce Systems 
 
 * [Shopify](https://help.spiff.com.au/integrations/shopify) 
 * [Bigcommerce](https://help.spiff.com.au/integrations/bigcommerce-plugin)
