@@ -1,5 +1,6 @@
 ---
 title: 'Product Displays'
+published: false
 ---
 
 This is the display that generally renders to the left side of the workflow and takes up between 50-75% of the screen depending on the users screen size and resolution. 
