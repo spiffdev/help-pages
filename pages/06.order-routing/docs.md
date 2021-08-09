@@ -5,7 +5,7 @@ media_order: 'orders page.png,vieworders.png'
 
 Your customer has just placed their order, what happens now ? Spiff has developed one of the most sophisticated order routing systems in the market. 
 
-We deliver order information in two ways. **Order Metadata** and **Print Ready PDF's**
+We deliver order information in two ways. **Order Metadata** and **Print Ready PDF, PNG, SVG or JPG**
 
 ### Order Metadata (Order information)
 Order Metadata is all the information your user has entered given to you in an order summary. By Default, this order summary appears against the order number on the Orders page in the spiff Hub. The orders page is set to show only todays orders. To show orders from the past click on the date picker in the top right of that page. Quickly naviagate to orders for yesterday and month to date or select a custom date range. 
