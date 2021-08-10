@@ -2,6 +2,7 @@
 title: 'Recent Updates'
 media_order: 'Screen Shot 2020-05-14 at 6.32.34 am.png'
 published: false
+routable: true
 visible: true
 ---
 
