@@ -9,4 +9,4 @@ title: 'Recent Updates'
    position: absolute;
    top: 0;
    width: 100%;" 
-   src="https://announcekit.co/spiff-3d/announcements" frameborder="yes"></iframe>
+   src="https://announcekit.co/spiff-3d/announcements" frameborder="no"></iframe>
