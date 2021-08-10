@@ -6,31 +6,6 @@ routable: true
 visible: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [14th May 2020 SpiffBlog](https://spiff.com.au/blog/)  For Techinical details [Add Text](https://help.spiff.com.au/spiff-concepts/step-types/add-text)
 
 ### Text Attributes
