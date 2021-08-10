@@ -2,6 +2,7 @@
 title: 'Recent Updates'
 media_order: 'Screen Shot 2020-05-14 at 6.32.34 am.png'
 published: false
+visible: true
 ---
 
 <iframe id="iframe-responsive" src="https://announcekit.co/spiff-3d/announcements" frameborder="no"></iframe>
